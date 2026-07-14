@@ -28,7 +28,7 @@ jobs:
     - name: Grab Skylife EPG Data
       run: |
         cd epg-tool
-        npm run grab -- --sites=skylife.co.kr --output=../korea_guide.xml
+        npm run grab -- --sites=skylife.co.kr,tv.cctv.com --output=../korea_guide.xml
 
     # ✨ [추가된 단계] 연합뉴스 채널명 호환성 태그 삽입
     - name: Inject Custom Channel Names
