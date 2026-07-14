@@ -1,0 +1,40 @@
+name: Update Skylife EPG Daily
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 5시(UTC 20:00)에 자동 실행
+    - cron: '0 20 * * *'
+  workflow_dispatch: # 언제든 수동으로 실행할 수 있는 버튼 활성화
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Clone iptv-org/epg tool
+      run: |
+        git clone --depth 1 https://github.com/iptv-org/epg.git epg-tool
+        cd epg-tool
+        npm install
+
+    - name: Grab Skylife EPG Data
+      run: |
+        cd epg-tool
+        # --sites 옵션을 사용하여 스카이라이프 전체 채널을 korea_guide.xml 파일로 추출
+        npm run grab -- --sites=skylife.co.kr --output=../korea_guide.xml
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add korea_guide.xml
+        git commit -m "Update Skylife EPG: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+        git push
