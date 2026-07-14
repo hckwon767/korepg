@@ -28,13 +28,18 @@ jobs:
     - name: Grab Skylife EPG Data
       run: |
         cd epg-tool
-        # --sites 옵션을 사용하여 스카이라이프 전체 채널을 korea_guide.xml 파일로 추출
         npm run grab -- --sites=skylife.co.kr --output=../korea_guide.xml
+
+    # ✨ [추가된 단계] 연합뉴스 채널명 호환성 태그 삽입
+    - name: Inject Custom Channel Names
+      run: |
+        # 원래 있던 연합뉴스TV 줄 바로 밑에 '연합뉴스' 디스플레이 네임을 가진 줄을 강제로 추가합니다.
+        sed -i '/<channel id="4004#566"><display-name>연합뉴스TV<\/display-name><\/channel>/a \  <channel id="4004#566"><display-name>연합뉴스<\/display-name><\/channel>' korea_guide.xml
 
     - name: Commit and Push Changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add korea_guide.xml
-        git commit -m "Update Skylife EPG: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+        git commit -m "Update Skylife EPG (with patches): $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
         git push
