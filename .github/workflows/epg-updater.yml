@@ -34,7 +34,7 @@ jobs:
     - name: Inject Custom Channel Names
       run: |
         # 원래 있던 연합뉴스TV 줄 바로 밑에 '연합뉴스' 디스플레이 네임을 가진 줄을 강제로 추가합니다.
-        sed -i '/<channel id="4004#566"><display-name>연합뉴스TV<\/display-name><\/channel>/a \  <channel id="4004#566"><display-name>연합뉴스<\/display-name><\/channel>' korea_guide.xml
+        sed -i '/<channel id="4004#566"><display-name>연합뉴스TV<\/display-name><\/channel>/a \<channel id="4004#566"><display-name>연합뉴스<\/display-name><\/channel>' korea_guide.xml
 
     - name: Commit and Push Changes
       run: |
