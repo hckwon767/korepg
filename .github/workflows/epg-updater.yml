@@ -30,27 +30,26 @@ jobs:
         cd epg-tool
         npm run grab -- --sites=skylife.co.kr,tv.cctv.com --output=../korea_guide.xml
 
-    # ✨ [추가된 단계] 연합뉴스 채널명 호환성 태그 삽입
+    # ✨ [수정 완료] 구분자를 | 기호로 변경하여 이스케이프 에러 방지
     - name: Inject Custom Channel Names
       run: |
-        # 원래 있던 연합뉴스TV 줄 바로 밑에 '연합뉴스' 디스플레이 네임을 가진 줄을 강제로 추가합니다.
-        sed -i '/<channel id="4004#566"><display-name>연합뉴스TV<\/display-name><\/channel>/a \<channel id="4004#566"><display-name>연합뉴스<\/display-name><\/channel>' korea_guide.xml
-        sed -i '/<channel id="4009#555"><display-name>tvN DRAMA<\/display-name><\/channel>/a \<channel id="4009#555"><display-name>tvN드라마<\/display-name><\/channel>' korea_guide.xml
-        sed -i '/<channel id="4009#282"><display-name>tvN SHOW</display-name></channel>/a \<channel id="4009#282"><display-name>tvN쇼</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#272"><display-name>tvN STORY</display-name></channel>/a \<channel id="4009#272"><display-name>tvN스토리</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4006#509"><display-name>KBS Story</display-name></channel>/a \<channel id="4006#509"><display-name>KBSStory</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4011#291"><display-name>KBS LIFE</display-name></channel>/a \<channel id="4011#291"><display-name>KBSLIFE</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4006#910"><display-name>KBS Drama</display-name></channel>/a \<channel id="4006#910"><display-name>KBSDrama</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4012#596"><display-name>KBS Kids</display-name></channel>/a \<channel id="4012#596"><display-name>KBSKids</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#968"><display-name>KBS Joy</display-name></channel>/a \<channel id="4009#968"><display-name>KBSJoy</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#627"><display-name>채널A플러스</display-name></channel>/a \<channel id="4009#627"><display-name>채널A Plus</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4012#84"><display-name>애니박스</display-name></channel>/a \<channel id="4012#84"><display-name>ANIBOX</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4006#857"><display-name>MBC드라마</display-name></channel>/a \<channel id="4006#857"><display-name>MBCDrama</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#58"><display-name>MBC Every1</display-name></channel>/a \<channel id="4009#58"><display-name>MBCEvery1</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#126"><display-name>MBC M</display-name></channel>/a \<channel id="4009#126"><display-name>MBCM</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4006#96"><display-name>MBC ON</display-name></channel>/a \<channel id="4006#96"><display-name>MBCON</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4009#85"><display-name>K STAR</display-name></channel>/a \<channel id="4009#85"><display-name>K-STAR</display-name></channel>' korea_guide.xml
-        sed -i '/<channel id="4012#56"><display-name>애니원</display-name></channel>/a \<channel id="4012#56"><display-name>ANIONE</display-name></channel>' korea_guide.xml        
+        sed -i '\|<channel id="4004#566"><display-name>연합뉴스TV</display-name></channel>|a <channel id="4004#566"><display-name>연합뉴스</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#555"><display-name>tvN DRAMA</display-name></channel>|a <channel id="4009#555"><display-name>tvN드라마</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#282"><display-name>tvN SHOW</display-name></channel>|a <channel id="4009#282"><display-name>tvN쇼</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#272"><display-name>tvN STORY</display-name></channel>|a <channel id="4009#272"><display-name>tvN스토리</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4006#509"><display-name>KBS Story</display-name></channel>|a <channel id="4006#509"><display-name>KBSStory</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4011#291"><display-name>KBS LIFE</display-name></channel>|a <channel id="4011#291"><display-name>KBSLIFE</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4006#910"><display-name>KBS Drama</display-name></channel>|a <channel id="4006#910"><display-name>KBSDrama</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4012#596"><display-name>KBS Kids</display-name></channel>|a <channel id="4012#596"><display-name>KBSKids</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#968"><display-name>KBS Joy</display-name></channel>|a <channel id="4009#968"><display-name>KBSJoy</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#627"><display-name>채널A플러스</display-name></channel>|a <channel id="4009#627"><display-name>채널A Plus</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4012#84"><display-name>애니박스</display-name></channel>|a <channel id="4012#84"><display-name>ANIBOX</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4006#857"><display-name>MBC드라마</display-name></channel>|a <channel id="4006#857"><display-name>MBCDrama</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#58"><display-name>MBC Every1</display-name></channel>|a <channel id="4009#58"><display-name>MBCEvery1</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#126"><display-name>MBC M</display-name></channel>|a <channel id="4009#126"><display-name>MBCM</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4006#96"><display-name>MBC ON</display-name></channel>|a <channel id="4006#96"><display-name>MBCON</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4009#85"><display-name>K STAR</display-name></channel>|a <channel id="4009#85"><display-name>K-STAR</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4012#56"><display-name>애니원</display-name></channel>|a <channel id="4012#56"><display-name>ANIONE</display-name></channel>' korea_guide.xml
 
     - name: Commit and Push Changes
       run: |
