@@ -50,6 +50,7 @@ jobs:
         sed -i '\|<channel id="4006#96"><display-name>MBC ON</display-name></channel>|a <channel id="4006#96"><display-name>MBCON</display-name></channel>' korea_guide.xml
         sed -i '\|<channel id="4009#85"><display-name>K STAR</display-name></channel>|a <channel id="4009#85"><display-name>K-STAR</display-name></channel>' korea_guide.xml
         sed -i '\|<channel id="4012#56"><display-name>애니원</display-name></channel>|a <channel id="4012#56"><display-name>ANIONE</display-name></channel>' korea_guide.xml
+        sed -i '\|<channel id="4004#132"><display-name>MTN 머니투데이방송</display-name></channel>|a <channel id="4004#132"><display-name>머니투데이방송</display-name></channel>' korea_guide.xml
 
     - name: Commit and Push Changes
       run: |
