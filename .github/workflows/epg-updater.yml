@@ -2,8 +2,8 @@ name: Update Skylife EPG Daily
 
 on:
   schedule:
-    # 매일 6시간마다 자동 실행
-    - cron: '0 */6 * * *'
+    # 매일 8시간마다 자동 실행
+    - cron: '0 */8 * * *'
   workflow_dispatch: # 언제든 수동으로 실행할 수 있는 버튼 활성화
 
 jobs:
