@@ -544,8 +544,8 @@
 <programme start="20260808195000 +0000" stop="20260808203000 +0000" channel="4003#564"><title lang="ko">채널A 스페셜 30분간의 세계 여행</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260808203000 +0000" stop="20260808213000 +0000" channel="4003#564"><title lang="ko">잘 살면 좋잖아</title><desc lang="ko">잘 살면 좋잖아~ 평균 연령도 높아졌다는데 이제는 더 오래 건강하게 살아야 한다는데! 나이가 들수록 잘 사는 방법은 어렵다. 하지만 우리에겐 따뜻한 이웃이 있다! 아파트 반상회에서 만난 주민들과 함께 다양한 삶의 고민을 털어놓고 더 잘 살 수 있는 방법을 나눠 본다.</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260808213000 +0000" stop="20260808223000 +0000" channel="4003#564"><title lang="ko">알아야산다</title><desc lang="ko">지피지기면 백전백승 병을 알아야 병을 이길 수 있다! 1개의 병에 주원인도 여러 가지, 1개의 병에 합병증도 여러 가지, 1개의 병에 치료법도 여러 가지. &apos;자신의 병에 있어 가장 완벽한 의사는 본인이다!&apos; 대체 병(病)은 왜 생겼는지? 치료를 위해 무엇을 피하고, 무엇을 바꾸고, 무엇을 먹어야 하는지? 명의들의 특강 속 퀴즈를 풀며 배워보는 알아야 산다!</desc><credits><actor>김용만</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260808223000 +0000" stop="20260808233000 +0000" channel="4003#564"><title lang="ko">건강스페셜 한양촌</title><desc lang="ko">건강 스페셜</desc><credits><actor>김정근</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260808233000 +0000" stop="20260809003000 +0000" channel="4003#564"><title lang="ko">생존의 단서 블랙박스</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808223000 +0000" stop="20260808233000 +0000" channel="4003#564"><title lang="ko">알아야산다</title><desc lang="ko">지피지기면 백전백승 병을 알아야 병을 이길 수 있다! 1개의 병에 주원인도 여러 가지, 1개의 병에 합병증도 여러 가지, 1개의 병에 치료법도 여러 가지. &apos;자신의 병에 있어 가장 완벽한 의사는 본인이다!&apos; 대체 병(病)은 왜 생겼는지? 치료를 위해 무엇을 피하고, 무엇을 바꾸고, 무엇을 먹어야 하는지? 명의들의 특강 속 퀴즈를 풀며 배워보는 알아야 산다!</desc><credits><actor>김용만</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260808233000 +0000" stop="20260809003000 +0000" channel="4003#564"><title lang="ko">알아야산다</title><desc lang="ko">지피지기면 백전백승 병을 알아야 병을 이길 수 있다! 1개의 병에 주원인도 여러 가지, 1개의 병에 합병증도 여러 가지, 1개의 병에 치료법도 여러 가지. &apos;자신의 병에 있어 가장 완벽한 의사는 본인이다!&apos; 대체 병(病)은 왜 생겼는지? 치료를 위해 무엇을 피하고, 무엇을 바꾸고, 무엇을 먹어야 하는지? 명의들의 특강 속 퀴즈를 풀며 배워보는 알아야 산다!</desc><credits><actor>김용만</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260809003000 +0000" stop="20260809013000 +0000" channel="4003#564"><title lang="ko">건강한 식당</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809013000 +0000" stop="20260809023000 +0000" channel="4003#564"><title lang="ko">개와 늑대의 시간 2 스페셜</title><desc lang="ko">반려견의 문제 행동 이면에 있는 보호자의 원인까지 함께 들여다보는 리얼리티 예능 프로그램</desc><credits><actor>김성주</actor><actor>강형욱</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260809023000 +0000" stop="20260809030000 +0000" channel="4003#564"><title lang="ko">브랜딩 코리아</title><category lang="ko">시사/다큐</category></programme>
@@ -3708,11 +3708,12 @@
 <programme start="20260807230000 +0000" stop="20260808003000 +0000" channel="4007#109"><title lang="ko">[김상식 감독 특집] 스포타임 풋볼 스페셜</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808003000 +0000" stop="20260808012500 +0000" channel="4007#109"><title lang="ko">스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808012500 +0000" stop="20260808043000 +0000" channel="4007#109"><title lang="ko">2026 메이저리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808043000 +0000" stop="20260808053000 +0000" channel="4007#109"><title lang="ko">2026 WTT 탁구 챔피언스 요코하마</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808043000 +0000" stop="20260808053000 +0000" channel="4007#109"><title lang="ko">스포타임 야구랭킹쇼</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808053000 +0000" stop="20260808063000 +0000" channel="4007#109"><title lang="ko">스포타임 손흥민 스페셜</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808063000 +0000" stop="20260808080000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808080000 +0000" stop="20260808090000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808090000 +0000" stop="20260808110000 +0000" channel="4007#109"><title lang="ko">스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808063000 +0000" stop="20260808083000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808083000 +0000" stop="20260808093000 +0000" channel="4007#109"><title lang="ko">스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="4007#109"><title lang="ko">2026 WTT 탁구 챔피언스 요코하마</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808100000 +0000" stop="20260808110000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808110000 +0000" stop="20260808120000 +0000" channel="4007#109"><title lang="ko">스포타임 손흥민 스페셜</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808120000 +0000" stop="20260808130000 +0000" channel="4007#109"><title lang="ko">스포 타임머신 AI 리마스터드</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808130000 +0000" stop="20260808150000 +0000" channel="4007#109"><title lang="ko">Full로 보는 스포 타임머신 AI 리마스터드</title><category lang="ko">스포츠</category></programme>
@@ -3894,11 +3895,11 @@
 <programme start="20260807195000 +0000" stop="20260807215500 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260807215500 +0000" stop="20260807235000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260807235000 +0000" stop="20260808020000 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808020000 +0000" stop="20260808040000 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808040000 +0000" stop="20260808053000 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808053000 +0000" stop="20260808072000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808072000 +0000" stop="20260808091000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808091000 +0000" stop="20260808104500 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808020000 +0000" stop="20260808041500 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808041500 +0000" stop="20260808053000 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808053000 +0000" stop="20260808074000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808074000 +0000" stop="20260808094000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808094000 +0000" stop="20260808104500 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808104500 +0000" stop="20260808130000 +0000" channel="4007#447"><title lang="ko">하나은행 K리그1 2026</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808130000 +0000" stop="20260808145000 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808145000 +0000" stop="20260808165000 +0000" channel="4007#447"><title lang="ko">2026 오리건 세계 U20 육상선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -4123,19 +4124,20 @@
 <programme start="20260808135800 +0000" stop="20260808160500 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808135800 +0000" stop="20260808160500 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
 <programme start="20260808160500 +0000" stop="20260808175800 +0000" channel="4007#911"><title lang="ko">2024 솔향강릉기 전국 리틀야구대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808175800 +0000" stop="20260808200000 +0000" channel="4007#911"><title lang="ko">에스와이 PBA 챔피언십 2026-2027</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="4007#911"><title lang="ko">2023 전국 남녀 종합 탁구 선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260808220000 +0000" stop="20260808233000 +0000" channel="4007#911"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260808233000 +0000" stop="20260809000000 +0000" channel="4007#911"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809000000 +0000" stop="20260809020000 +0000" channel="4007#911"><title lang="ko">2024 구례 전국 여자 천하장사 및 대학장사 씨름대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809020000 +0000" stop="20260809040000 +0000" channel="4007#911"><title lang="ko">2026 ELITE 8 국제 컬링대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809040000 +0000" stop="20260809060000 +0000" channel="4007#911"><title lang="ko">2026 대통령기 전국 장사 씨름대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809060000 +0000" stop="20260809080000 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809080000 +0000" stop="20260809100000 +0000" channel="4007#911"><title lang="ko">에스와이 PBA 챔피언십 2026-2027</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809100000 +0000" stop="20260809120000 +0000" channel="4007#911"><title lang="ko">2026 전국 시도대항 장사 씨름대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809120000 +0000" stop="20260809130000 +0000" channel="4007#911"><title lang="ko">2026 전국 남녀 종합 탁구선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809130000 +0000" stop="20260809140000 +0000" channel="4007#911"><title lang="ko">2026 전국 남녀 종합 탁구선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260809140000 +0000" stop="20260809160000 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808175800 +0000" stop="20260808195600 +0000" channel="4007#911"><title lang="ko">에스와이 PBA 챔피언십 2026-2027</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808195600 +0000" stop="20260808213700 +0000" channel="4007#911"><title lang="ko">2023 전국 남녀 종합 탁구 선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808213700 +0000" stop="20260808215900 +0000" channel="4007#911"><title lang="ko">순위공개 엠피셜 KBO 벤치클리어링 명장면</title><category lang="ko">스포츠</category></programme>
+<programme start="20260808215900 +0000" stop="20260808233400 +0000" channel="4007#911"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260808233400 +0000" stop="20260809000100 +0000" channel="4007#911"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809000100 +0000" stop="20260809013900 +0000" channel="4007#911"><title lang="ko">2024 구례 전국 여자 천하장사 및 대학장사 씨름대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809013900 +0000" stop="20260809040500 +0000" channel="4007#911"><title lang="ko">2026 ELITE 8 국제 컬링대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809040500 +0000" stop="20260809061100 +0000" channel="4007#911"><title lang="ko">2026 대통령기 전국 장사 씨름대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809061100 +0000" stop="20260809080600 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809080600 +0000" stop="20260809100300 +0000" channel="4007#911"><title lang="ko">에스와이 PBA 챔피언십 2026-2027</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809100300 +0000" stop="20260809120100 +0000" channel="4007#911"><title lang="ko">2026 전국 시도대항 장사 씨름대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809120100 +0000" stop="20260809125700 +0000" channel="4007#911"><title lang="ko">2026 전국 남녀 종합 탁구선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809125700 +0000" stop="20260809135900 +0000" channel="4007#911"><title lang="ko">2026 전국 남녀 종합 탁구선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260809135900 +0000" stop="20260809160700 +0000" channel="4007#911"><title lang="ko">탁구 국가대표 1차 선발전</title><category lang="ko">스포츠</category></programme>
 <programme start="20260807140000 +0000" stop="20260807153000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260807153000 +0000" stop="20260807170000 +0000" channel="4007#922"><title lang="ko">2026 WTT 탁구 챔피언스 요코하마</title><category lang="ko">스포츠</category></programme>
 <programme start="20260807170000 +0000" stop="20260807180000 +0000" channel="4007#922"><title lang="ko">스포 타임머신 AI 리마스터드</title><category lang="ko">스포츠</category></programme>
@@ -8263,8 +8265,10 @@
 <programme start="20260808134500 +0000" stop="20260808135500 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260808135500 +0000" stop="20260808140000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808140000 +0000" stop="20260808143000 +0000" channel="4011#166"><title lang="ko">개그 배틀! 핀 투 쓰리</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260808143000 +0000" stop="20260808163000 +0000" channel="4011#166"><title lang="ko">이웃집은 고민중</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260808143000 +0000" stop="20260808163000 +0000" channel="4011#166"><title lang="ko">이웃집은 고민중</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808143000 +0000" stop="20260808150000 +0000" channel="4011#166"><title lang="ko">이웃집은 고민중</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808143000 +0000" stop="20260808150000 +0000" channel="4011#166"><title lang="ko">이웃집은 고민중</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808150000 +0000" stop="20260808163000 +0000" channel="4011#166"><title lang="ko">결전! 시즈가타케, 히데요시 vs 가쓰이에, 천하인이 탄생한 순간</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260808150000 +0000" stop="20260808163000 +0000" channel="4011#166"><title lang="ko">결전! 시즈가타케, 히데요시 vs 가쓰이에, 천하인이 탄생한 순간</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260808163000 +0000" stop="20260808170000 +0000" channel="4011#166"><title lang="ko">연예도감</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260808170000 +0000" stop="20260808170500 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808170500 +0000" stop="20260808173000 +0000" channel="4011#166"><title lang="ko">고 고 요리전사 쿡쿠룽</title><category lang="ko">교육</category></programme>
@@ -8272,10 +8276,12 @@
 <programme start="20260808180000 +0000" stop="20260808182500 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260808182500 +0000" stop="20260808183000 +0000" channel="4011#166"><title lang="ko">no art, no life</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260808183000 +0000" stop="20260808184500 +0000" channel="4011#166"><title lang="ko">연속TV소설 바람, 향기롭다 제19주</title><category lang="ko">드라마</category></programme>
-<programme start="20260808184500 +0000" stop="20260808193500 +0000" channel="4011#166"><title lang="ko">NHK 스페셜</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260808193500 +0000" stop="20260808195500 +0000" channel="4011#166"><title lang="ko">다큐멘터리 20min</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260808184500 +0000" stop="20260808193000 +0000" channel="4011#166"><title lang="ko">NHK스페셜 무언의 증언자 원폭 돔이 짊어진 전쟁</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260808193000 +0000" stop="20260808194500 +0000" channel="4011#166"><title lang="ko">GEO JAPAN 절경100 여행 mini</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808194500 +0000" stop="20260808195500 +0000" channel="4011#166"><title lang="ko">하늘 여행 mini</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260808195500 +0000" stop="20260808200000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260808200000 +0000" stop="20260808205600 +0000" channel="4011#166"><title lang="ko">파랑 &amp;amp; 노랑</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808200000 +0000" stop="20260808201000 +0000" channel="4011#166"><title lang="ko">파랑 &amp;amp; 노랑</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808201000 +0000" stop="20260808205600 +0000" channel="4011#166"><title lang="ko">프로페셔널</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260808205600 +0000" stop="20260808210000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808210000 +0000" stop="20260808211000 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808211000 +0000" stop="20260808215300 +0000" channel="4011#166"><title lang="ko">특선시대극 오오카 에치젠 8</title><desc lang="ko">팬들이 손꼽아 기다려 온 ‘오오카에치젠’ 제8시리즈. 다카하시 가쓰노리가 연기하는 명판관 amp;#8203;오오카 다다스케를 중심으로, 정의감 넘치고 인간미 가득한 활약을 그린다. 따뜻한 인간미가 담긴 이야기에는 웃고 울고, 손에 땀을 쥐게 하는 사건 해결에는 통쾌한 카타르시스를 선사하는 시대극의 진수를 만나볼 수 있다.</desc><category lang="ko">드라마</category></programme>
@@ -8283,19 +8289,27 @@
 <programme start="20260808215500 +0000" stop="20260808220000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808220000 +0000" stop="20260808224500 +0000" channel="4011#166"><title lang="ko">NHK 뉴스(7시대)</title><category lang="ko">뉴스</category></programme>
 <programme start="20260808224500 +0000" stop="20260808225900 +0000" channel="4011#166"><title lang="ko">아름다운 자연백경</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260808225900 +0000" stop="20260808235000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260808235000 +0000" stop="20260809012800 +0000" channel="4011#166"><title lang="ko">Design Ah neo</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260809012800 +0000" stop="20260809013000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260809013000 +0000" stop="20260809020000 +0000" channel="4011#166"><title lang="ko">사이언스 제로</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260809020000 +0000" stop="20260809024500 +0000" channel="4011#166"><title lang="ko">프리미엄드라마 물망초가 피는 마을에서 아즈미노 진료기</title><category lang="ko">드라마</category></programme>
-<programme start="20260809024500 +0000" stop="20260809025000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808225900 +0000" stop="20260808230000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
+<programme start="20260808230000 +0000" stop="20260808234500 +0000" channel="4011#166"><title lang="ko">프리미엄드라마 물망초가 피는 마을에서 아즈미노 진료기</title><category lang="ko">드라마</category></programme>
+<programme start="20260808234500 +0000" stop="20260808235000 +0000" channel="4011#166"><title lang="ko">하늘 여행 mini</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260808235000 +0000" stop="20260809000000 +0000" channel="4011#166"><title lang="ko">Design Ah neo</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809000000 +0000" stop="20260809010000 +0000" channel="4011#166"><title lang="ko">일요토론</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260809010000 +0000" stop="20260809010500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
+<programme start="20260809010500 +0000" stop="20260809011500 +0000" channel="4011#166"><title lang="ko">일본 거목 여행 mini</title><desc lang="ko">여러 주제에 대해 전문가 및 신예의 젊은 논자가 출연해 자유로운 시점으로 의견을 이야기하는 오피니언 프로그램.</desc><category lang="ko">교양/정보</category></programme>
+<programme start="20260809011500 +0000" stop="20260809014500 +0000" channel="4011#166"><title lang="ko">사이언스 제로</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809014500 +0000" stop="20260809025000 +0000" channel="4011#166"><title lang="ko">2026년 나가사키 평화기념식 나가사키시 평화공원에서 중계</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809025000 +0000" stop="20260809025600 +0000" channel="4011#166"><title lang="ko">우키요에 EDO-LIFE</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809025600 +0000" stop="20260809030000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260809030000 +0000" stop="20260809031500 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
-<programme start="20260809031500 +0000" stop="20260809040000 +0000" channel="4011#166"><title lang="ko">NHK 노래자랑</title><category lang="ko">음악</category></programme>
-<programme start="20260809040000 +0000" stop="20260809053500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260809053500 +0000" stop="20260809060000 +0000" channel="4011#166"><title lang="ko">그레텔의 부뚜막</title><credits><actor>세토 코지</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260809060000 +0000" stop="20260809083000 +0000" channel="4011#166"><title lang="ko">PREMIUM SELECTIONS</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809030000 +0000" stop="20260809032000 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
+<programme start="20260809032000 +0000" stop="20260809040500 +0000" channel="4011#166"><title lang="ko">NHK 노래자랑</title><category lang="ko">음악</category></programme>
+<programme start="20260809040500 +0000" stop="20260809041000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
+<programme start="20260809041000 +0000" stop="20260809054000 +0000" channel="4011#166"><title lang="ko">특집드라마 사사마쿠라</title><category lang="ko">드라마</category></programme>
+<programme start="20260809054000 +0000" stop="20260809055500 +0000" channel="4011#166"><title lang="ko">일본 100명산 mini</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809055500 +0000" stop="20260809060000 +0000" channel="4011#166"><title lang="ko">일본 카메라 눈</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809060000 +0000" stop="20260809073000 +0000" channel="4011#166"><title lang="ko">발견 외딴섬의 여유로운 생활</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260809073000 +0000" stop="20260809080000 +0000" channel="4011#166"><title lang="ko">천재 TV군 grow x 드라마 데즈카 오사무의 전쟁</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809080000 +0000" stop="20260809082500 +0000" channel="4011#166"><title lang="ko">그레텔의 부뚜막</title><credits><actor>세토 코지</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260809082500 +0000" stop="20260809083000 +0000" channel="4011#166"><title lang="ko">귀여운 동물들 고양이의 낙원 mini</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809083000 +0000" stop="20260809090000 +0000" channel="4011#166"><title lang="ko">아빠와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260809090000 +0000" stop="20260809090500 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260809090500 +0000" stop="20260809094300 +0000" channel="4011#166"><title lang="ko">아리요시의 돈발견 돌격 카네오군</title><credits><actor>아리요시 히로이키</actor></credits><category lang="ko">교양/정보</category></programme>
@@ -8306,11 +8320,14 @@
 <programme start="20260809105800 +0000" stop="20260809110000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809110000 +0000" stop="20260809114500 +0000" channel="4011#166"><title lang="ko">대하드라마 토요토미 형제!</title><category lang="ko">드라마</category></programme>
 <programme start="20260809114500 +0000" stop="20260809120000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260809120000 +0000" stop="20260809124900 +0000" channel="4011#166"><title lang="ko">NHK 스페셜</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260809124900 +0000" stop="20260809125000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260809125000 +0000" stop="20260809133500 +0000" channel="4011#166"><title lang="ko">프리미엄드라마 물망초가 피는 마을에서 아즈미노 진료기</title><category lang="ko">드라마</category></programme>
-<programme start="20260809133500 +0000" stop="20260809134000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260809134000 +0000" stop="20260809144300 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
+<programme start="20260809120000 +0000" stop="20260809125500 +0000" channel="4011#166"><title lang="ko">NHK스페셜 알려지지 않은 핵 위기 할페린 문서</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260809125500 +0000" stop="20260809134000 +0000" channel="4011#166"><title lang="ko">프리미엄드라마 물망초가 피는 마을에서 아즈미노 진료기</title><category lang="ko">드라마</category></programme>
+<programme start="20260809134000 +0000" stop="20260809134500 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809134500 +0000" stop="20260809135000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
+<programme start="20260809135000 +0000" stop="20260809142000 +0000" channel="4011#166"><title lang="ko">선은 모든 것을 알고 있다! 수수께끼 풀기 GPS 추적단 축제가 더욱 즐거워지는 뜻밖의 대발견!</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809142000 +0000" stop="20260809143500 +0000" channel="4011#166"><title lang="ko">GEO JAPAN 절경100 여행</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260809143500 +0000" stop="20260809144000 +0000" channel="4011#166"><title lang="ko">일본 창세 신들의 길을 걷다 5min</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260809144000 +0000" stop="20260809144300 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260809144300 +0000" stop="20260809144500 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
 <programme start="20260809144500 +0000" stop="20260809153500 +0000" channel="4011#166"><title lang="ko">일요 스포츠뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260807140000 +0000" stop="20260807150000 +0000" channel="4011#180"><title lang="ko">서민갑부</title><desc lang="ko">전국 방방곳곳에 손꼽히는 자수성가 대한민국 슈퍼리치들만 모았다. 독한 인생을 산 서민갑부들의 생생한 성공 스토리!</desc><category lang="ko">교양/정보</category></programme>
