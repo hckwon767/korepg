@@ -790,7 +790,7 @@
 <programme start="20260815013000 +0000" stop="20260815022500 +0000" channel="4003#798"><title lang="ko">왔다! 내 손주</title><desc lang="ko">해외에 거주하고 있어 자주 보지 못하는 손자, 손녀들과 할머니, 할아버지가 만나 보내는 며칠의 시간. 뭉클한 감동이 깃든 만남부터 그들에게 주어진 짧은 기간 일어나는 일들 속에 따듯한 가족애를 담아내는 프로그램</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260815022500 +0000" stop="20260815025500 +0000" channel="4003#798"><title lang="ko">나눔 0700</title><desc lang="ko">함께 하는 대한민국을 위한 EBS 사회 공헌 프로그램</desc><credits><actor>서현진</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260815025500 +0000" stop="20260815051000 +0000" channel="4003#798"><title lang="ko">최고의 요리비결</title><desc lang="ko">당신도 요리의 달인이 될 수 있다. 최고의 요리비결은 국내 최고의 요리전문가에게서 최고의 요리 비결만을 전수받을 수 있는 정통 요리 프로그램!</desc><credits><actor>황광희</actor><actor>김동완</actor><actor>이특</actor></credits><category lang="ko">취미/레저</category></programme>
-<programme start="20260815051000 +0000" stop="20260815060000 +0000" channel="4003#798"><title lang="ko">부모의 첫 성교육</title><desc lang="ko">전문가와 함께 쉽고 유쾌하게 배우는 부모 맞춤 성교육 안내서!</desc><category lang="ko">교양/정보</category></programme>
+<programme start="20260815051000 +0000" stop="20260815060000 +0000" channel="4003#798"><title lang="ko">부모의 첫 성교육</title><desc lang="ko">전문가와 함께 쉽고 유쾌하게 배우는 부모 맞춤 성교육 안내서!</desc><credits><actor>이지혜</actor><actor>샘 해밍턴</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260815060000 +0000" stop="20260815065000 +0000" channel="4003#798"><title lang="ko">특집 다큐 - 실록 유일한</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260815065000 +0000" stop="20260815074500 +0000" channel="4003#798"><title lang="ko">시대목격</title><credits><actor>신구</actor><actor>노라노</actor><actor>김동호</actor><actor>은희경</actor><actor>손석희</actor><actor>이세돌</actor><actor>김윤아</actor><actor>신우석</actor><actor>리아킴</actor><actor>차범근</actor><actor>변영주</actor><actor>이경규</actor></credits><category lang="ko">시사/다큐</category></programme>
 <programme start="20260815074500 +0000" stop="20260815084000 +0000" channel="4003#798"><title lang="ko">취미는 과학</title><credits><actor>데프콘</actor></credits><category lang="ko">교육</category></programme>
@@ -3414,17 +3414,17 @@
 <programme start="20260815200300 +0000" stop="20260815203500 +0000" channel="4006#857"><title lang="ko">가족관계증명서</title><credits><actor>한다감</actor><actor>정가은</actor><actor>한고은</actor><actor>박세영</actor><actor>서도영</actor><actor>이윤석</actor><actor>김지선</actor><actor>엄지윤</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260815203500 +0000" stop="20260815214200 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260815214200 +0000" stop="20260815230000 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260815230000 +0000" stop="20260816000200 +0000" channel="4006#857"><title lang="ko">글로벌도네이션쇼W (2024)</title><desc lang="ko">힘겨운 시간을 보내고 있는 아이들의 사연을 소개하고 공연을 통해 아이들을 응원하고 위로하는 프로그램</desc><category lang="ko">연예/오락</category></programme>
-<programme start="20260816000200 +0000" stop="20260816011900 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260816011900 +0000" stop="20260816024100 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260816024100 +0000" stop="20260816042300 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260816042300 +0000" stop="20260816054400 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260816054400 +0000" stop="20260816072900 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260816072900 +0000" stop="20260816090900 +0000" channel="4006#857"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260816090900 +0000" stop="20260816102800 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260816102800 +0000" stop="20260816114300 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260816114300 +0000" stop="20260816130500 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260816130500 +0000" stop="20260816140300 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260815230000 +0000" stop="20260816000400 +0000" channel="4006#857"><title lang="ko">글로벌도네이션쇼W (2024)</title><desc lang="ko">힘겨운 시간을 보내고 있는 아이들의 사연을 소개하고 공연을 통해 아이들을 응원하고 위로하는 프로그램</desc><category lang="ko">연예/오락</category></programme>
+<programme start="20260816000400 +0000" stop="20260816012000 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260816012000 +0000" stop="20260816024100 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260816024100 +0000" stop="20260816042500 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260816042500 +0000" stop="20260816054400 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260816054400 +0000" stop="20260816073200 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260816073200 +0000" stop="20260816091300 +0000" channel="4006#857"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260816091300 +0000" stop="20260816102000 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260816102000 +0000" stop="20260816113600 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260816113600 +0000" stop="20260816125700 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260816125700 +0000" stop="20260816140300 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260816140300 +0000" stop="20260816152500 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260814144500 +0000" stop="20260814154000 +0000" channel="4006#906"><title lang="ko">일소수가</title><desc lang="ko">평릉 전투에서 금구국이 패배할 위기에 몰리자, 붉은 옷의 여사수, 부일소가 단 한 발로 숙사의 황자인 봉수가를 명중시키며 전세를 뒤집는다. 하지만 부일소는 전투 후 얼마 지나지 않아 절벽에서 떨어져 기억을 잃는다. 의술로 명성이 높은 정념산장 능씨 집안이 그녀를 구조하고, 그곳에서 우연히 원수인 봉수가와 다시 마주치는데...</desc><credits><actor>이심</actor><actor>진철원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260814154000 +0000" stop="20260814165000 +0000" channel="4006#906"><title lang="ko">나는 자연인이다</title><desc lang="ko">자신들만의 방식으로 자연속에서 살아가는 자연인을 찾아가서 그들의 삶을 직접 체험해보는 리얼휴먼스토리.</desc><credits><actor>이승윤</actor><actor>윤택</actor></credits><category lang="ko">교양/정보</category></programme>
@@ -3714,7 +3714,7 @@
 <programme start="20260815133000 +0000" stop="20260815143000 +0000" channel="4007#109"><title lang="ko">스포타임 베이스볼</title><category lang="ko">스포츠</category></programme>
 <programme start="20260815143000 +0000" stop="20260815160000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260815143000 +0000" stop="20260815160000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="4007#109"><title lang="ko">2026 WTT 탁구 유럽 스매시</title><category lang="ko">스포츠</category></programme>
+<programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="4007#109"><title lang="ko">스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260815180000 +0000" stop="20260815190000 +0000" channel="4007#109"><title lang="ko">GD LESSON 고덕호</title><category lang="ko">스포츠</category></programme>
 <programme start="20260815190000 +0000" stop="20260815220000 +0000" channel="4007#109"><title lang="ko">2026 LPGA 더 스탠다드 포틀랜드 클래식</title><category lang="ko">스포츠</category></programme>
 <programme start="20260815220000 +0000" stop="20260815233000 +0000" channel="4007#109"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -3722,7 +3722,7 @@
 <programme start="20260816013000 +0000" stop="20260816023000 +0000" channel="4007#109"><title lang="ko">[손흥민 LAFC 프리뷰] 스포타임 야구랭킹쇼</title><category lang="ko">스포츠</category></programme>
 <programme start="20260816023000 +0000" stop="20260816043000 +0000" channel="4007#109"><title lang="ko">스포타임 코리안리거 스페셜</title><category lang="ko">스포츠</category></programme>
 <programme start="20260816043000 +0000" stop="20260816060000 +0000" channel="4007#109"><title lang="ko">[이정후 오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260816060000 +0000" stop="20260816073000 +0000" channel="4007#109"><title lang="ko">2026 WTT 탁구 유럽 스매시</title><category lang="ko">스포츠</category></programme>
+<programme start="20260816060000 +0000" stop="20260816073000 +0000" channel="4007#109"><title lang="ko">스포타임 배드민턴</title><category lang="ko">스포츠</category></programme>
 <programme start="20260816073000 +0000" stop="20260816090000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260816090000 +0000" stop="20260816094500 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260816094500 +0000" stop="20260816133000 +0000" channel="4007#109"><title lang="ko">2026 KBO 리그</title><category lang="ko">스포츠</category></programme>
@@ -4588,21 +4588,33 @@
 <programme start="20260815112500 +0000" stop="20260815122500 +0000" channel="4008#521"><title lang="ko">미녀의석류콜라겐</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260815122500 +0000" stop="20260815132600 +0000" channel="4008#521"><title lang="ko">여성 스케쳐스 고런 아치</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260815132600 +0000" stop="20260815142600 +0000" channel="4008#521"><title lang="ko">스위스알파인클럽 프라임</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815142600 +0000" stop="20260815150000 +0000" channel="4008#521"><title lang="ko">시카알엑스 율무팩3개</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815142600 +0000" stop="20260815150000 +0000" channel="4008#521"><title lang="ko">시카알엑스 율무팩3개</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815150000 +0000" stop="20260815170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815150000 +0000" stop="20260815170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815170000 +0000" stop="20260815190000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815190000 +0000" stop="20260815210000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815210000 +0000" stop="20260815230000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260815230000 +0000" stop="20260816010000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816010000 +0000" stop="20260816030000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816030000 +0000" stop="20260816050000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816050000 +0000" stop="20260816070000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816070000 +0000" stop="20260816090000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816090000 +0000" stop="20260816110000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816110000 +0000" stop="20260816130000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260816130000 +0000" stop="20260816150000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815142600 +0000" stop="20260815152700 +0000" channel="4008#521"><title lang="ko">시카알엑스 율무팩3개</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815142600 +0000" stop="20260815152700 +0000" channel="4008#521"><title lang="ko">시카알엑스 율무팩3개</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815152700 +0000" stop="20260815162700 +0000" channel="4008#521"><title lang="ko">데이즈온 프리바이오틱스</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815162700 +0000" stop="20260815163800 +0000" channel="4008#521"><title lang="ko">제주 탐나 감자 10kg</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815163800 +0000" stop="20260815173800 +0000" channel="4008#521"><title lang="ko">홀베리 유기농 블루베리</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815173800 +0000" stop="20260815183900 +0000" channel="4008#521"><title lang="ko">소파카멜레온 스트레치</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815183900 +0000" stop="20260815185900 +0000" channel="4008#521"><title lang="ko">박경호 원용 녹용</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815185900 +0000" stop="20260815191900 +0000" channel="4008#521"><title lang="ko">니카사 진공 스팀다리미</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815191900 +0000" stop="20260815202000 +0000" channel="4008#521"><title lang="ko">미녀의석류콜라겐</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815202000 +0000" stop="20260815214000 +0000" channel="4008#521"><title lang="ko">전설의패치 준대형 240매</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815214000 +0000" stop="20260815230000 +0000" channel="4008#521"><title lang="ko">글루타치온</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260815230000 +0000" stop="20260816000100 +0000" channel="4008#521"><title lang="ko">라이프밀8박스+대양귀리32</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816000100 +0000" stop="20260816012100 +0000" channel="4008#521"><title lang="ko">그레인온 캡슐레이션 효소</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816012100 +0000" stop="20260816022200 +0000" channel="4008#521"><title lang="ko">레이델 폴리코사놀5</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816022200 +0000" stop="20260816032200 +0000" channel="4008#521"><title lang="ko">도미나스 기미쿠션</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816032200 +0000" stop="20260816042200 +0000" channel="4008#521"><title lang="ko">최대용량찬스 대웅 이지</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816042200 +0000" stop="20260816052300 +0000" channel="4008#521"><title lang="ko">성분에디터 녹는실 앰플</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816052300 +0000" stop="20260816062300 +0000" channel="4008#521"><title lang="ko">조선호텔 포기열무</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816062300 +0000" stop="20260816072300 +0000" channel="4008#521"><title lang="ko">닥터3 마스카라</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816072300 +0000" stop="20260816082400 +0000" channel="4008#521"><title lang="ko">율무영양크림</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816082400 +0000" stop="20260816092400 +0000" channel="4008#521"><title lang="ko">최현석 직화스테이크</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816092400 +0000" stop="20260816102400 +0000" channel="4008#521"><title lang="ko">울시26SS남성썸머팬츠 3종</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816102400 +0000" stop="20260816112500 +0000" channel="4008#521"><title lang="ko">닥터3 립타투</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816112500 +0000" stop="20260816122500 +0000" channel="4008#521"><title lang="ko">여에스더 포스파티딜세린</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816122500 +0000" stop="20260816132600 +0000" channel="4008#521"><title lang="ko">여에스더 포스파티딜세린</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816132600 +0000" stop="20260816142600 +0000" channel="4008#521"><title lang="ko">블루핏 무스탕</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260816142600 +0000" stop="20260816150000 +0000" channel="4008#521"><title lang="ko">최현석 직화스테이크</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260816150000 +0000" stop="20260816170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260814143100 +0000" stop="20260814153100 +0000" channel="4008#529"><title lang="ko">[리르]링클패치</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260814153100 +0000" stop="20260814163100 +0000" channel="4008#529"><title lang="ko">[쿠진]마하라이트</title><category lang="ko">홈쇼핑</category></programme>
@@ -11328,7 +11340,7 @@
 <programme start="20260815190000 +0000" stop="20260815192000 +0000" channel="4014#42"><title lang="ko">하나님의 손길</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260815192000 +0000" stop="20260815193000 +0000" channel="4014#42"><title lang="ko">주성민 목사의 찬양의 기도</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260815193000 +0000" stop="20260815203000 +0000" channel="4014#42"><title lang="ko">김양재 목사의 공동체 고백</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260815203000 +0000" stop="20260815205000 +0000" channel="4014#42"><title lang="ko">더 기프트 [간증]</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260815203000 +0000" stop="20260815205000 +0000" channel="4014#42"><title lang="ko">새생명축제:더 기프트 [간증]</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260815205000 +0000" stop="20260815210000 +0000" channel="4014#42"><title lang="ko">찬양의 샘</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260815210000 +0000" stop="20260815211000 +0000" channel="4014#42"><title lang="ko">오정현 목사의 비전묵상 3분 미라클</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260815211000 +0000" stop="20260815215000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
@@ -13882,22 +13894,22 @@
 <programme start="20260815150330 +0000" stop="20260815155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-320</title></programme>
 <programme start="20260815161715 +0000" stop="20260815165215 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2026-232</title></programme>
 <programme start="20260815165215 +0000" stop="20260815220000 +0000" channel="CCTV15.cn@SD"><title lang="zh">再见</title></programme>
-<programme start="20260815220000 +0000" stop="20260815230530 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-409</title></programme>
-<programme start="20260815230530 +0000" stop="20260815234300 +0000" channel="CCTV15.cn@SD"><title lang="zh">经典-CMG夏日歌会-初心绽放</title></programme>
-<programme start="20260815234300 +0000" stop="20260816005830 +0000" channel="CCTV15.cn@SD"><title lang="zh">合唱先锋-2026-10</title></programme>
-<programme start="20260816005830 +0000" stop="20260816013800 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2026-233</title></programme>
-<programme start="20260816013800 +0000" stop="20260816025330 +0000" channel="CCTV15.cn@SD"><title lang="zh">民歌·中国-2026-111金风玉露情歌起5</title></programme>
-<programme start="20260816025330 +0000" stop="20260816040900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-313</title></programme>
-<programme start="20260816040900 +0000" stop="20260816045330 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国音乐电视-2026-4-山河回响 流水映归人</title></programme>
+<programme start="20260815220000 +0000" stop="20260815230300 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-409</title></programme>
+<programme start="20260815230300 +0000" stop="20260816001830 +0000" channel="CCTV15.cn@SD"><title lang="zh">合唱先锋-2026-10</title></programme>
+<programme start="20260816001830 +0000" stop="20260816005800 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2026-233</title></programme>
+<programme start="20260816005800 +0000" stop="20260816021330 +0000" channel="CCTV15.cn@SD"><title lang="zh">民歌·中国-2026-111金风玉露情歌起5</title></programme>
+<programme start="20260816021330 +0000" stop="20260816032900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-313</title></programme>
+<programme start="20260816032900 +0000" stop="20260816045330 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国节拍-江山如画（崇左）</title></programme>
 <programme start="20260816045330 +0000" stop="20260816054800 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2025-181-风华雅集2</title></programme>
 <programme start="20260816054800 +0000" stop="20260816075930 +0000" channel="CCTV15.cn@SD"><title lang="zh">影视留声机-2026-77 经典电影《车水马龙》欣赏</title></programme>
 <programme start="20260816075930 +0000" stop="20260816085900 +0000" channel="CCTV15.cn@SD"><title lang="zh">音乐公开课-2026-19</title></programme>
 <programme start="20260816085900 +0000" stop="20260816101430 +0000" channel="CCTV15.cn@SD"><title lang="zh">民歌·中国-2026-112金风玉露情歌起6</title></programme>
 <programme start="20260816101430 +0000" stop="20260816113000 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-329</title></programme>
-<programme start="20260816113000 +0000" stop="20260816131530 +0000" channel="CCTV15.cn@SD"><title lang="zh">CMG夏日歌会-海南东方篇</title></programme>
-<programme start="20260816131530 +0000" stop="20260816140000 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国音乐电视-2026-8-闪亮的和声 向阳新声代（精编）</title></programme>
-<programme start="20260816140000 +0000" stop="20260816145930 +0000" channel="CCTV15.cn@SD"><title lang="zh">CCTV音乐厅-2026-133-名团华章-中国爱乐乐团系列音乐会</title></programme>
-<programme start="20260816145930 +0000" stop="20260816155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-321</title></programme>
+<programme start="20260816113000 +0000" stop="20260816121630 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国音乐电视-2026-2-山河回响 风从远方来</title></programme>
+<programme start="20260816121630 +0000" stop="20260816125900 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国音乐电视-2026-8-闪亮的和声 向阳新声代（精编）</title></programme>
+<programme start="20260816125900 +0000" stop="20260816142930 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2026-219江山如画系列交响音乐会-华山</title></programme>
+<programme start="20260816142930 +0000" stop="20260816152715 +0000" channel="CCTV15.cn@SD"><title lang="zh">CCTV音乐厅-2026-133-名团华章-中国爱乐乐团系列音乐会</title></programme>
+<programme start="20260816152715 +0000" stop="20260816155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-321</title></programme>
 <programme start="20260814175000 +0000" stop="20260814180000 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 第一轮 特鲁姆普的147</title></programme>
 <programme start="20260814180000 +0000" stop="20260814181500 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2015/2016赛季斯诺克威尔士公开赛 丁俊晖147</title></programme>
 <programme start="20260814181500 +0000" stop="20260814193500 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2013/2014斯诺克威尔士公开赛精选2</title></programme>
