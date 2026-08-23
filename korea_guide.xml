@@ -565,8 +565,8 @@
 <programme start="20260823030500 +0000" stop="20260823032000 +0000" channel="4003#794"><title lang="ko">기이안 연애 스페셜</title><category lang="ko">연예/오락</category></programme>
 <programme start="20260823032000 +0000" stop="20260823033000 +0000" channel="4003#794"><title lang="ko">SBS 뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260823033000 +0000" stop="20260823044500 +0000" channel="4003#794"><title lang="ko">SBS 인기가요</title><desc lang="ko">SBS 가요 순위 프로그램</desc><category lang="ko">음악</category></programme>
-<programme start="20260823044500 +0000" stop="20260823082000 +0000" channel="4003#794"><title lang="ko">2026 프로야구</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823082000 +0000" stop="20260823091000 +0000" channel="4003#794"><title lang="ko">미운 우리 새끼</title><desc lang="ko">아들의 일상을 관찰하고, 육아일기라는 장치를 통해 순간을 기록하는 프로그램입니다. 아직도 철부지 같은 자식과, 늘 자식 걱정인 엄마의 이야기를 통해 유쾌하고 따뜻한 웃음, 뭉클한 감동을 전달한다.</desc><credits><actor>신동엽</actor><actor>서장훈</actor><actor>이상민</actor><actor>김건모</actor><actor>박수홍</actor><actor>토니 안</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823044500 +0000" stop="20260823084000 +0000" channel="4003#794"><title lang="ko">2026 프로야구</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823084000 +0000" stop="20260823091000 +0000" channel="4003#794"><title lang="ko">생활의 달인 스페셜</title><desc lang="ko">수십년간 한 분야에 종사하며 부단한 열정과 노력으로 달인의 경지에 이르게 된 사람들. 삶의 스토리와 리얼리티가 담겨 있는 ‘생활 달인’은 그 자체가 다큐멘터리. 비록 소박한 일이지만 평생을 통해 최고가 된 ‘생활 달인’의 놀라운 득도의 경지를 만나는 시간.</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260823091000 +0000" stop="20260823110000 +0000" channel="4003#794"><title lang="ko">런닝맨</title><desc lang="ko">최고의 연예인들과 미션 해결과 게임을 하며 대한민국 랜드마크들을 전격 공개한다. 도심에서 벌어지는 스펙터클, 신개념, 액션 버라이어티 프로그램.</desc><credits><actor>유재석</actor><actor>지석진</actor><actor>김종국</actor><actor>하하</actor><actor>송지효</actor><actor>전소민</actor><actor>양세찬</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260823110000 +0000" stop="20260823114500 +0000" channel="4003#794"><title lang="ko">SBS 8 뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260823114500 +0000" stop="20260823120000 +0000" channel="4003#794"><title lang="ko">골든타임 in CCTV</title><category lang="ko">교양/정보</category></programme>
@@ -8350,7 +8350,7 @@
 <programme start="20260823145500 +0000" stop="20260823154500 +0000" channel="4011#166"><title lang="ko">일요 스포츠뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260823145500 +0000" stop="20260823154500 +0000" channel="4011#166"><title lang="ko">일요 스포츠뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260823154500 +0000" stop="20260823163000 +0000" channel="4011#166"><title lang="ko">NHK 노래자랑</title><category lang="ko">음악</category></programme>
-<programme start="20260823163000 +0000" stop="20260823180000 +0000" channel="4011#166"><title lang="ko">체감 위대한 자연 대양을 떠도는 대륙, 탄생! 미소의 나라 태국</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260823163000 +0000" stop="20260823180000 +0000" channel="4011#166"><title lang="ko">체감 위대한 자연</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260823180000 +0000" stop="20260823183000 +0000" channel="4011#166"><title lang="ko">빌런의 주장</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260823183000 +0000" stop="20260823190000 +0000" channel="4011#166"><title lang="ko">사이언스 제로</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260823190000 +0000" stop="20260823193000 +0000" channel="4011#166"><title lang="ko">Fish Masters</title><category lang="ko">교양/정보</category></programme>
@@ -13089,16 +13089,12 @@
 <programme start="20260823202000 +0000" stop="20260823205230 +0000" channel="CCTV1.cn@SD"><title lang="zh">本草流芳-石斛</title></programme>
 <programme start="20260823205230 +0000" stop="20260823212700 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
 <programme start="20260823212700 +0000" stop="20260823220000 +0000" channel="CCTV1.cn@SD"><title lang="zh">自然中国-探秘哀牢山-地质密码</title></programme>
-<programme start="20260823220000 +0000" stop="20260823232000 +0000" channel="CCTV1.cn@SD"><title lang="zh">朝闻天下</title></programme>
-<programme start="20260823232000 +0000" stop="20260824005300 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
-<programme start="20260824005300 +0000" stop="20260824012000 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
-<programme start="20260824012000 +0000" stop="20260824012100 +0000" channel="CCTV1.cn@SD"><title lang="zh">生活早参考-特别节目（生活圈）2026-231</title></programme>
-<programme start="20260824012100 +0000" stop="20260824012200 +0000" channel="CCTV1.cn@SD"><title lang="zh">农耕探文明-2025-20</title></programme>
-<programme start="20260824012200 +0000" stop="20260824012300 +0000" channel="CCTV1.cn@SD"><title lang="zh">中华古树-陕西神木文冠果（4K）</title></programme>
-<programme start="20260824012300 +0000" stop="20260824021500 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第21集</title></programme>
-<programme start="20260824021500 +0000" stop="20260824030400 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第22集</title></programme>
-<programme start="20260824030400 +0000" stop="20260824035100 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第23集</title></programme>
-<programme start="20260824035100 +0000" stop="20260824035400 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国-MV</title></programme>
+<programme start="20260823220000 +0000" stop="20260824003545 +0000" channel="CCTV1.cn@SD"><title lang="zh">朝闻天下</title></programme>
+<programme start="20260824003545 +0000" stop="20260824012255 +0000" channel="CCTV1.cn@SD"><title lang="zh">生活早参考-特别节目（生活圈）2026-231</title></programme>
+<programme start="20260824012255 +0000" stop="20260824021325 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第21集</title></programme>
+<programme start="20260824021325 +0000" stop="20260824030150 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第22集</title></programme>
+<programme start="20260824030150 +0000" stop="20260824034805 +0000" channel="CCTV1.cn@SD"><title lang="zh">淬火年代第23集</title></programme>
+<programme start="20260824034805 +0000" stop="20260824035400 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国-MV</title></programme>
 <programme start="20260824035400 +0000" stop="20260824040000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-201</title></programme>
 <programme start="20260824040000 +0000" stop="20260824043340 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻30分</title></programme>
 <programme start="20260824043340 +0000" stop="20260824050630 +0000" channel="CCTV1.cn@SD"><title lang="zh">今日说法-2026-154</title></programme>
@@ -13112,12 +13108,12 @@
 <programme start="20260824102040 +0000" stop="20260824105140 +0000" channel="CCTV1.cn@SD"><title lang="zh">文脉春秋-2025-27</title></programme>
 <programme start="20260824105140 +0000" stop="20260824110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-229</title></programme>
 <programme start="20260824110000 +0000" stop="20260824113940 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20260824113940 +0000" stop="20260824120215 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20260824120215 +0000" stop="20260824120600 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-藏锋-第9集</title></programme>
-<programme start="20260824120600 +0000" stop="20260824125835 +0000" channel="CCTV1.cn@SD"><title lang="zh">藏锋9/23</title></programme>
-<programme start="20260824125835 +0000" stop="20260824130205 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-藏锋-第10集</title></programme>
-<programme start="20260824130205 +0000" stop="20260824135115 +0000" channel="CCTV1.cn@SD"><title lang="zh">藏锋10/23</title></programme>
-<programme start="20260824135115 +0000" stop="20260824140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
+<programme start="20260824113940 +0000" stop="20260824120240 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20260824120240 +0000" stop="20260824120600 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-藏锋-第9集</title></programme>
+<programme start="20260824120600 +0000" stop="20260824125700 +0000" channel="CCTV1.cn@SD"><title lang="zh">藏锋9/23</title></programme>
+<programme start="20260824125700 +0000" stop="20260824130130 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-藏锋-第10集</title></programme>
+<programme start="20260824130130 +0000" stop="20260824135010 +0000" channel="CCTV1.cn@SD"><title lang="zh">藏锋10/23</title></programme>
+<programme start="20260824135010 +0000" stop="20260824140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
 <programme start="20260824140000 +0000" stop="20260824143530 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20260824143530 +0000" stop="20260824151205 +0000" channel="CCTV1.cn@SD"><title lang="zh">自然中国-智绘中国-经纬筑基</title></programme>
 <programme start="20260824151205 +0000" stop="20260824155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">2024中国诗词大会-1</title></programme>
@@ -13307,11 +13303,12 @@
 <programme start="20260823213000 +0000" stop="20260823220000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">新闻联播</title></programme>
 <programme start="20260823220000 +0000" stop="20260823230000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">健康中国-2026-34</title></programme>
 <programme start="20260823230000 +0000" stop="20260823233000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">中国新闻</title></programme>
-<programme start="20260823233000 +0000" stop="20260824013400 +0000" channel="CCTV4America.cn@SD"><title lang="zh">2026中国航天报道-4</title></programme>
-<programme start="20260824013400 +0000" stop="20260824020000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">走遍中国-2026-130</title></programme>
-<programme start="20260824020000 +0000" stop="20260824022800 +0000" channel="CCTV4America.cn@SD"><title lang="zh">时代追梦人-7</title></programme>
-<programme start="20260824022800 +0000" stop="20260824031400 +0000" channel="CCTV4America.cn@SD"><title lang="zh">高兴的酸甜苦辣第27集</title></programme>
-<programme start="20260824031400 +0000" stop="20260824040000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">高兴的酸甜苦辣第28集</title></programme>
+<programme start="20260823233000 +0000" stop="20260824000000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">今日关注</title></programme>
+<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">今日环球</title></programme>
+<programme start="20260824010000 +0000" stop="20260824014600 +0000" channel="CCTV4America.cn@SD"><title lang="zh">高兴的酸甜苦辣第27集</title></programme>
+<programme start="20260824014600 +0000" stop="20260824023200 +0000" channel="CCTV4America.cn@SD"><title lang="zh">高兴的酸甜苦辣第28集</title></programme>
+<programme start="20260824023200 +0000" stop="20260824030000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">时代追梦人-7</title></programme>
+<programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="CCTV4America.cn@SD"><title lang="zh">环球综艺秀-2026-34</title></programme>
 <programme start="20260824040000 +0000" stop="20260824051500 +0000" channel="CCTV4America.cn@SD"><title lang="zh">中国新闻</title></programme>
 <programme start="20260824051500 +0000" stop="20260824054130 +0000" channel="CCTV4America.cn@SD"><title lang="zh">海峡两岸-2026-235</title></programme>
 <programme start="20260824054130 +0000" stop="20260824064130 +0000" channel="CCTV4America.cn@SD"><title lang="zh">中国舆论场-2026-34</title></programme>
@@ -13378,12 +13375,12 @@
 <programme start="20260823200000 +0000" stop="20260823203000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">中国新闻</title></programme>
 <programme start="20260823203000 +0000" stop="20260823205800 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">今日关注</title></programme>
 <programme start="20260823205800 +0000" stop="20260823212600 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">时代追梦人-7</title></programme>
-<programme start="20260823212600 +0000" stop="20260823214000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">平凡匠心-2026-70</title></programme>
-<programme start="20260823214000 +0000" stop="20260823220600 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">中国缘-2026-33</title></programme>
-<programme start="20260823220600 +0000" stop="20260823230200 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">健康中国-2026-34</title></programme>
-<programme start="20260823230200 +0000" stop="20260823233000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">海峡两岸-2026-235</title></programme>
-<programme start="20260823233000 +0000" stop="20260824013000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">2026中国航天报道-4</title></programme>
-<programme start="20260824013000 +0000" stop="20260824020100 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">走遍中国-2026-130</title></programme>
+<programme start="20260823212600 +0000" stop="20260823214100 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">平凡匠心-2026-70</title></programme>
+<programme start="20260823214100 +0000" stop="20260823223830 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">中国文艺-致敬经典2026-34</title></programme>
+<programme start="20260823223830 +0000" stop="20260823233330 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">健康中国-2026-34</title></programme>
+<programme start="20260823233330 +0000" stop="20260824000000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">海峡两岸-2026-235</title></programme>
+<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">今日环球</title></programme>
+<programme start="20260824010000 +0000" stop="20260824020100 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">环球综艺秀-2026-34</title></programme>
 <programme start="20260824020100 +0000" stop="20260824022700 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">中国缘-2026-33</title></programme>
 <programme start="20260824022700 +0000" stop="20260824031200 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">女士的法则-（四套）-6/38</title></programme>
 <programme start="20260824031200 +0000" stop="20260824040000 +0000" channel="CCTV4Europe.cn@SD"><title lang="zh">女士的法则-（四套）-7/38</title></programme>
