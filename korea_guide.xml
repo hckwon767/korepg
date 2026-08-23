@@ -1237,7 +1237,7 @@
 <programme start="20260824053000 +0000" stop="20260824070000 +0000" channel="4004#359"><title lang="ko">마감은 증권통</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="4004#359"><title lang="ko">당신의 초이스</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260824080000 +0000" stop="20260824083000 +0000" channel="4004#359"><title lang="ko">명인들의 복기</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260824083000 +0000" stop="20260824093000 +0000" channel="4004#359"><title lang="ko">상한가 비밀노트</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260824083000 +0000" stop="20260824093000 +0000" channel="4004#359"><title lang="ko">종목의 발견</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260824093000 +0000" stop="20260824103000 +0000" channel="4004#359"><title lang="ko">매매의 정석</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260824103000 +0000" stop="20260824113000 +0000" channel="4004#359"><title lang="ko">상한가 매트릭스</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260824113000 +0000" stop="20260824120000 +0000" channel="4004#359"><title lang="ko">증권통팟</title><category lang="ko">교양/정보</category></programme>
@@ -3398,18 +3398,18 @@
 <programme start="20260823211200 +0000" stop="20260823214600 +0000" channel="4006#857"><title lang="ko">용감무쌍 용수정</title><desc lang="ko">거상 임상옥을 꿈꾸는 상여자 용수정과 그녀에게 운명을 맡긴 짠돌이 여의주가 함께하는 로맨스 복수극</desc><credits><actor>엄현경</actor><actor>임주은</actor><actor>서준영</actor><actor>권화운</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260823214600 +0000" stop="20260823222200 +0000" channel="4006#857"><title lang="ko">가족관계증명서</title><credits><actor>한다감</actor><actor>정가은</actor><actor>한고은</actor><actor>박세영</actor><actor>서도영</actor><actor>이윤석</actor><actor>김지선</actor><actor>엄지윤</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260823222200 +0000" stop="20260823230400 +0000" channel="4006#857"><title lang="ko">가족관계증명서</title><credits><actor>한다감</actor><actor>정가은</actor><actor>한고은</actor><actor>박세영</actor><actor>서도영</actor><actor>이윤석</actor><actor>김지선</actor><actor>엄지윤</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260823230400 +0000" stop="20260824004600 +0000" channel="4006#857"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824004600 +0000" stop="20260824021000 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260823230400 +0000" stop="20260824004700 +0000" channel="4006#857"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824004700 +0000" stop="20260824021000 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260824021000 +0000" stop="20260824033100 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824033100 +0000" stop="20260824044900 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824044900 +0000" stop="20260824060400 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824060400 +0000" stop="20260824072600 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260824072600 +0000" stop="20260824085100 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260824085100 +0000" stop="20260824103500 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824103500 +0000" stop="20260824115700 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824115700 +0000" stop="20260824131900 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260824131900 +0000" stop="20260824144200 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260824144200 +0000" stop="20260824154000 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824033100 +0000" stop="20260824045000 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824045000 +0000" stop="20260824060700 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824060700 +0000" stop="20260824072900 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824072900 +0000" stop="20260824085300 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824085300 +0000" stop="20260824103800 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824103800 +0000" stop="20260824120200 +0000" channel="4006#857"><title lang="ko">놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824120200 +0000" stop="20260824132300 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824132300 +0000" stop="20260824144500 +0000" channel="4006#857"><title lang="ko">유부녀 킬러</title><credits><actor>공효진</actor><actor>정준원</actor><actor>이상이</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824144500 +0000" stop="20260824154200 +0000" channel="4006#857"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260822144500 +0000" stop="20260822155500 +0000" channel="4006#906"><title lang="ko">나는 자연인이다</title><desc lang="ko">자신들만의 방식으로 자연속에서 살아가는 자연인을 찾아가서 그들의 삶을 직접 체험해보는 리얼휴먼스토리.</desc><credits><actor>이승윤</actor><actor>윤택</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260822155500 +0000" stop="20260822170500 +0000" channel="4006#906"><title lang="ko">나는 자연인이다</title><desc lang="ko">자신들만의 방식으로 자연속에서 살아가는 자연인을 찾아가서 그들의 삶을 직접 체험해보는 리얼휴먼스토리.</desc><credits><actor>이승윤</actor><actor>윤택</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260822170500 +0000" stop="20260822180000 +0000" channel="4006#906"><title lang="ko">방상가서</title><credits><actor>왕자기</actor><actor>노욱효</actor></credits><category lang="ko">드라마</category></programme>
@@ -3700,9 +3700,10 @@
 <programme start="20260822220000 +0000" stop="20260823010000 +0000" channel="4007#109"><title lang="ko">2026 LPGA CPKC 위민스 오픈</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823010000 +0000" stop="20260823013000 +0000" channel="4007#109"><title lang="ko">스포타임 손흥민 스페셜</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823013000 +0000" stop="20260823023000 +0000" channel="4007#109"><title lang="ko">[손흥민 LAFC 프리뷰] 스포타임 킥오프쇼</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823023000 +0000" stop="20260823035000 +0000" channel="4007#109"><title lang="ko">스포타임 풋볼 스페셜</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823035000 +0000" stop="20260823070000 +0000" channel="4007#109"><title lang="ko">SPOTV 고교야구 시리즈 제54회 봉황대기</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823070000 +0000" stop="20260823090000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823023000 +0000" stop="20260823043000 +0000" channel="4007#109"><title lang="ko">스포타임 풋볼 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823043000 +0000" stop="20260823063000 +0000" channel="4007#109"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823063000 +0000" stop="20260823073000 +0000" channel="4007#109"><title lang="ko">스포타임 손흥민 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823073000 +0000" stop="20260823090000 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823090000 +0000" stop="20260823094500 +0000" channel="4007#109"><title lang="ko">[오늘 경기] 스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823094500 +0000" stop="20260823133000 +0000" channel="4007#109"><title lang="ko">2026 KBO 리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823133000 +0000" stop="20260823140000 +0000" channel="4007#109"><title lang="ko">스포타임 베이스볼 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -3868,15 +3869,15 @@
 <programme start="20260822124000 +0000" stop="20260822150000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822150000 +0000" stop="20260822153500 +0000" channel="4007#447"><title lang="ko">2026 FIVB 세계여자 U17 배구선수권 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822153500 +0000" stop="20260822181000 +0000" channel="4007#447"><title lang="ko">하나은행 K리그1 2026</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822181000 +0000" stop="20260822200000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822200000 +0000" stop="20260822215000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822215000 +0000" stop="20260823000000 +0000" channel="4007#447"><title lang="ko">&amp;lt;한일전 스페셜&amp;gt; 2026 아시아 배드민턴선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823000000 +0000" stop="20260823015000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823015000 +0000" stop="20260823032000 +0000" channel="4007#447"><title lang="ko">PBA 팀리그 THE SET</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823032000 +0000" stop="20260823051000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823051000 +0000" stop="20260823070000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823070000 +0000" stop="20260823083000 +0000" channel="4007#447"><title lang="ko">&amp;lt;전승 우승&amp;gt; 2026 AVC컵 여자배구대회 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823083000 +0000" stop="20260823102000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822181000 +0000" stop="20260822194000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822194000 +0000" stop="20260822215500 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822215500 +0000" stop="20260822225500 +0000" channel="4007#447"><title lang="ko">&amp;lt;한일전 스페셜&amp;gt; 2026 아시아 배드민턴선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822225500 +0000" stop="20260823011000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823011000 +0000" stop="20260823030000 +0000" channel="4007#447"><title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823030000 +0000" stop="20260823043000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823043000 +0000" stop="20260823064500 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823064500 +0000" stop="20260823080000 +0000" channel="4007#447"><title lang="ko">&amp;lt;전승 우승&amp;gt; 2026 AVC컵 여자배구대회 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823080000 +0000" stop="20260823102000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823102000 +0000" stop="20260823123000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823123000 +0000" stop="20260823142000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823142000 +0000" stop="20260823161000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 여자배구선수권</title><category lang="ko">스포츠</category></programme>
@@ -3926,22 +3927,22 @@
 <programme start="20260824113000 +0000" stop="20260824135000 +0000" channel="4007#515"><title lang="ko">2026 앙카라 3쿠션 월드컵 시청률 TOP 경기</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824135000 +0000" stop="20260824160000 +0000" channel="4007#515"><title lang="ko">2026 호치민 3쿠션 월드컵</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822142000 +0000" stop="20260822150000 +0000" channel="4007#550"><title lang="ko">전설의 다이아몬드</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="4007#550"><title lang="ko">2026 야구의 참견</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="4007#550"><title lang="ko">스포츠인 명불허전 스페셜</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260822170000 +0000" stop="20260822180000 +0000" channel="4007#550"><title lang="ko">2026 북중미 월드컵 최고의 경기</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="4007#550"><title lang="ko">2026 북중미 월드컵 골!골!골!</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="4007#550"><title lang="ko">걸어서 세계속으로 트래블홀릭</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="4007#550"><title lang="ko">생활의 발견</title><desc lang="ko">생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc><category lang="ko">교양/정보</category></programme>
-<programme start="20260822210000 +0000" stop="20260822230000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="4007#550"><title lang="ko">날아라 슛돌이 3</title><credits><actor>유상철</actor><actor>이정</actor><actor>심민</actor></credits><category lang="ko">스포츠</category></programme>
-<programme start="20260823000000 +0000" stop="20260823013000 +0000" channel="4007#550"><title lang="ko">2026 UG금융서비스 족구 코리아 디비전 J1리그 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823013000 +0000" stop="20260823030000 +0000" channel="4007#550"><title lang="ko">BNK썸 2026 KXO 3x3 부산 STOP</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그 최고의 경기</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823040000 +0000" stop="20260823050000 +0000" channel="4007#550"><title lang="ko">2026 민속씨름 최고의 순간</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823050000 +0000" stop="20260823060000 +0000" channel="4007#550"><title lang="ko">2026 야구의 참견</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822150000 +0000" stop="20260822162500 +0000" channel="4007#550"><title lang="ko">2026 야구의 참견</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822162500 +0000" stop="20260822171500 +0000" channel="4007#550"><title lang="ko">스포츠인 명불허전 스페셜</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260822171500 +0000" stop="20260822181500 +0000" channel="4007#550"><title lang="ko">2026 북중미 월드컵 최고의 경기</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822181500 +0000" stop="20260822191000 +0000" channel="4007#550"><title lang="ko">2026 북중미 월드컵 골!골!골!</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822191000 +0000" stop="20260822200500 +0000" channel="4007#550"><title lang="ko">걸어서 세계속으로 트래블홀릭</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260822200500 +0000" stop="20260822210000 +0000" channel="4007#550"><title lang="ko">생활의 발견</title><desc lang="ko">생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc><category lang="ko">교양/정보</category></programme>
+<programme start="20260822210000 +0000" stop="20260822230500 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822230500 +0000" stop="20260823001000 +0000" channel="4007#550"><title lang="ko">날아라 슛돌이 3</title><credits><actor>유상철</actor><actor>이정</actor><actor>심민</actor></credits><category lang="ko">스포츠</category></programme>
+<programme start="20260823001000 +0000" stop="20260823014500 +0000" channel="4007#550"><title lang="ko">2026 UG금융서비스 족구 코리아 디비전 J1리그 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823014500 +0000" stop="20260823031500 +0000" channel="4007#550"><title lang="ko">BNK썸 2026 KXO 3x3 부산 STOP</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823031500 +0000" stop="20260823040500 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그 최고의 경기</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823040500 +0000" stop="20260823045000 +0000" channel="4007#550"><title lang="ko">2026 민속씨름 최고의 순간</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823045000 +0000" stop="20260823060000 +0000" channel="4007#550"><title lang="ko">2026 야구의 참견</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823060000 +0000" stop="20260823070000 +0000" channel="4007#550"><title lang="ko">KBO 40 LEGEND 기록의 게임</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823070000 +0000" stop="20260823092000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823092000 +0000" stop="20260823094000 +0000" channel="4007#550"><title lang="ko">I LOVE 베이스볼 미니</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823070000 +0000" stop="20260823091000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823091000 +0000" stop="20260823094000 +0000" channel="4007#550"><title lang="ko">I LOVE 베이스볼 미니</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823094000 +0000" stop="20260823115000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823115000 +0000" stop="20260823140000 +0000" channel="4007#550"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="4007#550"><title lang="ko">I LOVE 베이스볼</title><category lang="ko">스포츠</category></programme>
@@ -3968,17 +3969,15 @@
 <programme start="20260824150000 +0000" stop="20260824180000 +0000" channel="4007#550"><title lang="ko">2026 오네 슈퍼레이스</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822143000 +0000" stop="20260822153000 +0000" channel="4007#553"><title lang="ko">(본)2026 WTA1000 신시내티 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822153000 +0000" stop="20260822173000 +0000" channel="4007#553"><title lang="ko">UFC PREVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822173000 +0000" stop="20260822190000 +0000" channel="4007#553"><title lang="ko">(생)2026 ATP1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822190000 +0000" stop="20260822210000 +0000" channel="4007#553"><title lang="ko">(생)2026 WTA1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822210000 +0000" stop="20260822220000 +0000" channel="4007#553"><title lang="ko">(본)2026 ATP1000 신시내티 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822220000 +0000" stop="20260822233000 +0000" channel="4007#553"><title lang="ko">(생)2026 ATP1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="4007#553"><title lang="ko">UFC SPECIAL</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823000000 +0000" stop="20260823030000 +0000" channel="4007#553"><title lang="ko">(생)UFC FIGHT NIGHT</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822173000 +0000" stop="20260822193500 +0000" channel="4007#553"><title lang="ko">(생)2026 ATP1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822193500 +0000" stop="20260822230000 +0000" channel="4007#553"><title lang="ko">(생)2026 WTA1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822230000 +0000" stop="20260823010500 +0000" channel="4007#553"><title lang="ko">(생)2026 ATP1000 신시내티 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823010500 +0000" stop="20260823030000 +0000" channel="4007#553"><title lang="ko">(생)UFC FIGHT NIGHT</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823030000 +0000" stop="20260823033000 +0000" channel="4007#553"><title lang="ko">(생)UFC REVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823033000 +0000" stop="20260823063000 +0000" channel="4007#553"><title lang="ko">(본)UFC FIGHT NIGHT</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823063000 +0000" stop="20260823070000 +0000" channel="4007#553"><title lang="ko">(본)UFC REVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823070000 +0000" stop="20260823080000 +0000" channel="4007#553"><title lang="ko">2026-27 하나은행 코리아컵 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="4007#553"><title lang="ko">2026 ATP1000 신시내티 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="4007#553"><title lang="ko">(본)2026 ATP1000 신시내티 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="4007#553"><title lang="ko">(본)2026 WTA1000 신시내티 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823100000 +0000" stop="20260823130000 +0000" channel="4007#553"><title lang="ko">(생)2026 메디힐 KBO 퓨처스리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823130000 +0000" stop="20260823150000 +0000" channel="4007#553"><title lang="ko">(본)UFC FIGHT NIGHT 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -4000,32 +3999,30 @@
 <programme start="20260824120000 +0000" stop="20260824140000 +0000" channel="4007#553"><title lang="ko">(본)UFC PREVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="4007#553"><title lang="ko">2025 US 오픈 테니스대회 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824150000 +0000" stop="20260824170000 +0000" channel="4007#553"><title lang="ko">(생)2026 US 오픈 테니스대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822163000 +0000" stop="20260822170000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822170000 +0000" stop="20260822173000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822190000 +0000" stop="20260822193000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822193000 +0000" stop="20260822200000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="4007#578"><title lang="ko">CYCLING: Czech Tour</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822210000 +0000" stop="20260822220000 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822220000 +0000" stop="20260823000000 +0000" channel="4007#578"><title lang="ko">CYCLING: Tour of Poland</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823003000 +0000" stop="20260823010000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823010000 +0000" stop="20260823030000 +0000" channel="4007#578"><title lang="ko">TRAIL: Golden Trail, Sierre Zinal</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823030000 +0000" stop="20260823033000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823033000 +0000" stop="20260823040000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823040000 +0000" stop="20260823043000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823050000 +0000" stop="20260823053000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823053000 +0000" stop="20260823060000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823060000 +0000" stop="20260823070000 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823070000 +0000" stop="20260823073000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823073000 +0000" stop="20260823080000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="4007#578"><title lang="ko">POKER: World Series of Poker, Las Vegas</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822152700 +0000" stop="20260822155800 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822155800 +0000" stop="20260822163000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822163000 +0000" stop="20260822165600 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822165600 +0000" stop="20260822172900 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822172900 +0000" stop="20260822180000 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822180000 +0000" stop="20260822184200 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822184200 +0000" stop="20260822191000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822191000 +0000" stop="20260822194500 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822194500 +0000" stop="20260822204300 +0000" channel="4007#578"><title lang="ko">CYCLING: Czech Tour</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822204300 +0000" stop="20260822220300 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822220300 +0000" stop="20260823000200 +0000" channel="4007#578"><title lang="ko">CYCLING: Tour of Poland</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823000200 +0000" stop="20260823003500 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823003500 +0000" stop="20260823010200 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823010200 +0000" stop="20260823023300 +0000" channel="4007#578"><title lang="ko">TRAIL: Golden Trail, Sierre Zinal</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823023300 +0000" stop="20260823031400 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823031400 +0000" stop="20260823035900 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823035900 +0000" stop="20260823043100 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823043100 +0000" stop="20260823050200 +0000" channel="4007#578"><title lang="ko">MOTOCROSS: World Championship, Sweden</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823050200 +0000" stop="20260823053000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823053000 +0000" stop="20260823060400 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823060400 +0000" stop="20260823064700 +0000" channel="4007#578"><title lang="ko">CYCLING: Renewi Tour</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823064700 +0000" stop="20260823071600 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823071600 +0000" stop="20260823075000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823075000 +0000" stop="20260823090000 +0000" channel="4007#578"><title lang="ko">POKER: World Series of Poker, Las Vegas</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823090000 +0000" stop="20260823093000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823093000 +0000" stop="20260823100000 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823100000 +0000" stop="20260823104500 +0000" channel="4007#578"><title lang="ko">MOUNTAIN BIKE: WHOOP UCI Mountain Bike World Series, Haute Savoie</title><category lang="ko">스포츠</category></programme>
@@ -4063,19 +4060,18 @@
 <programme start="20260824140000 +0000" stop="20260824160000 +0000" channel="4007#578"><title lang="ko">EQUESTRIAN: Global Champions Tour, London</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822130000 +0000" stop="20260822153000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822153000 +0000" stop="20260822183000 +0000" channel="4007#685"><title lang="ko">오늘의 KPGA 2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="4007#685"><title lang="ko">미쓰 제로</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822190000 +0000" stop="20260822210000 +0000" channel="4007#685"><title lang="ko">2026 KPGA 챔피언스투어 제16회 그랜드CC배 KPGA 시니어 골프대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822210000 +0000" stop="20260822213000 +0000" channel="4007#685"><title lang="ko">골프 디톡스</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822213000 +0000" stop="20260822224000 +0000" channel="4007#685"><title lang="ko">SBS 골프 아카데미</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822224000 +0000" stop="20260823020000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823020000 +0000" stop="20260823053000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823053000 +0000" stop="20260823080000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823080000 +0000" stop="20260823113000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823113000 +0000" stop="20260823140000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823140000 +0000" stop="20260823171000 +0000" channel="4007#685"><title lang="ko">오늘의 KPGA 2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823140000 +0000" stop="20260823171000 +0000" channel="4007#685"><title lang="ko">오늘의 KPGA 2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823171000 +0000" stop="20260823182000 +0000" channel="4007#685"><title lang="ko">골프도,여행도 in 베트남</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823182000 +0000" stop="20260823191000 +0000" channel="4007#685"><title lang="ko">TOP CLASS</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822183000 +0000" stop="20260822203000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822203000 +0000" stop="20260822223000 +0000" channel="4007#685"><title lang="ko">2026 KPGA 챔피언스투어 제16회 그랜드CC배 KPGA 시니어 골프대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822223000 +0000" stop="20260822230000 +0000" channel="4007#685"><title lang="ko">골프 디톡스</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="4007#685"><title lang="ko">SBS 골프 아카데미</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="4007#685"><title lang="ko">2026 넥센 세인트나인 우리동호회 Masters</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823010000 +0000" stop="20260823033000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823033000 +0000" stop="20260823070000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823070000 +0000" stop="20260823100000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823100000 +0000" stop="20260823133000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823133000 +0000" stop="20260823160000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823133000 +0000" stop="20260823160000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823160000 +0000" stop="20260823191000 +0000" channel="4007#685"><title lang="ko">오늘의 KPGA 2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823191000 +0000" stop="20260823213000 +0000" channel="4007#685"><title lang="ko">2025 KLPGA 제14회 KG 레이디스 오픈</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823213000 +0000" stop="20260824000000 +0000" channel="4007#685"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824000000 +0000" stop="20260824033000 +0000" channel="4007#685"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
@@ -4088,21 +4084,19 @@
 <programme start="20260824140000 +0000" stop="20260824142000 +0000" channel="4007#685"><title lang="ko">원 퍼트 프로젝트 : 10.8</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824142000 +0000" stop="20260824161000 +0000" channel="4007#685"><title lang="ko">2026 KPGA 데이비드골프 투어</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822124000 +0000" stop="20260822151000 +0000" channel="4007#769"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822151000 +0000" stop="20260822173000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822173000 +0000" stop="20260822184000 +0000" channel="4007#769"><title lang="ko">SBS골프 클리닉</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822184000 +0000" stop="20260822190000 +0000" channel="4007#769"><title lang="ko">파워 X 골프</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822151000 +0000" stop="20260822180000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="4007#769"><title lang="ko">SBS골프 클리닉</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="4007#769"><title lang="ko">SBS골프 아카데미</title><desc lang="ko">스튜디오에서 진행하는 체계적인 레슨 프로그램으로 시청자가 보내온 비디오 테잎을 분석하고, 스튜디오에 스윙을 바로잡게 된다.</desc><category lang="ko">스포츠</category></programme>
 <programme start="20260822200000 +0000" stop="20260822214000 +0000" channel="4007#769"><title lang="ko">2026 KGA 제3회 신한동해 남자아마추어 골프선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822214000 +0000" stop="20260823000000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823000000 +0000" stop="20260823033000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십(경기 포천시 포천힐스CC)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823033000 +0000" stop="20260823071000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십(경기 포천시 포천힐스CC)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823071000 +0000" stop="20260823092000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823092000 +0000" stop="20260823113000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823113000 +0000" stop="20260823140000 +0000" channel="4007#769"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823140000 +0000" stop="20260823163000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823140000 +0000" stop="20260823163000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823163000 +0000" stop="20260823182000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 솔라고 점프투어</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823182000 +0000" stop="20260823191000 +0000" channel="4007#769"><title lang="ko">파워 X 골프</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823033000 +0000" stop="20260823073000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십(경기 포천시 포천힐스CC)</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823073000 +0000" stop="20260823100000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823100000 +0000" stop="20260823130000 +0000" channel="4007#769"><title lang="ko">[메이저] 2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823130000 +0000" stop="20260823153000 +0000" channel="4007#769"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823130000 +0000" stop="20260823153000 +0000" channel="4007#769"><title lang="ko">2026 KPGA투어 동아회원권그룹 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823153000 +0000" stop="20260823180000 +0000" channel="4007#769"><title lang="ko">2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823180000 +0000" stop="20260823191000 +0000" channel="4007#769"><title lang="ko">제2회 DB증권 직장인 골프 챔피언십</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823191000 +0000" stop="20260823201000 +0000" channel="4007#769"><title lang="ko">SBS골프 클리닉</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823201000 +0000" stop="20260823211000 +0000" channel="4007#769"><title lang="ko">2026 키움증권 고교동창 골프 최강전</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823211000 +0000" stop="20260823234000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 이스트원 오션비치 드림투어</title><category lang="ko">스포츠</category></programme>
@@ -4121,17 +4115,17 @@
 <programme start="20260822150000 +0000" stop="20260822170000 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822170000 +0000" stop="20260822190000 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그 끝내기 몰아보기</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="4007#911"><title lang="ko">2024 PBA 에스와이 바자르 하노이 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="4007#911"><title lang="ko">2024 PBA 에스와이 바자르 하노이 오픈</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822210000 +0000" stop="20260822223000 +0000" channel="4007#911"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260822223000 +0000" stop="20260822230000 +0000" channel="4007#911"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822230000 +0000" stop="20260823010000 +0000" channel="4007#911"><title lang="ko">2026 NFL 프리시즌</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823010000 +0000" stop="20260823030000 +0000" channel="4007#911"><title lang="ko">2024 전국 어린이 씨름왕대회 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823030000 +0000" stop="20260823050000 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823050000 +0000" stop="20260823073000 +0000" channel="4007#911"><title lang="ko">2026 구례 전국 여자 천하장사 및 대학장사 씨름대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822200000 +0000" stop="20260822210100 +0000" channel="4007#911"><title lang="ko">2024 PBA 에스와이 바자르 하노이 오픈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822210100 +0000" stop="20260822224100 +0000" channel="4007#911"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260822224100 +0000" stop="20260822231600 +0000" channel="4007#911"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822231600 +0000" stop="20260823005200 +0000" channel="4007#911"><title lang="ko">2026 NFL 프리시즌</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823005200 +0000" stop="20260823025400 +0000" channel="4007#911"><title lang="ko">2024 전국 어린이 씨름왕대회 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823025400 +0000" stop="20260823045500 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823045500 +0000" stop="20260823073000 +0000" channel="4007#911"><title lang="ko">2026 구례 전국 여자 천하장사 및 대학장사 씨름대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823073000 +0000" stop="20260823080000 +0000" channel="4007#911"><title lang="ko">2026 KBO리그 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="4007#911"><title lang="ko">에스와이 LPBA 챔피언십 2026-2027</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="4007#911"><title lang="ko">순위공개 엠피셜 KBO 포스트시즌 명장면</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823100000 +0000" stop="20260823130000 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823090000 +0000" stop="20260823094500 +0000" channel="4007#911"><title lang="ko">순위공개 엠피셜 KBO 포스트시즌 명장면</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823094500 +0000" stop="20260823130000 +0000" channel="4007#911"><title lang="ko">2026 신한 SOL KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823130000 +0000" stop="20260823140000 +0000" channel="4007#911"><title lang="ko">베이스볼 투나잇</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="4007#911"><title lang="ko">베이스볼 투나잇</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="4007#911"><title lang="ko">베이스볼 투나잇</title><category lang="ko">스포츠</category></programme>
@@ -4161,17 +4155,19 @@
 <programme start="20260822190000 +0000" stop="20260822203000 +0000" channel="4007#922"><title lang="ko">스포타임 배드민턴</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822203000 +0000" stop="20260822220000 +0000" channel="4007#922"><title lang="ko">2026 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822220000 +0000" stop="20260823000000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 26-27 세리에A</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823000000 +0000" stop="20260823005000 +0000" channel="4007#922"><title lang="ko">스포타임 베이스볼</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823005000 +0000" stop="20260823040000 +0000" channel="4007#922"><title lang="ko">SPOTV 고교야구 시리즈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="4007#922"><title lang="ko">스포타임 손흥민 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823003000 +0000" stop="20260823013000 +0000" channel="4007#922"><title lang="ko">스포타임 베이스볼</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823013000 +0000" stop="20260823023000 +0000" channel="4007#922"><title lang="ko">[손흥민 LAFC 프리뷰] 스포타임 킥오프쇼</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823023000 +0000" stop="20260823040000 +0000" channel="4007#922"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823040000 +0000" stop="20260823053000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 메이저리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823053000 +0000" stop="20260823073000 +0000" channel="4007#922"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823073000 +0000" stop="20260823090000 +0000" channel="4007#922"><title lang="ko">스포타임 풋볼 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823053000 +0000" stop="20260823070000 +0000" channel="4007#922"><title lang="ko">스포타임 풋볼 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823070000 +0000" stop="20260823090000 +0000" channel="4007#922"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823090000 +0000" stop="20260823094500 +0000" channel="4007#922"><title lang="ko">스포타임 베이스볼</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823094500 +0000" stop="20260823133000 +0000" channel="4007#922"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823133000 +0000" stop="20260823143000 +0000" channel="4007#922"><title lang="ko">스포타임 베이스볼</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823143000 +0000" stop="20260823163000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823143000 +0000" stop="20260823163000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823163000 +0000" stop="20260823180000 +0000" channel="4007#922"><title lang="ko">SPOTV 고교야구 시리즈</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823163000 +0000" stop="20260823180000 +0000" channel="4007#922"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823180000 +0000" stop="20260823190000 +0000" channel="4007#922"><title lang="ko">GD LESSON 고덕호</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823190000 +0000" stop="20260823195500 +0000" channel="4007#922"><title lang="ko">스포 타임머신 AI 리마스터드 축구 국가대표 특집 - 대한민국 전술 변화 이야기</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823195500 +0000" stop="20260823230000 +0000" channel="4007#922"><title lang="ko">2026 메이저리그</title><category lang="ko">스포츠</category></programme>
@@ -4212,17 +4208,17 @@
 <programme start="20260824133000 +0000" stop="20260824150000 +0000" channel="4007#974"><title lang="ko">2026 JLPGA CAT 레이디스 하이라이트 90</title><category lang="ko">스포츠</category></programme>
 <programme start="20260824150000 +0000" stop="20260824170000 +0000" channel="4007#974"><title lang="ko">Replay 2026 LIV GOLF 인디애나폴리스</title><category lang="ko">스포츠</category></programme>
 <programme start="20260822140300 +0000" stop="20260822150500 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822150500 +0000" stop="20260822172700 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822172700 +0000" stop="20260822175200 +0000" channel="4007#977"><title lang="ko">베이스볼S 다이제스트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822175200 +0000" stop="20260822204000 +0000" channel="4007#977"><title lang="ko">25-26 ISU 쇼트트랙 월드투어 메달 모음</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822204000 +0000" stop="20260822230000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822230000 +0000" stop="20260822235700 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
-<programme start="20260822235700 +0000" stop="20260823005400 +0000" channel="4007#977"><title lang="ko">내일은 태권왕 시즌2</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260823005400 +0000" stop="20260823032200 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823032200 +0000" stop="20260823043000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그 KIA 김도영 홈런경기 몰아보기</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823043000 +0000" stop="20260823062300 +0000" channel="4007#977"><title lang="ko">2026 IBK기업은행배 전국 중.고배구대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823062300 +0000" stop="20260823085100 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823085100 +0000" stop="20260823095000 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822150500 +0000" stop="20260822183000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="4007#977"><title lang="ko">베이스볼S 다이제스트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822190000 +0000" stop="20260822203500 +0000" channel="4007#977"><title lang="ko">25-26 ISU 쇼트트랙 월드투어 메달 모음</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822203500 +0000" stop="20260822230000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="4007#977"><title lang="ko">내일은 태권왕 시즌2</title><category lang="ko">연예/오락</category></programme>
+<programme start="20260823010000 +0000" stop="20260823032000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823032000 +0000" stop="20260823043500 +0000" channel="4007#977"><title lang="ko">2026 KBO리그 KIA 김도영 홈런경기 몰아보기</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823043500 +0000" stop="20260823063000 +0000" channel="4007#977"><title lang="ko">2026 IBK기업은행배 전국 중.고배구대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823063000 +0000" stop="20260823085000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823085000 +0000" stop="20260823095000 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823095000 +0000" stop="20260823130000 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823130000 +0000" stop="20260823140700 +0000" channel="4007#977"><title lang="ko">베이스볼S</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823140700 +0000" stop="20260823163300 +0000" channel="4007#977"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
@@ -4252,9 +4248,12 @@
 <programme start="20260823022000 +0000" stop="20260823043000 +0000" channel="4007#985"><title lang="ko">2026 메이저리그 사커</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823043000 +0000" stop="20260823053000 +0000" channel="4007#985"><title lang="ko">SPOTIME FOOTBALL</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823053000 +0000" stop="20260823073000 +0000" channel="4007#985"><title lang="ko">[손흥민] 2026 메이저리그 사커</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823073000 +0000" stop="20260823100000 +0000" channel="4007#985"><title lang="ko">[영어중계] 2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823100000 +0000" stop="20260823123000 +0000" channel="4007#985"><title lang="ko">[영어중계] 2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
-<programme start="20260823123000 +0000" stop="20260823143000 +0000" channel="4007#985"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823073000 +0000" stop="20260823083000 +0000" channel="4007#985"><title lang="ko">[영어중계] 2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823083000 +0000" stop="20260823093000 +0000" channel="4007#985"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823093000 +0000" stop="20260823100000 +0000" channel="4007#985"><title lang="ko">[영어중계] 2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823100000 +0000" stop="20260823110000 +0000" channel="4007#985"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823110000 +0000" stop="20260823120000 +0000" channel="4007#985"><title lang="ko">[영어중계] 2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
+<programme start="20260823120000 +0000" stop="20260823143000 +0000" channel="4007#985"><title lang="ko">2026 BWF 배드민턴 세계선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823143000 +0000" stop="20260823163000 +0000" channel="4007#985"><title lang="ko">[손흥민] 2026 메이저리그 사커 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823143000 +0000" stop="20260823163000 +0000" channel="4007#985"><title lang="ko">[손흥민] 2026 메이저리그 사커 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260823163000 +0000" stop="20260823173000 +0000" channel="4007#985"><title lang="ko">SPOTIME 메이저리그</title><category lang="ko">스포츠</category></programme>
@@ -4584,21 +4583,34 @@
 <programme start="20260823112500 +0000" stop="20260823122500 +0000" channel="4008#521"><title lang="ko">조선호텔 LA갈비</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260823122500 +0000" stop="20260823132600 +0000" channel="4008#521"><title lang="ko">가누다 피아노 베개</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260823132600 +0000" stop="20260823142600 +0000" channel="4008#521"><title lang="ko">파나소닉 구강세정기</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823142600 +0000" stop="20260823150000 +0000" channel="4008#521"><title lang="ko">블루핏 무스탕</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823142600 +0000" stop="20260823150000 +0000" channel="4008#521"><title lang="ko">블루핏 무스탕</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823150000 +0000" stop="20260823170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823150000 +0000" stop="20260823170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823170000 +0000" stop="20260823190000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823190000 +0000" stop="20260823210000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823210000 +0000" stop="20260823230000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260823230000 +0000" stop="20260824010000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824010000 +0000" stop="20260824030000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824030000 +0000" stop="20260824050000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824050000 +0000" stop="20260824070000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824070000 +0000" stop="20260824090000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824090000 +0000" stop="20260824110000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824110000 +0000" stop="20260824130000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
-<programme start="20260824130000 +0000" stop="20260824150000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823142600 +0000" stop="20260823152700 +0000" channel="4008#521"><title lang="ko">블루핏 무스탕</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823142600 +0000" stop="20260823152700 +0000" channel="4008#521"><title lang="ko">블루핏 무스탕</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823152700 +0000" stop="20260823162700 +0000" channel="4008#521"><title lang="ko">전설의패치 준대형 240매</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823162700 +0000" stop="20260823172800 +0000" channel="4008#521"><title lang="ko">울시26SS남성썸머팬츠 3종</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823172800 +0000" stop="20260823173800 +0000" channel="4008#521"><title lang="ko">[효돈농협]제주 하우스감</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823173800 +0000" stop="20260823183900 +0000" channel="4008#521"><title lang="ko">더마펌 리프팅샷 앰플</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823183900 +0000" stop="20260823191900 +0000" channel="4008#521"><title lang="ko">볼레로 숄 원피스 셋업</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823191900 +0000" stop="20260823193000 +0000" channel="4008#521"><title lang="ko">또또뻥 현미칩 8+8봉</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823193000 +0000" stop="20260823203000 +0000" channel="4008#521"><title lang="ko">비비안 올인원 이종</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823203000 +0000" stop="20260823213000 +0000" channel="4008#521"><title lang="ko">HLB 어진 맥문동 진액</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823213000 +0000" stop="20260823223100 +0000" channel="4008#521"><title lang="ko">모브온 배색 티블라우스</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823223100 +0000" stop="20260823233100 +0000" channel="4008#521"><title lang="ko">히트락 밀폐용기 데일리세</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260823233100 +0000" stop="20260824003200 +0000" channel="4008#521"><title lang="ko">여성 스케쳐스 밥스 비 플</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824003200 +0000" stop="20260824013200 +0000" channel="4008#521"><title lang="ko">제로숨 항균 탈취 스프레</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824013200 +0000" stop="20260824023200 +0000" channel="4008#521"><title lang="ko">프롬바이오 위엔 매스틱</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824023200 +0000" stop="20260824033300 +0000" channel="4008#521"><title lang="ko">[지베르니 윈드 재킷</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824033300 +0000" stop="20260824043300 +0000" channel="4008#521"><title lang="ko">동국제약 유스퍼펙션 아이</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824043300 +0000" stop="20260824053300 +0000" channel="4008#521"><title lang="ko">귀리60팩 흑임자45팩</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824053300 +0000" stop="20260824063400 +0000" channel="4008#521"><title lang="ko">르까프 남성 반팔티셔츠</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824063400 +0000" stop="20260824073400 +0000" channel="4008#521"><title lang="ko">양평서울 한우해장국 700g</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824073400 +0000" stop="20260824083400 +0000" channel="4008#521"><title lang="ko">닥터린 콘드로이친 1200</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824083400 +0000" stop="20260824093500 +0000" channel="4008#521"><title lang="ko">조선호텔 양념 소갈비</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824093500 +0000" stop="20260824103500 +0000" channel="4008#521"><title lang="ko">튜블러 7부소매티셔츠</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824103500 +0000" stop="20260824113500 +0000" channel="4008#521"><title lang="ko">비에날씬 프로</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824113500 +0000" stop="20260824123600 +0000" channel="4008#521"><title lang="ko">이시형 마그네슘 아홉박스</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824123600 +0000" stop="20260824133600 +0000" channel="4008#521"><title lang="ko">닥터3 립타투</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824133600 +0000" stop="20260824143700 +0000" channel="4008#521"><title lang="ko">스위스알파인클럽 프라임</title><category lang="ko">홈쇼핑</category></programme>
+<programme start="20260824143700 +0000" stop="20260824150000 +0000" channel="4008#521"><title lang="ko">차맵 신차장기렌터카 비교</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260824150000 +0000" stop="20260824170000 +0000" channel="4008#521"><title lang="ko">편성예정 입니다</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260822142100 +0000" stop="20260822152100 +0000" channel="4008#529"><title lang="ko">[RODZINA]오한진백세알부민</title><category lang="ko">홈쇼핑</category></programme>
 <programme start="20260822152100 +0000" stop="20260822162100 +0000" channel="4008#529"><title lang="ko">[그레인온]파로효소캡슐레이션</title><category lang="ko">홈쇼핑</category></programme>
@@ -5416,23 +5428,23 @@
 <programme start="20260823015500 +0000" stop="20260823033500 +0000" channel="4009#60"><title lang="ko">우주떡집</title><credits><actor>이은지</actor><actor>미미</actor><actor>이영지</actor><actor>안유진</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260823033500 +0000" stop="20260823050500 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260823050500 +0000" stop="20260823071500 +0000" channel="4009#60"><title lang="ko">언니네 산지직송3</title><credits><actor>염정아</actor><actor>김선영</actor><actor>강유석</actor><actor>노윤서</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823071500 +0000" stop="20260823090000 +0000" channel="4009#60"><title lang="ko">우주떡집</title><credits><actor>이은지</actor><actor>미미</actor><actor>이영지</actor><actor>안유진</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823090000 +0000" stop="20260823103000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260823071500 +0000" stop="20260823090500 +0000" channel="4009#60"><title lang="ko">우주떡집</title><credits><actor>이은지</actor><actor>미미</actor><actor>이영지</actor><actor>안유진</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823090500 +0000" stop="20260823103000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260823103000 +0000" stop="20260823121000 +0000" channel="4009#60"><title lang="ko">스트릿 레스토랑 파이터</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260823121000 +0000" stop="20260823133000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260823133000 +0000" stop="20260823155000 +0000" channel="4009#60"><title lang="ko">유 퀴즈 온 더 블럭</title><desc lang="ko">You Quiz On The Block. Step by step~ 보통날을 살아가는 당신 앞에 나타난 유재석x조세호. 두 사람이 건넨 한마디. quot;You Quiz...?quot; 평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc><credits><actor>유재석</actor><actor>조세호</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823133000 +0000" stop="20260823155000 +0000" channel="4009#60"><title lang="ko">유 퀴즈 온 더 블럭</title><desc lang="ko">You Quiz On The Block. Step by step~ 보통날을 살아가는 당신 앞에 나타난 유재석x조세호. 두 사람이 건넨 한마디. quot;You Quiz...?quot; 평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc><credits><actor>유재석</actor><actor>조세호</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823155000 +0000" stop="20260823181000 +0000" channel="4009#60"><title lang="ko">언니네 산지직송3</title><credits><actor>염정아</actor><actor>김선영</actor><actor>강유석</actor><actor>노윤서</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823181000 +0000" stop="20260823195000 +0000" channel="4009#60"><title lang="ko">놀라운 토요일</title><desc lang="ko">토요일 저녁! 가족이 모여 함께 즐길 수 있는 예능 프로그램</desc><credits><actor>신동엽</actor><actor>박나래</actor><actor>문세윤</actor><actor>붐</actor><actor>피오</actor><actor>김동현</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260823195000 +0000" stop="20260823210000 +0000" channel="4009#60"><title lang="ko">너의 몸소리가 들려</title><credits><actor>이승연</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260823210000 +0000" stop="20260823215000 +0000" channel="4009#60"><title lang="ko">너의 몸소리가 들려</title><credits><actor>이승연</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260823215000 +0000" stop="20260823225000 +0000" channel="4009#60"><title lang="ko">웰컴 투 불로촌</title><desc lang="ko">무병장수의 꿈이 실현되는 곳! 불로장생의 꿈이 현실이 되는 곳. 자연 안에서 완성되는 백세 건강촌 이야기. 국내를 넘어 세계 곳곳의 장수 불로촌을 찾아 이들의 건강 시크릿을 찾아낸다. 세상 어디에도 없는 건강 흙남매의 찐 케미 웰컴 투 불로촌! 불로촌으로 힐링하러 오세요!</desc><credits><actor>이원종</actor><actor>황석정</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260823225000 +0000" stop="20260824001000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260824001000 +0000" stop="20260824014000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260823121000 +0000" stop="20260823133500 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260823133500 +0000" stop="20260823155500 +0000" channel="4009#60"><title lang="ko">유 퀴즈 온 더 블럭</title><desc lang="ko">You Quiz On The Block. Step by step~ 보통날을 살아가는 당신 앞에 나타난 유재석x조세호. 두 사람이 건넨 한마디. quot;You Quiz...?quot; 평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc><credits><actor>유재석</actor><actor>조세호</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823133500 +0000" stop="20260823155500 +0000" channel="4009#60"><title lang="ko">유 퀴즈 온 더 블럭</title><desc lang="ko">You Quiz On The Block. Step by step~ 보통날을 살아가는 당신 앞에 나타난 유재석x조세호. 두 사람이 건넨 한마디. quot;You Quiz...?quot; 평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc><credits><actor>유재석</actor><actor>조세호</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823155500 +0000" stop="20260823181000 +0000" channel="4009#60"><title lang="ko">언니네 산지직송3</title><credits><actor>염정아</actor><actor>김선영</actor><actor>강유석</actor><actor>노윤서</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823181000 +0000" stop="20260823195500 +0000" channel="4009#60"><title lang="ko">놀라운 토요일</title><desc lang="ko">토요일 저녁! 가족이 모여 함께 즐길 수 있는 예능 프로그램</desc><credits><actor>신동엽</actor><actor>박나래</actor><actor>문세윤</actor><actor>붐</actor><actor>피오</actor><actor>김동현</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260823195500 +0000" stop="20260823205500 +0000" channel="4009#60"><title lang="ko">너의 몸소리가 들려</title><credits><actor>이승연</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260823205500 +0000" stop="20260823215500 +0000" channel="4009#60"><title lang="ko">너의 몸소리가 들려</title><credits><actor>이승연</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260823215500 +0000" stop="20260823225500 +0000" channel="4009#60"><title lang="ko">웰컴 투 불로촌</title><desc lang="ko">무병장수의 꿈이 실현되는 곳! 불로장생의 꿈이 현실이 되는 곳. 자연 안에서 완성되는 백세 건강촌 이야기. 국내를 넘어 세계 곳곳의 장수 불로촌을 찾아 이들의 건강 시크릿을 찾아낸다. 세상 어디에도 없는 건강 흙남매의 찐 케미 웰컴 투 불로촌! 불로촌으로 힐링하러 오세요!</desc><credits><actor>이원종</actor><actor>황석정</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260823225500 +0000" stop="20260824001500 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824001500 +0000" stop="20260824014000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260824014000 +0000" stop="20260824040000 +0000" channel="4009#60"><title lang="ko">유 퀴즈 온 더 블럭</title><desc lang="ko">You Quiz On The Block. Step by step~ 보통날을 살아가는 당신 앞에 나타난 유재석x조세호. 두 사람이 건넨 한마디. quot;You Quiz...?quot; 평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc><credits><actor>유재석</actor><actor>조세호</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260824040000 +0000" stop="20260824052000 +0000" channel="4009#60"><title lang="ko">언니네 산지직송3</title><credits><actor>염정아</actor><actor>김선영</actor><actor>강유석</actor><actor>노윤서</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824052000 +0000" stop="20260824070000 +0000" channel="4009#60"><title lang="ko">우주떡집</title><credits><actor>이은지</actor><actor>미미</actor><actor>이영지</actor><actor>안유진</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260824070000 +0000" stop="20260824083000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
+<programme start="20260824052000 +0000" stop="20260824070500 +0000" channel="4009#60"><title lang="ko">우주떡집</title><credits><actor>이은지</actor><actor>미미</actor><actor>이영지</actor><actor>안유진</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260824070500 +0000" stop="20260824083000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260824083000 +0000" stop="20260824095000 +0000" channel="4009#60"><title lang="ko">오싹한 연애</title><credits><actor>박은빈</actor><actor>양세종</actor><actor>옹성우</actor><actor>조혜주</actor><actor>차미경</actor><actor>예수정</actor><actor>백지원</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260824095000 +0000" stop="20260824115000 +0000" channel="4009#60"><title lang="ko">스트릿 레스토랑 파이터</title><category lang="ko">연예/오락</category></programme>
 <programme start="20260824115000 +0000" stop="20260824131000 +0000" channel="4009#60"><title lang="ko">최애의 사원</title><credits><actor>김혜준</actor><actor>강훈</actor><actor>차우민</actor></credits><category lang="ko">드라마</category></programme>
@@ -13472,42 +13484,45 @@
 <programme start="20260824113000 +0000" stop="20260824133500 +0000" channel="CCTV5Plus.cn@SD"><title lang="zh">CMG群众篮球争霸赛（浙江苍南站）-B组（杭州队-南昌队）</title></programme>
 <programme start="20260824133500 +0000" stop="20260824150600 +0000" channel="CCTV5Plus.cn@SD"><title lang="zh">实况录像-2026年世界二十岁以下田径锦标赛 1</title></programme>
 <programme start="20260824150600 +0000" stop="20260824155900 +0000" channel="CCTV5Plus.cn@SD"><title lang="zh">实况录像-2026年世界皮划艇激流回旋锦标赛 1</title></programme>
-<programme start="20260822164225 +0000" stop="20260822181802 +0000" channel="CCTV6.cn@SD"><title lang="zh">超时空救兵</title></programme>
-<programme start="20260822181802 +0000" stop="20260822195502 +0000" channel="CCTV6.cn@SD"><title lang="zh">抢花炮</title></programme>
-<programme start="20260822195502 +0000" stop="20260822224644 +0000" channel="CCTV6.cn@SD"><title lang="zh">海市蜃楼</title></programme>
-<programme start="20260822224644 +0000" stop="20260823002834 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之替天行盗</title></programme>
-<programme start="20260823002834 +0000" stop="20260823020849 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之盗亦有道</title></programme>
-<programme start="20260823020849 +0000" stop="20260823034853 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之龙凤大盗</title></programme>
-<programme start="20260823034853 +0000" stop="20260823035533 +0000" channel="CCTV6.cn@SD"><title lang="zh">音乐电影欣赏</title></programme>
-<programme start="20260823035533 +0000" stop="20260823054255 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之独行其盗</title></programme>
-<programme start="20260823054255 +0000" stop="20260823072403 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之舞“盗”团</title></programme>
-<programme start="20260823072403 +0000" stop="20260823074313 +0000" channel="CCTV6.cn@SD"><title lang="zh">佳片有约周日版2026-034</title></programme>
-<programme start="20260823074313 +0000" stop="20260823081023 +0000" channel="CCTV6.cn@SD"><title lang="zh">王牌特工：特工学院（上）</title></programme>
-<programme start="20260823081023 +0000" stop="20260823095828 +0000" channel="CCTV6.cn@SD"><title lang="zh">王牌特工：特工学院（下）</title></programme>
-<programme start="20260823095828 +0000" stop="20260823114919 +0000" channel="CCTV6.cn@SD"><title lang="zh">怒战</title></programme>
-<programme start="20260823114919 +0000" stop="20260823140042 +0000" channel="CCTV6.cn@SD"><title lang="zh">大红灯笼高高挂</title></programme>
-<programme start="20260823140042 +0000" stop="20260823141842 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国电影报道2026-235</title></programme>
-<programme start="20260823141842 +0000" stop="20260823142427 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国福利彩票阳光开奖2026-08-23</title></programme>
-<programme start="20260823142427 +0000" stop="20260823150107 +0000" channel="CCTV6.cn@SD"><title lang="zh">西北偏北（上）</title></programme>
-<programme start="20260823150107 +0000" stop="20260823150237 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国体育彩票阳光开奖2026-08-23</title></programme>
-<programme start="20260823150237 +0000" stop="20260823155900 +0000" channel="CCTV6.cn@SD"><title lang="zh">西北偏北（下）</title></programme>
-<programme start="20260823160642 +0000" stop="20260823174255 +0000" channel="CCTV6.cn@SD"><title lang="zh">夺宝黑狐岭</title></programme>
-<programme start="20260823174255 +0000" stop="20260823191713 +0000" channel="CCTV6.cn@SD"><title lang="zh">喜神</title></programme>
-<programme start="20260823191713 +0000" stop="20260823220730 +0000" channel="CCTV6.cn@SD"><title lang="zh">追拳</title></programme>
-<programme start="20260823220730 +0000" stop="20260823234543 +0000" channel="CCTV6.cn@SD"><title lang="zh">狗先生追爱记</title></programme>
-<programme start="20260823234543 +0000" stop="20260824015716 +0000" channel="CCTV6.cn@SD"><title lang="zh">大红灯笼高高挂</title></programme>
-<programme start="20260824015716 +0000" stop="20260824034345 +0000" channel="CCTV6.cn@SD"><title lang="zh">飞驰人生</title></programme>
-<programme start="20260824034345 +0000" stop="20260824035000 +0000" channel="CCTV6.cn@SD"><title lang="zh">音乐电影欣赏</title></programme>
-<programme start="20260824035000 +0000" stop="20260824060119 +0000" channel="CCTV6.cn@SD"><title lang="zh">长安的荔枝</title></programme>
-<programme start="20260824060119 +0000" stop="20260824082014 +0000" channel="CCTV6.cn@SD"><title lang="zh">异星引力2</title></programme>
-<programme start="20260824082014 +0000" stop="20260824103529 +0000" channel="CCTV6.cn@SD"><title lang="zh">星际迷航3： 超越星辰</title></programme>
-<programme start="20260824103529 +0000" stop="20260824121450 +0000" channel="CCTV6.cn@SD"><title lang="zh">大话西游之一月光宝盒</title></programme>
-<programme start="20260824121450 +0000" stop="20260824140000 +0000" channel="CCTV6.cn@SD"><title lang="zh">大话西游之二大圣娶亲</title></programme>
+<programme start="20260822163801 +0000" stop="20260822180938 +0000" channel="CCTV6.cn@SD"><title lang="zh">超时空救兵</title></programme>
+<programme start="20260822180938 +0000" stop="20260822194859 +0000" channel="CCTV6.cn@SD"><title lang="zh">抢花炮</title></programme>
+<programme start="20260822194859 +0000" stop="20260822214920 +0000" channel="CCTV6.cn@SD"><title lang="zh">海市蜃楼</title></programme>
+<programme start="20260822214920 +0000" stop="20260822222535 +0000" channel="CCTV6.cn@SD"><title lang="zh">我和我的父辈：乘风</title></programme>
+<programme start="20260822222535 +0000" stop="20260822224639 +0000" channel="CCTV6.cn@SD"><title lang="zh">我和我的祖国：白昼流星</title></programme>
+<programme start="20260822224639 +0000" stop="20260823002914 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之替天行盗</title></programme>
+<programme start="20260823002914 +0000" stop="20260823020834 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之盗亦有道</title></programme>
+<programme start="20260823020834 +0000" stop="20260823035453 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之龙凤大盗</title></programme>
+<programme start="20260823035453 +0000" stop="20260823040023 +0000" channel="CCTV6.cn@SD"><title lang="zh">音乐电影欣赏</title></programme>
+<programme start="20260823040023 +0000" stop="20260823054810 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之独行其盗</title></programme>
+<programme start="20260823054810 +0000" stop="20260823072918 +0000" channel="CCTV6.cn@SD"><title lang="zh">猛虎嗅蔷薇之舞“盗”团</title></programme>
+<programme start="20260823072918 +0000" stop="20260823074828 +0000" channel="CCTV6.cn@SD"><title lang="zh">佳片有约周日版2026-034</title></programme>
+<programme start="20260823074828 +0000" stop="20260823081731 +0000" channel="CCTV6.cn@SD"><title lang="zh">王牌特工：特工学院（上）</title></programme>
+<programme start="20260823081731 +0000" stop="20260823101004 +0000" channel="CCTV6.cn@SD"><title lang="zh">王牌特工：特工学院（下）</title></programme>
+<programme start="20260823101004 +0000" stop="20260823115550 +0000" channel="CCTV6.cn@SD"><title lang="zh">怒战</title></programme>
+<programme start="20260823115550 +0000" stop="20260823140000 +0000" channel="CCTV6.cn@SD"><title lang="zh">红河谷</title></programme>
+<programme start="20260823140000 +0000" stop="20260823141800 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国电影报道2026-235</title></programme>
+<programme start="20260823141800 +0000" stop="20260823142345 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国福利彩票阳光开奖2026-08-23</title></programme>
+<programme start="20260823142345 +0000" stop="20260823150003 +0000" channel="CCTV6.cn@SD"><title lang="zh">西北偏北（上）</title></programme>
+<programme start="20260823150003 +0000" stop="20260823150103 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国体育彩票阳光开奖2026-08-23</title></programme>
+<programme start="20260823150103 +0000" stop="20260823155900 +0000" channel="CCTV6.cn@SD"><title lang="zh">西北偏北（下）</title></programme>
+<programme start="20260823163520 +0000" stop="20260823180733 +0000" channel="CCTV6.cn@SD"><title lang="zh">夺宝黑狐岭</title></programme>
+<programme start="20260823180733 +0000" stop="20260823194151 +0000" channel="CCTV6.cn@SD"><title lang="zh">喜神</title></programme>
+<programme start="20260823194151 +0000" stop="20260823211158 +0000" channel="CCTV6.cn@SD"><title lang="zh">追拳</title></programme>
+<programme start="20260823211158 +0000" stop="20260823222644 +0000" channel="CCTV6.cn@SD"><title lang="zh">戚家军</title></programme>
+<programme start="20260823222644 +0000" stop="20260824000247 +0000" channel="CCTV6.cn@SD"><title lang="zh">狗先生追爱记</title></programme>
+<programme start="20260824000247 +0000" stop="20260824020617 +0000" channel="CCTV6.cn@SD"><title lang="zh">红河谷</title></programme>
+<programme start="20260824020617 +0000" stop="20260824035616 +0000" channel="CCTV6.cn@SD"><title lang="zh">飞驰人生</title></programme>
+<programme start="20260824035616 +0000" stop="20260824040121 +0000" channel="CCTV6.cn@SD"><title lang="zh">音乐电影欣赏</title></programme>
+<programme start="20260824040121 +0000" stop="20260824061135 +0000" channel="CCTV6.cn@SD"><title lang="zh">长安的荔枝</title></programme>
+<programme start="20260824061135 +0000" stop="20260824082414 +0000" channel="CCTV6.cn@SD"><title lang="zh">异星引力2</title></programme>
+<programme start="20260824082414 +0000" stop="20260824103845 +0000" channel="CCTV6.cn@SD"><title lang="zh">星际迷航3： 超越星辰</title></programme>
+<programme start="20260824103845 +0000" stop="20260824121650 +0000" channel="CCTV6.cn@SD"><title lang="zh">唐伯虎点秋香</title></programme>
+<programme start="20260824121650 +0000" stop="20260824140000 +0000" channel="CCTV6.cn@SD"><title lang="zh">武状元苏乞儿</title></programme>
 <programme start="20260824140000 +0000" stop="20260824141800 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国电影报道2026-236</title></programme>
-<programme start="20260824141800 +0000" stop="20260824142320 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国福利彩票阳光开奖2026-08-24</title></programme>
-<programme start="20260824142320 +0000" stop="20260824150015 +0000" channel="CCTV6.cn@SD"><title lang="zh">大话西游3（上）</title></programme>
-<programme start="20260824150015 +0000" stop="20260824150145 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国体育彩票阳光开奖2026-08-24</title></programme>
-<programme start="20260824150145 +0000" stop="20260824155900 +0000" channel="CCTV6.cn@SD"><title lang="zh">大话西游3（下）</title></programme>
+<programme start="20260824141800 +0000" stop="20260824142335 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国福利彩票阳光开奖2026-08-24</title></programme>
+<programme start="20260824142335 +0000" stop="20260824150004 +0000" channel="CCTV6.cn@SD"><title lang="zh">大内密探（上）</title></programme>
+<programme start="20260824150004 +0000" stop="20260824150104 +0000" channel="CCTV6.cn@SD"><title lang="zh">中国体育彩票阳光开奖2026-08-24</title></programme>
+<programme start="20260824150104 +0000" stop="20260824155900 +0000" channel="CCTV6.cn@SD"><title lang="zh">大内密探（下）</title></programme>
 <programme start="20260822162345 +0000" stop="20260822220300 +0000" channel="CCTV7.cn@SD"><title lang="zh">再见</title></programme>
 <programme start="20260822220300 +0000" stop="20260822223330 +0000" channel="CCTV7.cn@SD"><title lang="zh">军迷行天下-2026-33</title></programme>
 <programme start="20260822223330 +0000" stop="20260822230400 +0000" channel="CCTV7.cn@SD"><title lang="zh">军武零距离-2026-33（4K）</title></programme>
@@ -13925,24 +13940,25 @@
 <programme start="20260823194000 +0000" stop="20260823200000 +0000" channel="CCTV13.cn@SD"><title lang="zh">每周质量报告</title></programme>
 <programme start="20260823200000 +0000" stop="20260823201500 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260823201500 +0000" stop="20260823210000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
-<programme start="20260823210000 +0000" stop="20260823211600 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260823211600 +0000" stop="20260823220000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
-<programme start="20260823220000 +0000" stop="20260824010000 +0000" channel="CCTV13.cn@SD"><title lang="zh">朝闻天下</title></programme>
-<programme start="20260824010000 +0000" stop="20260824011200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260824011200 +0000" stop="20260824020000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
+<programme start="20260823210000 +0000" stop="20260823211200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260823211200 +0000" stop="20260823220000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260823220000 +0000" stop="20260823232000 +0000" channel="CCTV13.cn@SD"><title lang="zh">朝闻天下</title></programme>
+<programme start="20260823232000 +0000" stop="20260824012000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260824012000 +0000" stop="20260824020000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260824020000 +0000" stop="20260824030000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260824040000 +0000" stop="20260824043300 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻30分</title></programme>
-<programme start="20260824043300 +0000" stop="20260824050000 +0000" channel="CCTV13.cn@SD"><title lang="zh">法治在线</title></programme>
+<programme start="20260824040000 +0000" stop="20260824043400 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻30分</title></programme>
+<programme start="20260824043400 +0000" stop="20260824050000 +0000" channel="CCTV13.cn@SD"><title lang="zh">法治在线</title></programme>
 <programme start="20260824050000 +0000" stop="20260824060000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260824060000 +0000" stop="20260824061600 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260824061600 +0000" stop="20260824070000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260824060000 +0000" stop="20260824061200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260824061200 +0000" stop="20260824070000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
 <programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260824080000 +0000" stop="20260824090000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260824090000 +0000" stop="20260824100000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260824100000 +0000" stop="20260824110000 +0000" channel="CCTV13.cn@SD"><title lang="zh">共同关注</title></programme>
-<programme start="20260824110000 +0000" stop="20260824114030 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20260824114030 +0000" stop="20260824120000 +0000" channel="CCTV13.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20260824110000 +0000" stop="20260824113220 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻联播</title></programme>
+<programme start="20260824113220 +0000" stop="20260824113940 +0000" channel="CCTV13.cn@SD"><title lang="zh">天气预报</title></programme>
+<programme start="20260824113940 +0000" stop="20260824120000 +0000" channel="CCTV13.cn@SD"><title lang="zh">焦点访谈</title></programme>
 <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="CCTV13.cn@SD"><title lang="zh">东方时空</title></programme>
 <programme start="20260824130000 +0000" stop="20260824133000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻联播</title></programme>
 <programme start="20260824133000 +0000" stop="20260824140000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻1+1</title></programme>
