@@ -3887,12 +3887,12 @@
 <programme start="20260906150000 +0000" stop="20260906170000 +0000" channel="4007#407"><title lang="ko">하나은행 K리그1 2026</title><category lang="ko">스포츠</category></programme>
 <programme start="20260904142000 +0000" stop="20260904161000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260904161000 +0000" stop="20260904180500 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260904180500 +0000" stop="20260904200000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260904200000 +0000" stop="20260904215000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260904215000 +0000" stop="20260904225000 +0000" channel="4007#447"><title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 스페셜</title><category lang="ko">스포츠</category></programme>
-<programme start="20260904225000 +0000" stop="20260905004000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260905004000 +0000" stop="20260905023000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
-<programme start="20260905023000 +0000" stop="20260905042000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260904180500 +0000" stop="20260904204500 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260904204500 +0000" stop="20260904223000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260904223000 +0000" stop="20260904224500 +0000" channel="4007#447"><title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260904224500 +0000" stop="20260905003000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260905003000 +0000" stop="20260905020500 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
+<programme start="20260905020500 +0000" stop="20260905042000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260905042000 +0000" stop="20260905063000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260905063000 +0000" stop="20260905082000 +0000" channel="4007#447"><title lang="ko">제23회 아시아 남자자배구선수권</title><category lang="ko">스포츠</category></programme>
 <programme start="20260905082000 +0000" stop="20260905093000 +0000" channel="4007#447"><title lang="ko">2026 AVC컵 남자배구대회 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -8315,19 +8315,23 @@
 <programme start="20260905134900 +0000" stop="20260905135500 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260905135500 +0000" stop="20260905140000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
 <programme start="20260905140000 +0000" stop="20260905143000 +0000" channel="4011#166"><title lang="ko">Venue101</title><credits><actor>하마이에 류이치</actor><actor>이쿠타 에리카</actor></credits><category lang="ko">음악</category></programme>
-<programme start="20260905143000 +0000" stop="20260905163000 +0000" channel="4011#166"><title lang="ko">다큐멘터리 72시간</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260905143000 +0000" stop="20260905163000 +0000" channel="4011#166"><title lang="ko">다큐멘터리 72시간</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260905163000 +0000" stop="20260905170000 +0000" channel="4011#166"><title lang="ko">연예도감</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260905143000 +0000" stop="20260905153000 +0000" channel="4011#166"><title lang="ko">다큐멘터리 72시간</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260905143000 +0000" stop="20260905153000 +0000" channel="4011#166"><title lang="ko">다큐멘터리 72시간</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260905153000 +0000" stop="20260905161500 +0000" channel="4011#166"><title lang="ko">프로젝트 에일리언</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260905161500 +0000" stop="20260905162500 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260905162500 +0000" stop="20260905163000 +0000" channel="4011#166"><title lang="ko">아름다운 자연백경 5min</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260905163000 +0000" stop="20260905170000 +0000" channel="4011#166"><title lang="ko">온천 솔로 여행</title><category lang="ko">취미/레저</category></programme>
 <programme start="20260905170000 +0000" stop="20260905170500 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260905170500 +0000" stop="20260905180000 +0000" channel="4011#166"><title lang="ko">고 고 요리전사 쿡쿠룽</title><category lang="ko">교육</category></programme>
+<programme start="20260905170500 +0000" stop="20260905173000 +0000" channel="4011#166"><title lang="ko">고 고 요리전사 쿡쿠룽</title><category lang="ko">교육</category></programme>
+<programme start="20260905173000 +0000" stop="20260905175700 +0000" channel="4011#166"><title lang="ko">명곡 고찰 교실</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260905175700 +0000" stop="20260905180000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260905180000 +0000" stop="20260905182500 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260905182500 +0000" stop="20260905183000 +0000" channel="4011#166"><title lang="ko">no art, no life</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260905183000 +0000" stop="20260905184500 +0000" channel="4011#166"><title lang="ko">연속TV소설 바람, 향기롭다 제23주</title><credits><actor>미카미 아이</actor><actor>코사카 주리</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260905184500 +0000" stop="20260905193500 +0000" channel="4011#166"><title lang="ko">NHK 스페셜</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260905184500 +0000" stop="20260905193500 +0000" channel="4011#166"><title lang="ko">NHK스페셜 되살아난 호류지의 보물, 금당 벽화 완전 복원에 도전</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260905193500 +0000" stop="20260905195500 +0000" channel="4011#166"><title lang="ko">다큐멘터리 20min</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260905195500 +0000" stop="20260905200000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260905200000 +0000" stop="20260905205600 +0000" channel="4011#166"><title lang="ko">파랑 &amp;amp; 노랑</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260905205600 +0000" stop="20260905210000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
+<programme start="20260905200000 +0000" stop="20260905210000 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260905210000 +0000" stop="20260905211000 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260905211000 +0000" stop="20260905215300 +0000" channel="4011#166"><title lang="ko">특선시대극 오오카 에치젠 8</title><desc lang="ko">팬들이 손꼽아 기다려 온 ‘오오카에치젠’ 제8시리즈. 다카하시 가쓰노리가 연기하는 명판관 amp;#8203;오오카 다다스케를 중심으로, 정의감 넘치고 인간미 가득한 활약을 그린다. 따뜻한 인간미가 담긴 이야기에는 웃고 울고, 손에 땀을 쥐게 하는 사건 해결에는 통쾌한 카타르시스를 선사하는 시대극의 진수를 만나볼 수 있다.</desc><category lang="ko">드라마</category></programme>
 <programme start="20260905215300 +0000" stop="20260905215500 +0000" channel="4011#166"><title lang="ko">기상정보</title><category lang="ko">뉴스</category></programme>
@@ -8340,17 +8344,22 @@
 <programme start="20260905235000 +0000" stop="20260906000000 +0000" channel="4011#166"><title lang="ko">Design Ah neo</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260906000000 +0000" stop="20260906010000 +0000" channel="4011#166"><title lang="ko">일요토론</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260906010000 +0000" stop="20260906010500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260906010500 +0000" stop="20260906012800 +0000" channel="4011#166"><title lang="ko">내일을 지키는 내비게이션</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260906012800 +0000" stop="20260906013000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260906013000 +0000" stop="20260906025000 +0000" channel="4011#166"><title lang="ko">사이언스 제로</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260906025000 +0000" stop="20260906025600 +0000" channel="4011#166"><title lang="ko">우키요에 EDO-LIFE</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260906025600 +0000" stop="20260906030000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
+<programme start="20260906010500 +0000" stop="20260906015000 +0000" channel="4011#166"><title lang="ko">내일을 지키는 내비게이션</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260906015000 +0000" stop="20260906020000 +0000" channel="4011#166"><title lang="ko">핫 스폿 최후의 낙원</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906020000 +0000" stop="20260906025900 +0000" channel="4011#166"><title lang="ko">철도 오타쿠 선수권</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906025900 +0000" stop="20260906030000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
 <programme start="20260906030000 +0000" stop="20260906031500 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260906031500 +0000" stop="20260906040000 +0000" channel="4011#166"><title lang="ko">NHK 노래자랑</title><category lang="ko">음악</category></programme>
 <programme start="20260906040000 +0000" stop="20260906040500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260906040500 +0000" stop="20260906053500 +0000" channel="4011#166"><title lang="ko">신 BS일본의 노래</title><category lang="ko">음악</category></programme>
+<programme start="20260906040500 +0000" stop="20260906051500 +0000" channel="4011#166"><title lang="ko">신 BS일본의 노래</title><category lang="ko">음악</category></programme>
+<programme start="20260906051500 +0000" stop="20260906053000 +0000" channel="4011#166"><title lang="ko">절경 유럽의 산장 순례</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260906053000 +0000" stop="20260906053500 +0000" channel="4011#166"><title lang="ko">아름다운 자연백경 5min</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260906053500 +0000" stop="20260906060000 +0000" channel="4011#166"><title lang="ko">그레텔의 부뚜막</title><credits><actor>세토 코지</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260906060000 +0000" stop="20260906083000 +0000" channel="4011#166"><title lang="ko">PREMIUM SELECTIONS</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906060000 +0000" stop="20260906064500 +0000" channel="4011#166"><title lang="ko">프로젝트 에일리언</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260906064500 +0000" stop="20260906071500 +0000" channel="4011#166"><title lang="ko">초월 해피니스</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906071500 +0000" stop="20260906081500 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
+<programme start="20260906081500 +0000" stop="20260906082000 +0000" channel="4011#166"><title lang="ko">우키요에 EDO-LIFE</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906082000 +0000" stop="20260906083000 +0000" channel="4011#166"><title lang="ko">다윈이 왔다 10min</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260906083000 +0000" stop="20260906090000 +0000" channel="4011#166"><title lang="ko">아빠와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260906090000 +0000" stop="20260906090500 +0000" channel="4011#166"><title lang="ko">뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260906090500 +0000" stop="20260906094300 +0000" channel="4011#166"><title lang="ko">아리요시의 돈발견 돌격 카네오군</title><credits><actor>아리요시 히로이키</actor></credits><category lang="ko">교양/정보</category></programme>
@@ -8361,10 +8370,15 @@
 <programme start="20260906105800 +0000" stop="20260906110000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260906110000 +0000" stop="20260906114500 +0000" channel="4011#166"><title lang="ko">대하드라마 토요토미 형제!</title><category lang="ko">드라마</category></programme>
 <programme start="20260906114500 +0000" stop="20260906120000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260906120000 +0000" stop="20260906124900 +0000" channel="4011#166"><title lang="ko">NHK 스페셜</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260906124900 +0000" stop="20260906134000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
-<programme start="20260906134000 +0000" stop="20260906144300 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260906144300 +0000" stop="20260906144500 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
+<programme start="20260906120000 +0000" stop="20260906124900 +0000" channel="4011#166"><title lang="ko">NHK스페셜 엔저 해부 우리의 삶은 어떻게 될까</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260906124900 +0000" stop="20260906125000 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
+<programme start="20260906125000 +0000" stop="20260906133300 +0000" channel="4011#166"><title lang="ko">기미마로의 쇼와 가요 황금시대</title><category lang="ko">음악</category></programme>
+<programme start="20260906133300 +0000" stop="20260906133800 +0000" channel="4011#166"><title lang="ko">일본 100명산 미니</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906133800 +0000" stop="20260906134000 +0000" channel="4011#166"><title lang="ko">미니프로그램</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906134000 +0000" stop="20260906134500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
+<programme start="20260906134500 +0000" stop="20260906141500 +0000" channel="4011#166"><title lang="ko">온천 솔로 여행</title><category lang="ko">취미/레저</category></programme>
+<programme start="20260906141500 +0000" stop="20260906144400 +0000" channel="4011#166"><title lang="ko">초월 해피니스</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260906144400 +0000" stop="20260906144500 +0000" channel="4011#166"><title lang="ko">세계의 기상</title><category lang="ko">뉴스</category></programme>
 <programme start="20260906144500 +0000" stop="20260906153500 +0000" channel="4011#166"><title lang="ko">일요 스포츠뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260904140000 +0000" stop="20260904150000 +0000" channel="4011#180"><title lang="ko">3GO 가자! 보고 즐기고 맛보고</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260904150000 +0000" stop="20260904153000 +0000" channel="4011#180"><title lang="ko">공간의 재탄생</title><category lang="ko">교양/정보</category></programme>
@@ -8794,8 +8808,7 @@
 <programme start="20260906131500 +0000" stop="20260906141000 +0000" channel="4011#409"><title lang="ko">역사저널 그날</title><desc lang="ko">역사가 움직인 &apos;결정적 하루&apos;를 입체적으로 구성하여 역사를 스토리텔링하는 인포테인먼트 프로그램</desc><credits><actor>최원정</actor></credits><category lang="ko">시사/다큐</category></programme>
 <programme start="20260906141000 +0000" stop="20260906142000 +0000" channel="4011#409"><title lang="ko">KTV 이매진</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260906142000 +0000" stop="20260906144000 +0000" channel="4011#409"><title lang="ko">택스 시그널</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260906144000 +0000" stop="20260906150000 +0000" channel="4011#409"><title lang="ko">나는 국대다</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260906150000 +0000" stop="20260906155000 +0000" channel="4011#409"><title lang="ko">한국인의 밥상</title><desc lang="ko">매일 우리는 밥상을 마주한다. 우리의 밥상 속 이야기를 통해 한국인들의 다양한 음식 문화를 보여주고, 식품과 식재료에 대한 영양학적 고찰을 통하여 올바른 정보를 제공하는 프로그램이다.</desc><credits><actor>최불암</actor><actor>최수종</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260906144000 +0000" stop="20260906151000 +0000" channel="4011#409"><title lang="ko">나는 국대다</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260904143000 +0000" stop="20260904152000 +0000" channel="4011#415"><title lang="ko">세계테마기행</title><desc lang="ko">세계테마기행은 단순한 여행 정보 프로그램에서 벗어나, 자유로운 배낭여행자만이 느낄 수 있는 살아있는 체험기를 전해드리고자 기획된 프로그램. 스페인에서 칠레, 남아공에서 알래스카에 이르기까지 전 세계를 직접 발로 뛰며 제작되는 세계테마기행은 찬란한 문명 유적지와 자연유산은 물론 다양한 방식으로 삶을 영위해 가는 세계인들의 숨은 일상까지 생생히 보여준다</desc><category lang="ko">취미/레저</category></programme>
 <programme start="20260904152000 +0000" stop="20260904162000 +0000" channel="4011#415"><title lang="ko">아시아 헌터</title><desc lang="ko">다양한 사람들이 살고 있고 우리가 모르는 다양한 문화가 존재하는 드넓은 아시아의 놀라운 일들을 함께 할 수 있다. 발빠르게 취재한 아시아의 신기한 풍물과 사람들, 사건들을 새롭게 보는 시각을 갖고 아시아인으로 자부심을 느낄 수 있는 프로그램이다.</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260904162000 +0000" stop="20260904172000 +0000" channel="4011#415"><title lang="ko">아시아 헌터</title><desc lang="ko">다양한 사람들이 살고 있고 우리가 모르는 다양한 문화가 존재하는 드넓은 아시아의 놀라운 일들을 함께 할 수 있다. 발빠르게 취재한 아시아의 신기한 풍물과 사람들, 사건들을 새롭게 보는 시각을 갖고 아시아인으로 자부심을 느낄 수 있는 프로그램이다.</desc><category lang="ko">교양/정보</category></programme>
