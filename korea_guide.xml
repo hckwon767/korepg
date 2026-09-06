@@ -8946,7 +8946,7 @@
 <programme start="20260906210000 +0000" stop="20260906220000 +0000" channel="4011#427"><title lang="ko">인생낭독: 인</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260906220000 +0000" stop="20260907000000 +0000" channel="4011#427"><title lang="ko">의정중계 하이라이트</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260907000000 +0000" stop="20260907010000 +0000" channel="4011#427"><title lang="ko">국회 책마당</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260907010000 +0000" stop="20260907020000 +0000" channel="4011#427"><title lang="ko">제439회국회(정기회)</title><category lang="ko">뉴스</category></programme>
+<programme start="20260907010000 +0000" stop="20260907020000 +0000" channel="4011#427"><title lang="ko">제439회국회(정기회) 제3차 본회의</title><category lang="ko">뉴스</category></programme>
 <programme start="20260907020000 +0000" stop="20260907023000 +0000" channel="4011#427"><title lang="ko">살아있는 지구, 경이로운 자연</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260907023000 +0000" stop="20260907030000 +0000" channel="4011#427"><title lang="ko">음악 여행자</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260907030000 +0000" stop="20260907031000 +0000" channel="4011#427"><title lang="ko">헌법을 만나다 내 인생의 1조 1항</title><category lang="ko">교양/정보</category></programme>
@@ -13968,22 +13968,22 @@
 <programme start="20260906113955 +0000" stop="20260906120000 +0000" channel="CCTV13.cn@SD"><title lang="zh">焦点访谈</title></programme>
 <programme start="20260906120000 +0000" stop="20260906130000 +0000" channel="CCTV13.cn@SD"><title lang="zh">东方时空</title></programme>
 <programme start="20260906130000 +0000" stop="20260906133000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20260906133000 +0000" stop="20260906141500 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
-<programme start="20260906141500 +0000" stop="20260906150000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
-<programme start="20260906150000 +0000" stop="20260906155900 +0000" channel="CCTV13.cn@SD"><title lang="zh">24小时</title></programme>
-<programme start="20260906160000 +0000" stop="20260906161500 +0000" channel="CCTV13.cn@SD"><title lang="zh">午夜新闻</title></programme>
-<programme start="20260906161500 +0000" stop="20260906170000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260906133000 +0000" stop="20260906140500 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260906140500 +0000" stop="20260906145000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
+<programme start="20260906145000 +0000" stop="20260906155900 +0000" channel="CCTV13.cn@SD"><title lang="zh">24小时</title></programme>
+<programme start="20260906160000 +0000" stop="20260906162500 +0000" channel="CCTV13.cn@SD"><title lang="zh">午夜新闻</title></programme>
+<programme start="20260906162500 +0000" stop="20260906170000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
 <programme start="20260906170000 +0000" stop="20260906171500 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260906171500 +0000" stop="20260906180000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
-<programme start="20260906180000 +0000" stop="20260906181500 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260906181500 +0000" stop="20260906190000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260906180000 +0000" stop="20260906182500 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260906182500 +0000" stop="20260906190000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
 <programme start="20260906190000 +0000" stop="20260906192400 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260906192400 +0000" stop="20260906194000 +0000" channel="CCTV13.cn@SD"><title lang="zh">焦点访谈</title></programme>
 <programme start="20260906194000 +0000" stop="20260906200000 +0000" channel="CCTV13.cn@SD"><title lang="zh">每周质量报告</title></programme>
 <programme start="20260906200000 +0000" stop="20260906201500 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260906201500 +0000" stop="20260906210000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
-<programme start="20260906210000 +0000" stop="20260906211200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260906211200 +0000" stop="20260906220000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260906210000 +0000" stop="20260906212200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260906212200 +0000" stop="20260906220000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
 <programme start="20260906220000 +0000" stop="20260907010000 +0000" channel="CCTV13.cn@SD"><title lang="zh">朝闻天下</title></programme>
 <programme start="20260907010000 +0000" stop="20260907011200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260907011200 +0000" stop="20260907020000 +0000" channel="CCTV13.cn@SD"><title lang="zh">世界周刊</title></programme>
@@ -13992,8 +13992,8 @@
 <programme start="20260907040000 +0000" stop="20260907043400 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻30分</title></programme>
 <programme start="20260907043400 +0000" stop="20260907050000 +0000" channel="CCTV13.cn@SD"><title lang="zh">法治在线</title></programme>
 <programme start="20260907050000 +0000" stop="20260907060000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260907060000 +0000" stop="20260907061200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
-<programme start="20260907061200 +0000" stop="20260907070000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
+<programme start="20260907060000 +0000" stop="20260907062200 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
+<programme start="20260907062200 +0000" stop="20260907070000 +0000" channel="CCTV13.cn@SD"><title lang="zh">面对面</title></programme>
 <programme start="20260907070000 +0000" stop="20260907080000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260907080000 +0000" stop="20260907090000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
 <programme start="20260907090000 +0000" stop="20260907100000 +0000" channel="CCTV13.cn@SD"><title lang="zh">新闻直播间</title></programme>
