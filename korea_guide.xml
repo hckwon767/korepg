@@ -451,7 +451,7 @@
 <programme start="20260914002000 +0000" stop="20260914003000 +0000" channel="4003#562"><title lang="ko">전국네트워크뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260914003000 +0000" stop="20260914013000 +0000" channel="4003#562"><title lang="ko">해피라이프 Make Better Next</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260914013000 +0000" stop="20260914023000 +0000" channel="4003#562"><title lang="ko">보부상</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260914023000 +0000" stop="20260914030000 +0000" channel="4003#562"><title lang="ko">꼬마캐리 탐구생활</title><category lang="ko">교육</category></programme>
+<programme start="20260914023000 +0000" stop="20260914030000 +0000" channel="4003#562"><title lang="ko">꼬마캐리 탐구생활 심화학습</title><category lang="ko">교육</category></programme>
 <programme start="20260914030000 +0000" stop="20260914033000 +0000" channel="4003#562"><title lang="ko">Let&apos;s 팡팡 시즌3</title><category lang="ko">교육</category></programme>
 <programme start="20260914033000 +0000" stop="20260914042000 +0000" channel="4003#562"><title lang="ko">휴먼다큐 사노라면</title><desc lang="ko">서민들의 소소하지만 위대한 일상을 통해 삶의 비법을 풀어가는 보통 사람들의 특별한 이야기.</desc><category lang="ko">시사/다큐</category></programme>
 <programme start="20260914042000 +0000" stop="20260914055000 +0000" channel="4003#562"><title lang="ko">속풀이쇼 동치미</title><desc lang="ko">답답한 속을 동치미처럼 속시원하게 풀어주는 힐링 속풀이쇼.</desc><credits><actor>김용만</actor><actor>이현이</actor><actor>에녹</actor></credits><category lang="ko">연예/오락</category></programme>
@@ -728,8 +728,8 @@
 <programme start="20260913025500 +0000" stop="20260913030500 +0000" channel="4003#797"><title lang="ko">MBC 뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260913030500 +0000" stop="20260913042000 +0000" channel="4003#797"><title lang="ko">출발! 비디오 여행</title><desc lang="ko">재미있는 해설과 분석이 함께 있는 영화 가이드 프로그램</desc><credits><actor>서인</actor><actor>김초롱</actor><actor>김경식</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260913042000 +0000" stop="20260913045000 +0000" channel="4003#797"><title lang="ko">플레이리스트 109 스페셜</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260913045000 +0000" stop="20260913065500 +0000" channel="4003#797"><title lang="ko">2025 LoL 챔피언스 코리아</title><category lang="ko">취미/레저</category></programme>
-<programme start="20260913065500 +0000" stop="20260913090000 +0000" channel="4003#797"><title lang="ko">2025 LoL 챔피언스 코리아</title><category lang="ko">취미/레저</category></programme>
+<programme start="20260913045000 +0000" stop="20260913065500 +0000" channel="4003#797"><title lang="ko">MBC스포츠 2026 LoL 챔피언스 코리아</title><category lang="ko">취미/레저</category></programme>
+<programme start="20260913065500 +0000" stop="20260913090000 +0000" channel="4003#797"><title lang="ko">MBC스포츠 2026 LoL 챔피언스 코리아</title><category lang="ko">취미/레저</category></programme>
 <programme start="20260913090000 +0000" stop="20260913093000 +0000" channel="4003#797"><title lang="ko">구해줘! 홈즈 스페셜</title><desc lang="ko">의뢰인이 원하는 집을 찾기 위해 스타들이 발품을 파는 리얼 발품 중개 배틀 프로그램</desc><credits><actor>박나래</actor><actor>김숙</actor><actor>붐</actor><actor>양세형</actor><actor>장동민</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260913093000 +0000" stop="20260913120000 +0000" channel="4003#797"><title lang="ko">제20회 아이치 나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
 <programme start="20260913120000 +0000" stop="20260913123500 +0000" channel="4003#797"><title lang="ko">MBC 뉴스데스크</title><category lang="ko">뉴스</category></programme>
@@ -7617,11 +7617,12 @@
 <programme start="20260913090000 +0000" stop="20260913120000 +0000" channel="4010#615"><title lang="ko">웰컴저축은행 PBA 팀리그 포항시 TOUR 2026-2027</title><category lang="ko">스포츠</category></programme>
 <programme start="20260913120000 +0000" stop="20260913143000 +0000" channel="4010#615"><title lang="ko">웰컴저축은행 PBA 팀리그 포항시 TOUR 2026-2027</title><category lang="ko">스포츠</category></programme>
 <programme start="20260913143000 +0000" stop="20260913163000 +0000" channel="4010#615"><title lang="ko">웰컴저축은행 PBA 팀리그 포항시 TOUR 2026-2027</title><category lang="ko">스포츠</category></programme>
-<programme start="20260913143000 +0000" stop="20260913163000 +0000" channel="4010#615"><title lang="ko">웰컴저축은행 PBA 팀리그 포항시 TOUR 2026-2027</title><category lang="ko">스포츠</category></programme>
-<programme start="20260913163000 +0000" stop="20260913173000 +0000" channel="4010#615"><title lang="ko">초전박살</title><category lang="ko">스포츠</category></programme>
-<programme start="20260913173000 +0000" stop="20260913183000 +0000" channel="4010#615"><title lang="ko">매치하이라이트[에스와이]</title><category lang="ko">스포츠</category></programme>
-<programme start="20260913183000 +0000" stop="20260913193000 +0000" channel="4010#615"><title lang="ko">PBA 챔피언스</title><category lang="ko">스포츠</category></programme>
-<programme start="20260913193000 +0000" stop="20260913203000 +0000" channel="4010#615"><title lang="ko">LPBA 챔피언스</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913143000 +0000" stop="20260913160000 +0000" channel="4010#615"><title lang="ko">웰컴저축은행 PBA 팀리그 포항시 TOUR 2026-2027</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913160000 +0000" stop="20260913170000 +0000" channel="4010#615"><title lang="ko">초전박살</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913170000 +0000" stop="20260913180000 +0000" channel="4010#615"><title lang="ko">매치하이라이트[에스와이]</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913180000 +0000" stop="20260913190000 +0000" channel="4010#615"><title lang="ko">PBA 챔피언스</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913190000 +0000" stop="20260913200000 +0000" channel="4010#615"><title lang="ko">LPBA 챔피언스</title><category lang="ko">스포츠</category></programme>
+<programme start="20260913200000 +0000" stop="20260913203000 +0000" channel="4010#615"><title lang="ko">PBA 블랙박스</title><category lang="ko">스포츠</category></programme>
 <programme start="20260913203000 +0000" stop="20260913210000 +0000" channel="4010#615"><title lang="ko">TOP30 베스트샷</title><category lang="ko">스포츠</category></programme>
 <programme start="20260913210000 +0000" stop="20260913220000 +0000" channel="4010#615"><title lang="ko">폐허 속에서 발견한 비밀</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260913220000 +0000" stop="20260914000000 +0000" channel="4010#615"><title lang="ko">PBA 팀리그 풀매치</title><category lang="ko">스포츠</category></programme>
@@ -8895,7 +8896,7 @@
 <programme start="20260914031000 +0000" stop="20260914040000 +0000" channel="4011#427"><title lang="ko">세계테마기행 2</title><desc lang="ko">세계테마기행은 단순한 여행 정보 프로그램에서 벗어나, 자유로운 배낭여행자만이 느낄 수 있는 살아있는 체험기를 전해드리고자 기획된 프로그램. 스페인에서 칠레, 남아공에서 알래스카에 이르기까지 전 세계를 직접 발로 뛰며 제작되는 세계테마기행은 찬란한 문명 유적지와 자연유산은 물론 다양한 방식으로 삶을 영위해 가는 세계인들의 숨은 일상까지 생생히 보여준다</desc><category lang="ko">취미/레저</category></programme>
 <programme start="20260914040000 +0000" stop="20260914043000 +0000" channel="4011#427"><title lang="ko">국회라이브1</title><category lang="ko">뉴스</category></programme>
 <programme start="20260914043000 +0000" stop="20260914050000 +0000" channel="4011#427"><title lang="ko">이야기를 담다</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260914050000 +0000" stop="20260914090000 +0000" channel="4011#427"><title lang="ko">제439회국회(정기회)</title><category lang="ko">뉴스</category></programme>
+<programme start="20260914050000 +0000" stop="20260914090000 +0000" channel="4011#427"><title lang="ko">제439회국회(정기회) 제8차 본회의</title><category lang="ko">뉴스</category></programme>
 <programme start="20260914090000 +0000" stop="20260914100000 +0000" channel="4011#427"><title lang="ko">국회라이브6</title><category lang="ko">뉴스</category></programme>
 <programme start="20260914100000 +0000" stop="20260914110000 +0000" channel="4011#427"><title lang="ko">국회 책마당</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260914110000 +0000" stop="20260914113000 +0000" channel="4011#427"><title lang="ko">휴먼다큐 시장 사람들</title><desc lang="ko">내일을 위해 도전하고, 작은 일 하나도 배울 수 있는 따뜻한 휴먼 이야기</desc><category lang="ko">시사/다큐</category></programme>
@@ -10549,8 +10550,8 @@
 <programme start="20260913165200 +0000" stop="20260913181500 +0000" channel="4012#348"><title lang="ko">마도정병의 슬레이브2</title><category lang="ko">만화</category></programme>
 <programme start="20260913181500 +0000" stop="20260913200000 +0000" channel="4012#348"><title lang="ko">아마가미 씨네 인연 맺기</title><category lang="ko">만화</category></programme>
 <programme start="20260913200000 +0000" stop="20260913205900 +0000" channel="4012#348"><title lang="ko">버블호텔</title><category lang="ko">만화</category></programme>
-<programme start="20260913205900 +0000" stop="20260913222000 +0000" channel="4012#348"><title lang="ko">라바 시즌3</title><category lang="ko">만화</category></programme>
-<programme start="20260913222000 +0000" stop="20260913233300 +0000" channel="4012#348"><title lang="ko">라바 아일랜드 시즌1</title><category lang="ko">만화</category></programme>
+<programme start="20260913205900 +0000" stop="20260913222700 +0000" channel="4012#348"><title lang="ko">라바 시즌3</title><category lang="ko">만화</category></programme>
+<programme start="20260913222700 +0000" stop="20260913233300 +0000" channel="4012#348"><title lang="ko">라바 아일랜드 시즌1</title><category lang="ko">만화</category></programme>
 <programme start="20260913233300 +0000" stop="20260914000400 +0000" channel="4012#348"><title lang="ko">파워레인저 애니멀포스 친구들</title><category lang="ko">만화</category></programme>
 <programme start="20260914000400 +0000" stop="20260914012300 +0000" channel="4012#348"><title lang="ko">아기공룡 둘리</title><desc lang="ko">아기공룡 둘리quot;를 1983년부터 10년간 보물섬에서 연재하던 원작자 김수정씨는 국산 만화 캐릭터를 지속적이고, 세계적인 캐릭터로 성장 시키기 위해서는 조직적인 활동의 필요함을 느끼고 1995년 2월에 (주)둘리나라를 설립했다.1996년 7월 장편 만화영화 quot;아기공룡 둘리quot;를 제작하여 COEX 외 전국 극장에서 상영했으며 현재 미라클에서 비디오 테이프제작 판매중이다.1999년 1월 17일 베를린을 시작으로 독일극장에 상영했었고, 독일 영화개봉에 맞춰 음반 및 비디오, 게임도 같이 판매하는 큰 성과를 올렸다.</desc><category lang="ko">만화</category></programme>
 <programme start="20260914012300 +0000" stop="20260914025300 +0000" channel="4012#348"><title lang="ko">라바 시즌3</title><category lang="ko">만화</category></programme>
