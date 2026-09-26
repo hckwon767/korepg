@@ -386,11 +386,13 @@
 <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="4003#549"><title lang="ko">방방곡곡 낭만로드 유랑닥터</title><credits><actor>이윤석</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926040000 +0000" stop="20260926053000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926053000 +0000" stop="20260926065000 +0000" channel="4003#549"><title lang="ko">시사팩트 플러스</title><category lang="ko">뉴스</category></programme>
-<programme start="20260926065000 +0000" stop="20260926090000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926090000 +0000" stop="20260926123000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="4003#549"><title lang="ko">TV CHOSUN 뉴스7</title><category lang="ko">뉴스</category></programme>
-<programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="4003#549"><title lang="ko">천만기인쇼 특별판</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="4003#549"><title lang="ko">천만기인쇼 특별판</title><category lang="ko">연예/오락</category></programme>
+<programme start="20260926065000 +0000" stop="20260926080000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926100000 +0000" stop="20260926121000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926121000 +0000" stop="20260926124000 +0000" channel="4003#549"><title lang="ko">TV CHOSUN 뉴스7</title><category lang="ko">뉴스</category></programme>
+<programme start="20260926124000 +0000" stop="20260926132000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926132000 +0000" stop="20260926150000 +0000" channel="4003#549"><title lang="ko">천만기인쇼 특별판</title><category lang="ko">연예/오락</category></programme>
+<programme start="20260926132000 +0000" stop="20260926150000 +0000" channel="4003#549"><title lang="ko">천만기인쇼 특별판</title><category lang="ko">연예/오락</category></programme>
 <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="4003#549"><title lang="ko">열린비평 TV를 말하다</title><credits><actor>이은영</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="4003#549"><title lang="ko">열린비평 TV를 말하다</title><credits><actor>이은영</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="4003#549"><title lang="ko">살맛나는 세상</title><desc lang="ko">화제가 되는 이야기에서 테마를 정해 그 테마를 중심으로 구성한다.</desc><category lang="ko">교양/정보</category></programme>
@@ -410,8 +412,8 @@
 <programme start="20260927065000 +0000" stop="20260927083000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927083000 +0000" stop="20260927123000 +0000" channel="4003#549"><title lang="ko">[아이치-나고야 아시안게임]</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927123000 +0000" stop="20260927132000 +0000" channel="4003#549"><title lang="ko">TV CHOSUN 뉴스7</title><category lang="ko">뉴스</category></programme>
-<programme start="20260927132000 +0000" stop="20260927144000 +0000" channel="4003#549"><title lang="ko">[아이치 나고야 아시안게임 하이라이트]</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927144000 +0000" stop="20260927150000 +0000" channel="4003#549"><title lang="ko">백반기행 특별판</title><desc lang="ko">식객 허영만이 소박한 동네밥상에서 진정한 맛의 의미와 가치를 찾는 프로그램</desc><credits><actor>허영만</actor><actor>정보석</actor><actor>김원희</actor><actor>오지호</actor><actor>오상진</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260927132000 +0000" stop="20260927140000 +0000" channel="4003#549"><title lang="ko">왕은 무얼 자셨는가 특별판</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="4003#549"><title lang="ko">[아이치 나고야 아시안게임 하이라이트]</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927150000 +0000" stop="20260927155000 +0000" channel="4003#549"><title lang="ko">역전의 한방</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260925135000 +0000" stop="20260925150000 +0000" channel="4003#562"><title lang="ko">김주하의 데이앤나잇</title><credits><actor>김주하</actor><actor>문세윤</actor><actor>조째즈</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="4003#562"><title lang="ko">소나무</title><desc lang="ko">우리 이웃들이 치열하게 살아가는 진솔한 이야기.</desc><category lang="ko">시사/다큐</category></programme>
@@ -607,10 +609,10 @@
 <programme start="20260926215500 +0000" stop="20260926222500 +0000" channel="4003#795"><title lang="ko">영상앨범 산</title><desc lang="ko">하늘과 가장 가까운 곳에 닿아있는 땅, 바로 &apos;산!&apos; 전문산악인이 아니어도 누구나 쉽게 오를 수 있는 국내외의 명산을 찾아 자연이 주는 아름다움을 느껴보고, 산과 더불어 살아가는 사람들의 다양한 모습을 볼 수 있다.</desc><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926222500 +0000" stop="20260926233000 +0000" channel="4003#795"><title lang="ko">굿모닝 대한민국 스페셜</title><desc lang="ko">어제의 화제 현장, 요즘의 이슈 이야기, 스포츠, 연예 소식과 더불어 생활정보도 제공한다.</desc><credits><actor>윤수영</actor><actor>장웅</actor><actor>진보라</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926233000 +0000" stop="20260927005000 +0000" channel="4003#795"><title lang="ko">구르미 다시 그린 달빛</title><credits><actor>박보검</actor><actor>김유정</actor><actor>진영</actor><actor>채수빈</actor><actor>곽동연</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260927005000 +0000" stop="20260927030000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927030000 +0000" stop="20260927063000 +0000" channel="4003#795"><title lang="ko">여기는 나고야 &amp;lt;2안포함&amp;gt;</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927063000 +0000" stop="20260927085000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927085000 +0000" stop="20260927130000 +0000" channel="4003#795"><title lang="ko">여기는 나고야 &amp;lt;2안포함&amp;gt;</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927005000 +0000" stop="20260927035000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927035000 +0000" stop="20260927061000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927061000 +0000" stop="20260927085000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927085000 +0000" stop="20260927130000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927130000 +0000" stop="20260927142000 +0000" channel="4003#795"><title lang="ko">주말드라마 사랑이 온다</title><credits><actor>하석진</actor><actor>하니</actor><actor>박유나</actor><actor>배정남</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260927142000 +0000" stop="20260927152000 +0000" channel="4003#795"><title lang="ko">2026 KBS 한가위 대기획</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260925144000 +0000" stop="20260925154000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임 하이라이트</title><category lang="ko">스포츠</category></programme>
@@ -3905,7 +3907,7 @@
 <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="4007#553"><title lang="ko">(생)2026 레이버컵</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="4007#553"><title lang="ko">(생)2026 레이버컵</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="4007#553"><title lang="ko">(생)2026 레이버컵</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926160000 +0000" stop="20260926180000 +0000" channel="4007#553"><title lang="ko">UFC PREVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926160000 +0000" stop="20260926180000 +0000" channel="4007#553"><title lang="ko">(본)2026-2027 KCC 프로농구 OPEN MATCH DAY</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926180000 +0000" stop="20260926200000 +0000" channel="4007#553"><title lang="ko">(생)2026 레이버컵</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926200000 +0000" stop="20260926220000 +0000" channel="4007#553"><title lang="ko">(생)2026 레이버컵</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926220000 +0000" stop="20260927000000 +0000" channel="4007#553"><title lang="ko">UFC PREVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
@@ -4011,21 +4013,21 @@
 <programme start="20260926150000 +0000" stop="20260926163000 +0000" channel="4007#769"><title lang="ko">2026 KGA 제30회 최등규배 매경아마추어골프선수권대회</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926163000 +0000" stop="20260926173000 +0000" channel="4007#769"><title lang="ko">2026 넥센 세인트나인 우리동호회 Masters</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926173000 +0000" stop="20260926190000 +0000" channel="4007#769"><title lang="ko">2026 KPGA투어 골프존 오픈 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926190000 +0000" stop="20260926193000 +0000" channel="4007#769"><title lang="ko">원 퍼트 프로젝트 : 10.8</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926193000 +0000" stop="20260926200000 +0000" channel="4007#769"><title lang="ko">임진한의 인생명작</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926200000 +0000" stop="20260926223000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 포인트 대리운전 챔피언스 투어</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926223000 +0000" stop="20260927000000 +0000" channel="4007#769"><title lang="ko">SBS골프 아카데미 스페셜</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="4007#769"><title lang="ko">2026 키움증권 고교동창 골프 최강전</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="4007#769"><title lang="ko">2026 키움증권 고교동창 골프 최강전</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927020000 +0000" stop="20260927053000 +0000" channel="4007#769"><title lang="ko">2026 KLPGA 하나금융그룹 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927053000 +0000" stop="20260927063000 +0000" channel="4007#769"><title lang="ko">제2회 DB증권 직장인 골프 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927063000 +0000" stop="20260927073000 +0000" channel="4007#769"><title lang="ko">제2회 DB증권 직장인 골프 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927073000 +0000" stop="20260927083000 +0000" channel="4007#769"><title lang="ko">2026 벤제프 클럽챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927083000 +0000" stop="20260927093000 +0000" channel="4007#769"><title lang="ko">2026 벤제프 클럽챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927093000 +0000" stop="20260927123000 +0000" channel="4007#769"><title lang="ko">[메이저]2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927123000 +0000" stop="20260927133000 +0000" channel="4007#769"><title lang="ko">2026 서산수 메디카코리아 맞수한판</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927133000 +0000" stop="20260927143000 +0000" channel="4007#769"><title lang="ko">2026 서산수 메디카코리아 맞수한판</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927143000 +0000" stop="20260927170000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 포인트 대리운전 챔피언스 투어</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926190000 +0000" stop="20260926192000 +0000" channel="4007#769"><title lang="ko">원 퍼트 프로젝트 : 10.8</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926192000 +0000" stop="20260926202000 +0000" channel="4007#769"><title lang="ko">임진한의 인생명작</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926202000 +0000" stop="20260926224000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 포인트 대리운전 챔피언스 투어</title><category lang="ko">스포츠</category></programme>
+<programme start="20260926224000 +0000" stop="20260927003000 +0000" channel="4007#769"><title lang="ko">SBS골프 아카데미 스페셜</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927003000 +0000" stop="20260927013000 +0000" channel="4007#769"><title lang="ko">2026 키움증권 고교동창 골프 최강전</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927013000 +0000" stop="20260927023000 +0000" channel="4007#769"><title lang="ko">2026 키움증권 고교동창 골프 최강전</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927023000 +0000" stop="20260927060000 +0000" channel="4007#769"><title lang="ko">2026 KLPGA 하나금융그룹 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927060000 +0000" stop="20260927070000 +0000" channel="4007#769"><title lang="ko">제2회 DB증권 직장인 골프 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927070000 +0000" stop="20260927080000 +0000" channel="4007#769"><title lang="ko">제2회 DB증권 직장인 골프 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927080000 +0000" stop="20260927085000 +0000" channel="4007#769"><title lang="ko">2026 벤제프 클럽챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927085000 +0000" stop="20260927100000 +0000" channel="4007#769"><title lang="ko">2026 벤제프 클럽챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927100000 +0000" stop="20260927125000 +0000" channel="4007#769"><title lang="ko">[메이저]2026 KLPGA BC카드 한경 제48회 KLPGA 챔피언십</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927125000 +0000" stop="20260927140000 +0000" channel="4007#769"><title lang="ko">2026 서산수 메디카코리아 맞수한판</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="4007#769"><title lang="ko">2026 서산수 메디카코리아 맞수한판</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927150000 +0000" stop="20260927172000 +0000" channel="4007#769"><title lang="ko">KLPGA 2026 포인트 대리운전 챔피언스 투어</title><category lang="ko">스포츠</category></programme>
 <programme start="20260925130000 +0000" stop="20260925150000 +0000" channel="4007#911"><title lang="ko">2026 아이치나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
 <programme start="20260925150000 +0000" stop="20260925170000 +0000" channel="4007#911"><title lang="ko">2026 아이치나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
 <programme start="20260925170000 +0000" stop="20260925190000 +0000" channel="4007#911"><title lang="ko">2026 NFL</title><category lang="ko">스포츠</category></programme>
@@ -5281,12 +5283,12 @@
 <programme start="20260926041500 +0000" stop="20260926054500 +0000" channel="4009#58"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926054500 +0000" stop="20260926074200 +0000" channel="4009#58"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926074200 +0000" stop="20260926093000 +0000" channel="4009#58"><title lang="ko">라디오스타</title><desc lang="ko">잘나가는 DJ들이 TV에서 뭉쳤다. 고품격 음악방송을 추구하는 &apos;들리는 TV&apos; 라디오스타!</desc><credits><actor>김국진</actor><actor>김구라</actor><actor>안영미</actor><actor>유세윤</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926093000 +0000" stop="20260926111700 +0000" channel="4009#58"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260926093000 +0000" stop="20260926111700 +0000" channel="4009#58"><title lang="ko">2026 추석특집 나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926111700 +0000" stop="20260926132200 +0000" channel="4009#58"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926132200 +0000" stop="20260926151000 +0000" channel="4009#58"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926132200 +0000" stop="20260926151000 +0000" channel="4009#58"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260926132200 +0000" stop="20260926151000 +0000" channel="4009#58"><title lang="ko">2026 추석특집 나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260926132200 +0000" stop="20260926151000 +0000" channel="4009#58"><title lang="ko">2026 추석특집 나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926151000 +0000" stop="20260926163100 +0000" channel="4009#58"><title lang="ko">어서와~ 한국은 처음이지?</title><desc lang="ko">난생 처음 한국을 방문한 외국인들의 눈에 비친 &apos;진짜 한국&apos;은 어떤 모습일까? 한국에 처음 와본 외국인 친구들의 리얼한 &apos;한국 여행기&apos;를 통해 &apos;여행&apos;그대로의 보는 즐거움과 문화적 차이에서 오는 재미까지 동시에 선사한다.</desc><credits><actor>김준현</actor><actor>이현이</actor><actor>알베르토 몬디</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926163100 +0000" stop="20260926180200 +0000" channel="4009#58"><title lang="ko">나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260926163100 +0000" stop="20260926180200 +0000" channel="4009#58"><title lang="ko">2026 추석특집 나 혼자 산다</title><desc lang="ko">혼자 사는 스타들의 일상을 관찰 카메라로 보여준다.</desc><credits><actor>전현무</actor><actor>기안84</actor><actor>코드 쿤스트</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926180200 +0000" stop="20260926192500 +0000" channel="4009#58"><title lang="ko">2026 추석에도 놀면 뭐하니?</title><desc lang="ko">수많은 사람을 거치며 카메라에 담긴 의외의 인물들과 다양한 이야기를 담은 프로그램</desc><credits><actor>유재석</actor><actor>정준하</actor><actor>하하</actor><actor>신봉선</actor><actor>이미주</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926192500 +0000" stop="20260926200400 +0000" channel="4009#58"><title lang="ko">쇼킹 받는 차트 스페셜</title><desc lang="ko">당신을 분노케 할 시공 초월 충격 실화! 화려한 말빨과 신들린 연기로 때려 박는 차트쇼가 온다.</desc><credits><actor>배성재</actor><actor>랄랄</actor><actor>이승국</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926200400 +0000" stop="20260926204800 +0000" channel="4009#58"><title lang="ko">히든 아이 라이브이슈</title><credits><actor>김성주</actor><actor>박하선</actor></credits><category lang="ko">연예/오락</category></programme>
@@ -9535,37 +9537,37 @@
 <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="4011#792"><title lang="ko">다큐S 프라임</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="4011#792"><title lang="ko">영화로 보는 전쟁사</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="4011#792"><title lang="ko">영화로 보는 전쟁사</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260926153000 +0000" stop="20260926170000 +0000" channel="4011#792"><title lang="ko">한국을 부탁해</title><category lang="ko">연예/오락</category></programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="4011#792"><title lang="ko">극한탐사 세계의 재난현장</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260926153000 +0000" stop="20260926165800 +0000" channel="4011#792"><title lang="ko">한국을 부탁해</title><category lang="ko">연예/오락</category></programme>
+<programme start="20260926165800 +0000" stop="20260926180000 +0000" channel="4011#792"><title lang="ko">극한탐사 세계의 재난현장</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926180000 +0000" stop="20260926190000 +0000" channel="4011#792"><title lang="ko">애니멀 시그널</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926190000 +0000" stop="20260926200000 +0000" channel="4011#792"><title lang="ko">뷰티풀 코리아</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260926200000 +0000" stop="20260926203000 +0000" channel="4011#792"><title lang="ko">여행하기 좋은날 S3</title><category lang="ko">취미/레저</category></programme>
-<programme start="20260926203000 +0000" stop="20260926210000 +0000" channel="4011#792"><title lang="ko">여행하기 좋은날 S3</title><category lang="ko">취미/레저</category></programme>
-<programme start="20260926210000 +0000" stop="20260926213000 +0000" channel="4011#792"><title lang="ko">닥터미담</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260926213000 +0000" stop="20260926220000 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260926200000 +0000" stop="20260926202800 +0000" channel="4011#792"><title lang="ko">여행하기 좋은날 S3</title><category lang="ko">취미/레저</category></programme>
+<programme start="20260926202800 +0000" stop="20260926210000 +0000" channel="4011#792"><title lang="ko">여행하기 좋은날 S3</title><category lang="ko">취미/레저</category></programme>
+<programme start="20260926210000 +0000" stop="20260926212800 +0000" channel="4011#792"><title lang="ko">닥터미담</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260926212800 +0000" stop="20260926220000 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926220000 +0000" stop="20260926230000 +0000" channel="4011#792"><title lang="ko">애니멀 시그널</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926230000 +0000" stop="20260927000000 +0000" channel="4011#792"><title lang="ko">뷰티풀 코리아</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="4011#792"><title lang="ko">메디컬 인사이트</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="4011#792"><title lang="ko">다큐S 프라임</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="4011#792"><title lang="ko">희망무지개</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="4011#792"><title lang="ko">NEW 코리아 헌터</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="4011#792"><title lang="ko">수상한 비디오 크레이지S</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="4011#792"><title lang="ko">고기서 만나</title><desc lang="ko">알고 먹어야 더 맛있다! 고기 부위별로 차근차근 배우고 맛보고 즐기며, 부위별 최고의 고기를 찾아 떠나는 프로그램</desc><credits><actor>강호동</actor><actor>김호영</actor><actor>송소희</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="4011#792"><title lang="ko">샅바전쟁 17대 1</title><desc lang="ko">현역 선수 1명 vs 일반인 17명이 씨름판에서 맞붙는다면? 한판이기에 더욱 짜릿한 승부, 불가능에 도전하는 사람들의 뜨거운 열정과 감동으로 진정한 사나이들의 씨름을 만난다.</desc><credits><actor>이만기</actor><actor>김수찬</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260927060000 +0000" stop="20260927063000 +0000" channel="4011#792"><title lang="ko">더 나은 인생 올리브</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927063000 +0000" stop="20260927070000 +0000" channel="4011#792"><title lang="ko">더 나은 인생 올리브</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927070000 +0000" stop="20260927080000 +0000" channel="4011#792"><title lang="ko">몬스터 피쉬</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="4011#792"><title lang="ko">영화로 보는 전쟁사</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="4011#792"><title lang="ko">과학자들</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927093000 +0000" stop="20260927100000 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260927100000 +0000" stop="20260927103000 +0000" channel="4011#792"><title lang="ko">다큐S 프라임</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927103000 +0000" stop="20260927110000 +0000" channel="4011#792"><title lang="ko">알지오</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="4011#792"><title lang="ko">세계로 가는 K-헤리티지</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927113000 +0000" stop="20260927120000 +0000" channel="4011#792"><title lang="ko">세계로 가는 K-헤리티지</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="4011#792"><title lang="ko">극한탐사 세계의 재난현장</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="4011#792"><title lang="ko">역사를 바꾼 사건들 100일의 기록</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="4011#792"><title lang="ko">과학자들</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927000000 +0000" stop="20260927002600 +0000" channel="4011#792"><title lang="ko">메디컬 인사이트</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927002600 +0000" stop="20260927010000 +0000" channel="4011#792"><title lang="ko">다큐S 프라임</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927010000 +0000" stop="20260927020300 +0000" channel="4011#792"><title lang="ko">희망무지개</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927020300 +0000" stop="20260927031100 +0000" channel="4011#792"><title lang="ko">NEW 코리아 헌터</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927031100 +0000" stop="20260927033900 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260927033900 +0000" stop="20260927041200 +0000" channel="4011#792"><title lang="ko">수상한 비디오 크레이지S</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927041200 +0000" stop="20260927051000 +0000" channel="4011#792"><title lang="ko">고기서 만나</title><desc lang="ko">알고 먹어야 더 맛있다! 고기 부위별로 차근차근 배우고 맛보고 즐기며, 부위별 최고의 고기를 찾아 떠나는 프로그램</desc><credits><actor>강호동</actor><actor>김호영</actor><actor>송소희</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260927051000 +0000" stop="20260927060700 +0000" channel="4011#792"><title lang="ko">샅바전쟁 17대 1</title><desc lang="ko">현역 선수 1명 vs 일반인 17명이 씨름판에서 맞붙는다면? 한판이기에 더욱 짜릿한 승부, 불가능에 도전하는 사람들의 뜨거운 열정과 감동으로 진정한 사나이들의 씨름을 만난다.</desc><credits><actor>이만기</actor><actor>김수찬</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260927060700 +0000" stop="20260927063200 +0000" channel="4011#792"><title lang="ko">더 나은 인생 올리브</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927063200 +0000" stop="20260927071000 +0000" channel="4011#792"><title lang="ko">더 나은 인생 올리브</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927071000 +0000" stop="20260927080100 +0000" channel="4011#792"><title lang="ko">몬스터 피쉬</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927080100 +0000" stop="20260927090000 +0000" channel="4011#792"><title lang="ko">영화로 보는 전쟁사</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927090000 +0000" stop="20260927092800 +0000" channel="4011#792"><title lang="ko">과학자들</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927092800 +0000" stop="20260927100200 +0000" channel="4011#792"><title lang="ko">황금 나침반</title><desc lang="ko">생활정보 프로그램</desc><credits><actor>김정구</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260927100200 +0000" stop="20260927102900 +0000" channel="4011#792"><title lang="ko">다큐S 프라임</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927102900 +0000" stop="20260927110100 +0000" channel="4011#792"><title lang="ko">알지오</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927110100 +0000" stop="20260927113100 +0000" channel="4011#792"><title lang="ko">세계로 가는 K-헤리티지</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927113100 +0000" stop="20260927120200 +0000" channel="4011#792"><title lang="ko">세계로 가는 K-헤리티지</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927120200 +0000" stop="20260927130400 +0000" channel="4011#792"><title lang="ko">극한탐사 세계의 재난현장</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927130400 +0000" stop="20260927140300 +0000" channel="4011#792"><title lang="ko">역사를 바꾼 사건들 100일의 기록</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927140300 +0000" stop="20260927143000 +0000" channel="4011#792"><title lang="ko">과학자들</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260927143000 +0000" stop="20260927153000 +0000" channel="4011#792"><title lang="ko">영화로 보는 전쟁사</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260925144500 +0000" stop="20260925153500 +0000" channel="4011#904"><title lang="ko">베어 그릴스와 함께하는 야생 탐험 3</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260925153500 +0000" stop="20260925164000 +0000" channel="4011#904"><title lang="ko">사이먼 리브의 황무지 여행</title><category lang="ko">시사/다큐</category></programme>
@@ -11144,7 +11146,7 @@
 <programme start="20260926190000 +0000" stop="20260926192000 +0000" channel="4014#42"><title lang="ko">하나님의 손길</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926192000 +0000" stop="20260926193000 +0000" channel="4014#42"><title lang="ko">주성민 목사의 찬양의 기도</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926193000 +0000" stop="20260926203000 +0000" channel="4014#42"><title lang="ko">김양재 목사의 공동체 고백</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260926203000 +0000" stop="20260926205000 +0000" channel="4014#42"><title lang="ko">더 기프트 [간증]</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260926203000 +0000" stop="20260926205000 +0000" channel="4014#42"><title lang="ko">새생명축제 : 더 기프트 [간증]</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926205000 +0000" stop="20260926210000 +0000" channel="4014#42"><title lang="ko">찬양의 샘</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926210000 +0000" stop="20260926211000 +0000" channel="4014#42"><title lang="ko">오정현 목사의 비전묵상 3분 미라클</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926211000 +0000" stop="20260926215000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
@@ -11167,8 +11169,7 @@
 <programme start="20260927080000 +0000" stop="20260927083000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927083000 +0000" stop="20260927090000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
-<programme start="20260927093000 +0000" stop="20260927095000 +0000" channel="4014#42"><title lang="ko">주성민 목사의 주담길</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927095000 +0000" stop="20260927100000 +0000" channel="4014#42"><title lang="ko">주성민 목사의 찬양의 기도</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927093000 +0000" stop="20260927100000 +0000" channel="4014#42"><title lang="ko">주성민 목사의 주담길</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260927100000 +0000" stop="20260927103000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927103000 +0000" stop="20260927110000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="4014#42"><title lang="ko">생명의 말씀</title><desc lang="ko">설교참여문의 : 02) 6333-1077</desc><category lang="ko">교양/정보</category></programme>
@@ -12885,11 +12886,8 @@
 <programme start="20260926163455 +0000" stop="20260926172055 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-980 爱在平凡 6/30</title></programme>
 <programme start="20260926172055 +0000" stop="20260926180655 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-981 爱在平凡 7/30</title></programme>
 <programme start="20260926180655 +0000" stop="20260926194955 +0000" channel="CCTV3.cn@SD"><title lang="zh">影视留声机-2026-120-经典电影欣赏《她俩和他俩》</title></programme>
-<programme start="20260926194955 +0000" stop="20260926203855 +0000" channel="CCTV3.cn@SD"><title lang="zh">星光大道-2026-39</title></programme>
-<programme start="20260926203855 +0000" stop="20260926215055 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1068 此生要去的100个地方 2</title></programme>
-<programme start="20260926215055 +0000" stop="20260926215350 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1127 万疆</title></programme>
-<programme start="20260926215350 +0000" stop="20260926215925 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1138 红楼梦</title></programme>
-<programme start="20260926215925 +0000" stop="20260926221520 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1100 锦绣神州 歌曲集锦14</title></programme>
+<programme start="20260926194955 +0000" stop="20260926211240 +0000" channel="CCTV3.cn@SD"><title lang="zh">星光大道-2026-39</title></programme>
+<programme start="20260926211240 +0000" stop="20260926221520 +0000" channel="CCTV3.cn@SD"><title lang="zh">跟着春晚游中国（义乌篇）-1</title></programme>
 <programme start="20260926221520 +0000" stop="20260926232310 +0000" channel="CCTV3.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-519</title></programme>
 <programme start="20260926232310 +0000" stop="20260927004925 +0000" channel="CCTV3.cn@SD"><title lang="zh">你好时光（第二季）-3</title></programme>
 <programme start="20260927004925 +0000" stop="20260927011925 +0000" channel="CCTV3.cn@SD"><title lang="zh">中央广播电视总台2026年中秋晚会-2</title></programme>
@@ -12901,8 +12899,8 @@
 <programme start="20260927053030 +0000" stop="20260927065515 +0000" channel="CCTV3.cn@SD"><title lang="zh">越战越勇-2026-29</title></programme>
 <programme start="20260927065515 +0000" stop="20260927075700 +0000" channel="CCTV3.cn@SD"><title lang="zh">远山之约（蜀山篇）-5</title></programme>
 <programme start="20260927075700 +0000" stop="20260927095100 +0000" channel="CCTV3.cn@SD"><title lang="zh">喜满中秋-1</title></programme>
-<programme start="20260927095100 +0000" stop="20260927100030 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1032 咏春</title></programme>
-<programme start="20260927100030 +0000" stop="20260927112430 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-37</title></programme>
+<programme start="20260927095100 +0000" stop="20260927100000 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1032 咏春</title></programme>
+<programme start="20260927100000 +0000" stop="20260927112430 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-37</title></programme>
 <programme start="20260927112430 +0000" stop="20260927113000 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-3 先导片</title></programme>
 <programme start="20260927113000 +0000" stop="20260927132245 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-3</title></programme>
 <programme start="20260927132245 +0000" stop="20260927143650 +0000" channel="CCTV3.cn@SD"><title lang="zh">第七届全国少数民族文艺会演闭幕式-播出版</title></programme>
