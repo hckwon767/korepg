@@ -570,8 +570,8 @@
 <programme start="20260927000000 +0000" stop="20260927024000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927024000 +0000" stop="20260927060000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927060000 +0000" stop="20260927092000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927092000 +0000" stop="20260927110000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927110000 +0000" stop="20260927133000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927092000 +0000" stop="20260927113000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927113000 +0000" stop="20260927133000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
 <programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="4003#794"><title lang="ko">나고야 2026 특집 SBS 8 뉴스 / (2안)</title><category lang="ko">뉴스</category></programme>
 <programme start="20260927140000 +0000" stop="20260927154000 +0000" channel="4003#794"><title lang="ko">추석에도 함께할지니 비서진 / (2안)</title><credits><actor>이서진</actor><actor>김광규</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260927140000 +0000" stop="20260927154000 +0000" channel="4003#794"><title lang="ko">추석에도 함께할지니 비서진 / (2안)</title><credits><actor>이서진</actor><actor>김광규</actor></credits><category lang="ko">연예/오락</category></programme>
@@ -581,16 +581,13 @@
 <programme start="20260927210000 +0000" stop="20260927212500 +0000" channel="4003#794"><title lang="ko">모닝와이드 (1부)</title><desc lang="ko">국내외 방방곡곡 일어나는 흥미로운 화제와 사회적 이슈를 찾아 소개하고, 실생활에 필요한 알찬 정보까지도 품격있게 소개하는 종합 정보 매거진 프로그램</desc><credits><actor>최기환</actor><actor>유경미</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260927212500 +0000" stop="20260927224000 +0000" channel="4003#794"><title lang="ko">모닝와이드 (2부)</title><desc lang="ko">국내외 방방곡곡 일어나는 흥미로운 화제와 사회적 이슈를 찾아 소개하고, 실생활에 필요한 알찬 정보까지도 품격있게 소개하는 종합 정보 매거진 프로그램</desc><credits><actor>최기환</actor><actor>유경미</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260927224000 +0000" stop="20260927234000 +0000" channel="4003#794"><title lang="ko">모닝와이드 (3부)</title><desc lang="ko">국내외 방방곡곡 일어나는 흥미로운 화제와 사회적 이슈를 찾아 소개하고, 실생활에 필요한 알찬 정보까지도 품격있게 소개하는 종합 정보 매거진 프로그램</desc><credits><actor>최기환</actor><actor>유경미</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260927234000 +0000" stop="20260928012000 +0000" channel="4003#794"><title lang="ko">동상이몽2 너는 내 운명 / (2안)</title><desc lang="ko">광활한 우주, 어쩌다 너는 나의 운명이 되었을까.. 사랑에 빠진 커플들, 그 속의 같고 다름을 들여다보는 영화 같은 이야기 똑같은 일이라도 남녀 입장에 따라 서로 기억의 조각이 다르다. 그래서 시작되는 이야기!</desc><credits><actor>김구라</actor><actor>서장훈</actor><actor>김숙</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260928012000 +0000" stop="20260928023000 +0000" channel="4003#794"><title lang="ko">틈만 나면 스페셜 / (2안)</title><credits><actor>유재석</actor><actor>유연석</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260928023000 +0000" stop="20260928033000 +0000" channel="4003#794"><title lang="ko">무엇이든 해줄 지니 비서진</title><credits><actor>이서진</actor><actor>김광규</actor></credits><category lang="ko">연예/오락</category></programme>
+<programme start="20260927234000 +0000" stop="20260928004000 +0000" channel="4003#794"><title lang="ko">TV 동물농장</title><desc lang="ko">인간사만큼이나 무궁무진한 동물들 삶의 애환과 고뇌, 기적과 운명이 교차하는 동물의 세계를 그들의 입장에서 이해하고 공감하도록 유도하는 동물 전문 프로그램. 인간 중심의 사회에서 벗어나 인간과 동물의 진정한 교감을 통해 그들의 순수한 사랑과 감동이 함께 한다.</desc><credits><actor>신동엽</actor><actor>정선희</actor><actor>토니 안</actor><actor>조이</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260928004000 +0000" stop="20260928033000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
 <programme start="20260928033000 +0000" stop="20260928073000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
-<programme start="20260928073000 +0000" stop="20260928100000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260928100000 +0000" stop="20260928121000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260928121000 +0000" stop="20260928130000 +0000" channel="4003#794"><title lang="ko">나고야 2026 특집 SBS 8 뉴스 / (2안)</title><category lang="ko">뉴스</category></programme>
-<programme start="20260928130000 +0000" stop="20260928135000 +0000" channel="4003#794"><title lang="ko">나고야 2026 / (2안)</title><category lang="ko">스포츠</category></programme>
-<programme start="20260928135000 +0000" stop="20260928145000 +0000" channel="4003#794"><title lang="ko">나고야 2026 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260928145000 +0000" stop="20260928152000 +0000" channel="4003#794"><title lang="ko">나고야 2026 특집 나이트라인</title><category lang="ko">뉴스</category></programme>
+<programme start="20260928073000 +0000" stop="20260928103000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
+<programme start="20260928103000 +0000" stop="20260928133000 +0000" channel="4003#794"><title lang="ko">나고야 2026</title><category lang="ko">스포츠</category></programme>
+<programme start="20260928133000 +0000" stop="20260928143000 +0000" channel="4003#794"><title lang="ko">나고야 2026 특집 SBS 8 뉴스</title><category lang="ko">뉴스</category></programme>
+<programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="4003#794"><title lang="ko">나고야 2026 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926142000 +0000" stop="20260926154000 +0000" channel="4003#795"><title lang="ko">토일 미니시리즈 너 말고 다른 연애 1~4회 몰아보기</title><desc lang="ko">연애 10년 차, 익숙했던 연인이 낯선 감정과 마주하게 되는 현실 공감 리얼 멜로드라마</desc><credits><actor>서강준</actor><actor>안은진</actor></credits><category lang="ko">드라마</category></programme>
 <programme start="20260926154000 +0000" stop="20260926170000 +0000" channel="4003#795"><title lang="ko">구르미 다시 그린 달빛</title><credits><actor>박보검</actor><actor>김유정</actor><actor>진영</actor><actor>채수빈</actor><actor>곽동연</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260926170000 +0000" stop="20260926200000 +0000" channel="4003#795"><title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title><category lang="ko">교양/정보</category></programme>
@@ -620,11 +617,11 @@
 <programme start="20260928100000 +0000" stop="20260928133000 +0000" channel="4003#795"><title lang="ko">여기는 나고야</title><category lang="ko">스포츠</category></programme>
 <programme start="20260928133000 +0000" stop="20260928150000 +0000" channel="4003#795"><title lang="ko">말자쇼</title><credits><actor>김영희</actor><actor>정범균</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20260928150000 +0000" stop="20260928162000 +0000" channel="4003#795"><title lang="ko">살림하는 남자들</title><desc lang="ko">직접 살림을 하는 남자 스타들의 리얼한 살림살이 모습과 이들의 살림 수다가 어우러진 관찰 토크쇼</desc><credits><actor>최양락</actor><actor>팽현숙</actor><actor>김승현</actor><actor>최민환</actor><actor>팝핀현준</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926143000 +0000" stop="20260926155000 +0000" channel="4003#796"><title lang="ko">추석 특집 명창 이춘희의 한가위 대잔치</title><category lang="ko">음악</category></programme>
-<programme start="20260926155000 +0000" stop="20260926164000 +0000" channel="4003#796"><title lang="ko">KBS걸작 다큐멘터리</title><desc lang="ko">세계 여러나라에서 제작된 수준높은 다큐멘터리</desc><category lang="ko">시사/다큐</category></programme>
-<programme start="20260926164000 +0000" stop="20260926173500 +0000" channel="4003#796"><title lang="ko">걸어서 세계속으로 트래블홀릭</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260926173500 +0000" stop="20260926184500 +0000" channel="4003#796"><title lang="ko">무엇이든 물어보세요</title><desc lang="ko">실생활 속 필수아이템에 대한 정확한 지식을 전달 및 시청자참여 중심의 오랜 전통을 이어오고 있는 정통 교양정보 프로그램</desc><credits><actor>김승휘</actor><actor>정다은</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260926184500 +0000" stop="20260926200000 +0000" channel="4003#796"><title lang="ko">아침마당</title><desc lang="ko">이 시대를 다양하게 살아가는 일상에서 만나는 평범한 사람들의 거짓 없는 삶을 통해서 즐거운 아침, 건강한 아침, 감동이 함께 한다.</desc><credits><actor>윤인구</actor><actor>오유경</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260926143000 +0000" stop="20260926160500 +0000" channel="4003#796"><title lang="ko">추석 특집 명창 이춘희의 한가위 대잔치</title><category lang="ko">음악</category></programme>
+<programme start="20260926160500 +0000" stop="20260926165500 +0000" channel="4003#796"><title lang="ko">KBS걸작 다큐멘터리</title><desc lang="ko">세계 여러나라에서 제작된 수준높은 다큐멘터리</desc><category lang="ko">시사/다큐</category></programme>
+<programme start="20260926165500 +0000" stop="20260926175000 +0000" channel="4003#796"><title lang="ko">걸어서 세계속으로 트래블홀릭</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260926175000 +0000" stop="20260926190000 +0000" channel="4003#796"><title lang="ko">무엇이든 물어보세요</title><desc lang="ko">실생활 속 필수아이템에 대한 정확한 지식을 전달 및 시청자참여 중심의 오랜 전통을 이어오고 있는 정통 교양정보 프로그램</desc><credits><actor>김승휘</actor><actor>정다은</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260926190000 +0000" stop="20260926200000 +0000" channel="4003#796"><title lang="ko">생로병사의 비밀</title><desc lang="ko">국민의 삶의 질을 높이고, 국민의 건강을 지키기 위해 필수 의학 정보와 실용적인 맞춤 건강 정보를 새로운 형식으로 정확하고 빠르게 제공하는 신 의학다큐멘터리</desc><credits><actor>김진희</actor></credits><category lang="ko">교양/정보</category></programme>
 <programme start="20260926200000 +0000" stop="20260926201000 +0000" channel="4003#796"><title lang="ko">KBS 재난방송센터</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926201000 +0000" stop="20260926210000 +0000" channel="4003#796"><title lang="ko">내고향 스페셜</title><desc lang="ko">내 고향 스페셜은 중장년층의 사랑을 받고 있는 6시 내고향과 한국 재발견, 한국인의 밥상 등을 재구성한 프로그램이다</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260926210000 +0000" stop="20260926211000 +0000" channel="4003#796"><title lang="ko">세계는 지금 스페셜</title><desc lang="ko">세계 곳곳에서 일어나고 있는 사건들을 알기 쉽게 소개해 주는 프로그램</desc><credits><actor>윤수영</actor></credits><category lang="ko">교양/정보</category></programme>
@@ -640,19 +637,20 @@
 <programme start="20260927030000 +0000" stop="20260927031000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
 <programme start="20260927031000 +0000" stop="20260927044000 +0000" channel="4003#796"><title lang="ko">전국노래자랑</title><desc lang="ko">전국 서민들의 구수한 노래를 뽑낼 수 있는 노래 자랑 쇼</desc><credits><actor>남희석</actor></credits><category lang="ko">음악</category></programme>
 <programme start="20260927044000 +0000" stop="20260927080000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927080000 +0000" stop="20260927100000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927100000 +0000" stop="20260927101000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
-<programme start="20260927101000 +0000" stop="20260927130000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스9</title><desc lang="ko">당일발생 사안을 시청자들에게 신속히 전달하고 관련 현안을 종합 정리해 분석보도.</desc><category lang="ko">뉴스</category></programme>
-<programme start="20260927133000 +0000" stop="20260927141000 +0000" channel="4003#796"><title lang="ko">인생이 영화</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260927141000 +0000" stop="20260927151000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927141000 +0000" stop="20260927151000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20260927151000 +0000" stop="20260927152000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
-<programme start="20260927152000 +0000" stop="20260927163000 +0000" channel="4003#796"><title lang="ko">이현우의 체크인 콘서트 [제주총국]</title><category lang="ko">음악</category></programme>
-<programme start="20260927163000 +0000" stop="20260927172000 +0000" channel="4003#796"><title lang="ko">다큐 인사이트</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927172000 +0000" stop="20260927181500 +0000" channel="4003#796"><title lang="ko">이슈 픽 쌤과 함께</title><credits><actor>이승현</actor></credits><category lang="ko">교양/정보</category></programme>
-<programme start="20260927181500 +0000" stop="20260927190500 +0000" channel="4003#796"><title lang="ko">역사스페셜 시간여행자</title><category lang="ko">시사/다큐</category></programme>
-<programme start="20260927190500 +0000" stop="20260927200000 +0000" channel="4003#796"><title lang="ko">백투더뮤직 시즌 2</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927080000 +0000" stop="20260927094500 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927094500 +0000" stop="20260927095500 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
+<programme start="20260927095500 +0000" stop="20260927120000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스 9</title><desc lang="ko">당일발생 사안을 시청자들에게 신속히 전달하고 관련 현안을 종합 정리해 분석보도.</desc><category lang="ko">뉴스</category></programme>
+<programme start="20260927123000 +0000" stop="20260927131000 +0000" channel="4003#796"><title lang="ko">인생이 영화</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927131000 +0000" stop="20260927141000 +0000" channel="4003#796"><title lang="ko">2026 아이치-나고야 아시안게임 하이라이트</title><category lang="ko">스포츠</category></programme>
+<programme start="20260927141000 +0000" stop="20260927142000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
+<programme start="20260927142000 +0000" stop="20260927153000 +0000" channel="4003#796"><title lang="ko">이현우의 체크인 콘서트 [제주총국]</title><category lang="ko">음악</category></programme>
+<programme start="20260927142000 +0000" stop="20260927153000 +0000" channel="4003#796"><title lang="ko">이현우의 체크인 콘서트 [제주총국]</title><category lang="ko">음악</category></programme>
+<programme start="20260927153000 +0000" stop="20260927162000 +0000" channel="4003#796"><title lang="ko">다큐 인사이트</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927162000 +0000" stop="20260927171500 +0000" channel="4003#796"><title lang="ko">이슈 픽 쌤과 함께</title><credits><actor>이승현</actor></credits><category lang="ko">교양/정보</category></programme>
+<programme start="20260927171500 +0000" stop="20260927174500 +0000" channel="4003#796"><title lang="ko">특집 다큐 KBS 영상아카이브 우리의 얼굴</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260927174500 +0000" stop="20260927190500 +0000" channel="4003#796"><title lang="ko">추석 특집 명창 이춘희의 한가위 대잔치</title><category lang="ko">음악</category></programme>
+<programme start="20260927190500 +0000" stop="20260927200000 +0000" channel="4003#796"><title lang="ko">역사스페셜 시간여행자</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260927200000 +0000" stop="20260927201000 +0000" channel="4003#796"><title lang="ko">생활의 발견 스페셜</title><desc lang="ko">생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927201000 +0000" stop="20260927210000 +0000" channel="4003#796"><title lang="ko">내고향 스페셜</title><desc lang="ko">내 고향 스페셜은 중장년층의 사랑을 받고 있는 6시 내고향과 한국 재발견, 한국인의 밥상 등을 재구성한 프로그램이다</desc><category lang="ko">교양/정보</category></programme>
 <programme start="20260927210000 +0000" stop="20260927225000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스광장</title><desc lang="ko">밤사이 국내외뉴스 종합보도뉴스 심층해설각종 생활정보 전달</desc><category lang="ko">뉴스</category></programme>
@@ -3912,8 +3910,6 @@
 <programme start="20260928091500 +0000" stop="20260928123000 +0000" channel="4007#553"><title lang="ko">(생)2026 메디힐 KBO 퓨처스리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20260928123000 +0000" stop="20260928143000 +0000" channel="4007#553"><title lang="ko">(본)UFC PREVIEW Fight Show</title><category lang="ko">스포츠</category></programme>
 <programme start="20260928143000 +0000" stop="20260928163000 +0000" channel="4007#553"><title lang="ko">(본)하나은행 초청 축구국가대표팀 친선경기</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="4007#578"><title lang="ko">TRAIL: Golden Trail, Myoko</title><category lang="ko">스포츠</category></programme>
-<programme start="20260926150000 +0000" stop="20260926163100 +0000" channel="4007#578"><title lang="ko">CYCLING: Grand Prix Cycliste de Montreal</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926163100 +0000" stop="20260926175300 +0000" channel="4007#578"><title lang="ko">CYCLING: CRO RACE</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926175300 +0000" stop="20260926192900 +0000" channel="4007#578"><title lang="ko">CYCLING: Grand Prix Cycliste de Quebec</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926192900 +0000" stop="20260926215800 +0000" channel="4007#578"><title lang="ko">TRIATHLON: T100 Triathlon World Tour</title><category lang="ko">스포츠</category></programme>
@@ -8173,14 +8169,14 @@
 <programme start="20260928140000 +0000" stop="20260928150000 +0000" channel="4011#128"><title lang="ko">멜로다큐 가족</title><desc lang="ko">우리 사회의 다양한 형태의 가족을 소개하고, 우리 사회의 마지막 보루이자 희망인 가족을 재조명하는 동시에 그들의 희노애락을 통해 이 시대의 진정한 가족의 의미를 재조명한다. 또한 가족이라는 울타리로 묶인 우리의 상처와 극복을 통해 더 깊은 사랑을 만들어 가는 과정을 전달한다.</desc><category lang="ko">시사/다큐</category></programme>
 <programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="4011#128"><title lang="ko">휴먼다큐 마냥 이쁜 우리맘</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260926143000 +0000" stop="20260926160000 +0000" channel="4011#166"><title lang="ko">사다 마사시 심야 토크쇼</title><credits><actor>사다 마사시</actor></credits><category lang="ko">연예/오락</category></programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="4011#166"><title lang="ko">초월 해피니스 갸루 마인드, 진짜 나를 찾기까지</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="4011#166"><title lang="ko">초월 해피니스</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="4011#166"><title lang="ko">연예도감</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="4011#166"><title lang="ko">온천 솔로 여행</title><category lang="ko">취미/레저</category></programme>
 <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="4011#166"><title lang="ko">얀츄 우주 방송</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926180000 +0000" stop="20260926182500 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
 <programme start="20260926182500 +0000" stop="20260926183000 +0000" channel="4011#166"><title lang="ko">no art, no life</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926183000 +0000" stop="20260926184500 +0000" channel="4011#166"><title lang="ko">연속TV소설 바람, 향기롭다 제26주</title><credits><actor>미카미 아이</actor><actor>코사카 주리</actor></credits><category lang="ko">드라마</category></programme>
-<programme start="20260926184500 +0000" stop="20260926193500 +0000" channel="4011#166"><title lang="ko">NHK 스페셜</title><category lang="ko">시사/다큐</category></programme>
+<programme start="20260926184500 +0000" stop="20260926193500 +0000" channel="4011#166"><title lang="ko">NHK스페셜 시리즈 질병에 도전</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926193500 +0000" stop="20260926200000 +0000" channel="4011#166"><title lang="ko">스모 가을 토너먼트 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20260926200000 +0000" stop="20260926201000 +0000" channel="4011#166"><title lang="ko">파랑 &amp;amp; 노랑</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260926201000 +0000" stop="20260926205600 +0000" channel="4011#166"><title lang="ko">신프로젝트X 도전자들</title><category lang="ko">교양/정보</category></programme>
@@ -8197,7 +8193,7 @@
 <programme start="20260926235000 +0000" stop="20260927000000 +0000" channel="4011#166"><title lang="ko">Design Ah neo</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="4011#166"><title lang="ko">일요토론</title><category lang="ko">시사/다큐</category></programme>
 <programme start="20260927010000 +0000" stop="20260927010500 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
-<programme start="20260927010500 +0000" stop="20260927020000 +0000" channel="4011#166"><title lang="ko">1.5&apos;c의 약속 지금 당장 행동하자, 2050년 일기예보!</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260927010500 +0000" stop="20260927020000 +0000" channel="4011#166"><title lang="ko">1.5&apos;C의 약속 지금 당장 행동하자, 2050년 일기예보!</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260927020000 +0000" stop="20260927024500 +0000" channel="4011#166"><title lang="ko">롯카쿠 세이지 노미테쓰 철도여행</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260927024500 +0000" stop="20260927025000 +0000" channel="4011#166"><title lang="ko">JAPAN DELISH 5min</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260927025000 +0000" stop="20260927025600 +0000" channel="4011#166"><title lang="ko">우키요에 EDO-LIFE</title><category lang="ko">교양/정보</category></programme>
@@ -8268,7 +8264,7 @@
 <programme start="20260928060000 +0000" stop="20260928061000 +0000" channel="4011#166"><title lang="ko">뉴스 기상정보</title><category lang="ko">뉴스</category></programme>
 <programme start="20260928061000 +0000" stop="20260928065500 +0000" channel="4011#166"><title lang="ko">SONGS</title><credits><actor>오오이즈미 요</actor></credits><category lang="ko">음악</category></programme>
 <programme start="20260928065500 +0000" stop="20260928074000 +0000" channel="4011#166"><title lang="ko">선인들의 저력 지혜의 샘</title><category lang="ko">교양/정보</category></programme>
-<programme start="20260928074000 +0000" stop="20260928081000 +0000" channel="4011#166"><title lang="ko">ETV에서 모닝 마켓</title><category lang="ko">교양/정보</category></programme>
+<programme start="20260928074000 +0000" stop="20260928081000 +0000" channel="4011#166"><title lang="ko">ETV에서 모닝 마켓 나의 부엌 이야기</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260928081000 +0000" stop="20260928082000 +0000" channel="4011#166"><title lang="ko">일본어로 놀자</title><category lang="ko">교육</category></programme>
 <programme start="20260928082000 +0000" stop="20260928083500 +0000" channel="4011#166"><title lang="ko">피카브</title><category lang="ko">교양/정보</category></programme>
 <programme start="20260928083500 +0000" stop="20260928085900 +0000" channel="4011#166"><title lang="ko">엄마와 함께</title><category lang="ko">교육</category></programme>
