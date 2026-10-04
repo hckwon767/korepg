@@ -716,7 +716,7 @@
 <programme start="20261005120000 +0000" stop="20261005123000 +0000" channel="4003#796"><title lang="ko">KBS 뉴스 9</title><desc lang="ko">당일발생 사안을 시청자들에게 신속히 전달하고 관련 현안을 종합 정리해 분석보도.</desc><category lang="ko">뉴스</category></programme>
 <programme start="20261005123000 +0000" stop="20261005132500 +0000" channel="4003#796"><title lang="ko">가요무대</title><desc lang="ko">1985년부터 이어오고 있는 가요무대, 잔잔한 향수와 추억이 담겨있는 전통가요의 무대가 펼쳐진다.</desc><credits><actor>김동건</actor></credits><category lang="ko">음악</category></programme>
 <programme start="20261005132500 +0000" stop="20261005133500 +0000" channel="4003#796"><title lang="ko">KBS 뉴스</title><category lang="ko">뉴스</category></programme>
-<programme start="20261005133500 +0000" stop="20261005142500 +0000" channel="4003#796"><title lang="ko">제78회 이탈리아상 시그니스 특별상 수상기념 성물</title><category lang="ko">교양/정보</category></programme>
+<programme start="20261005133500 +0000" stop="20261005142500 +0000" channel="4003#796"><title lang="ko">제78회 이탈리아상 시그니스 특별상 수상기념 성물</title><desc lang="ko">공사창립 대기획</desc><category lang="ko">시사/다큐</category></programme>
 <programme start="20261005142500 +0000" stop="20261005152000 +0000" channel="4003#796"><title lang="ko">동네 한 바퀴</title><desc lang="ko">동네 한바퀴 돌아볼 여유만 있어도 이 도시는, 삶은, 풍요로워진다. 동네아들 이만기가 걸으며 발견하고, 스토리텔러 나문희의 진정성 있는 목소리로 전하는, 아날로그 도시 기행다큐!</desc><credits><actor>이만기</actor><actor>나문희</actor></credits><category lang="ko">시사/다큐</category></programme>
 <programme start="20261003132000 +0000" stop="20261003151500 +0000" channel="4003#797"><title lang="ko">전지적 참견 시점</title><desc lang="ko">당신의 인생에 참견해드립니다. 가족보다 더 가까운 연예인과 매니저 사이. 매니저의 제보로 스타들의 일상이 공개된다.</desc><credits><actor>전현무</actor><actor>이영자</actor><actor>송은이</actor><actor>양세형</actor><actor>유병재</actor></credits><category lang="ko">연예/오락</category></programme>
 <programme start="20261003151500 +0000" stop="20261003161500 +0000" channel="4003#797"><title lang="ko">함께 아시아</title><category lang="ko">스포츠</category></programme>
@@ -4172,7 +4172,7 @@
 <programme start="20261004040000 +0000" stop="20261004044500 +0000" channel="4007#922"><title lang="ko">26-27 UEFA 네이션스리그 하이라이트</title><category lang="ko">스포츠</category></programme>
 <programme start="20261004044500 +0000" stop="20261004083000 +0000" channel="4007#922"><title lang="ko">2026 KBO리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20261004083000 +0000" stop="20261004093000 +0000" channel="4007#922"><title lang="ko">스포타임 베이스볼 하이라이트</title><category lang="ko">스포츠</category></programme>
-<programme start="20261004093000 +0000" stop="20261004113000 +0000" channel="4007#922"><title lang="ko">2026 아시안게임</title><category lang="ko">스포츠</category></programme>
+<programme start="20261004093000 +0000" stop="20261004113000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 메이저리그 디비전 시리즈</title><category lang="ko">스포츠</category></programme>
 <programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 스포타임 메이저리그</title><category lang="ko">스포츠</category></programme>
 <programme start="20261004123000 +0000" stop="20261004140000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 2026 KUMHO FIA TCR World Tour 인제</title><category lang="ko">스포츠</category></programme>
 <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="4007#922"><title lang="ko">[오늘 경기] 스포타임 풋볼 하이라이트</title><category lang="ko">스포츠</category></programme>
