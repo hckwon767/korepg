@@ -1,0 +1,134 @@
+ANIBOX,https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+BBC,https://k227.jk-cdn.com/watch/live.m3u8?video=bbc_kr_540&sid=hRf42erYrVkAVaQPoKXku1BcldaBzPs8nIFNzmxt&secret=51954a4a8778e0b70a7bf1b148936142&time=1791651824
+BilliardsTV,https://k227.jk-cdn.com/watch/live.m3u8?video=billiardstv_540&sid=8AUo5vaoMSsxLcKxQwbHgCaBZmLpby9gjSkgTYn4&secret=1f691fee66d8c3dac4092e0489f0272b&time=1791649639
+Cartoon,https://k227.jk-cdn.com/watch/live.m3u8?video=cartoon_network_720&sid=Q8jrqHLbkADiQ3B2qrmMRWIihxdKNnNS3s62HBqE&secret=5d7300e47eca49f69876572c75b4d759&time=1791651844
+CATCH ON,https://k227.jk-cdn.com/watch/live.m3u8?video=catch_on_720&sid=YjpbXFCIicSXLmXj8LdCJHiZQgZ8oqKVbeLIPE6o&secret=0073d7eeb142828c512dedfc8ece3695&time=1791648984
+CJ ENM Movie,https://jmp2.uk/stvp-KRBC32000191N
+CNN,https://k227.jk-cdn.com/watch/live.m3u8?video=cnn_kr_540&sid=q1P6c2JOX6Z9Ub0wspdMXr5SKMQ1rarSOp22tUf8&secret=381b9df74072adac45b4e3417a0bf313&time=1791651797
+DISCOVERY,https://k227.jk-cdn.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
+EBS,https://k227.jk-cdn.com/watch/live.m3u8?video=ebs_1_720&sid=9EDx0nt3EYpqi6eK2EjtFnA6B1QdxJJIUpKHoIiv&secret=6291228e266d5f391ca8acb931ac4402&time=1791648360
+EBS+1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+EBS2,https://k227.jk-cdn.com/watch/live.m3u8?video=ebs_2_540&sid=HUeLf9ZJLUme8QSKw080GhtolglxGfxNBbRAlTsu&secret=cd3f0103e578544e3cd89f85b16e426b&time=1791648391
+ENA,https://k227.jk-cdn.com/watch/live.m3u8?video=ena_720&sid=Xye6HctxdMkSn9QOAmrWs46gzp7zzy1XQBO8xghl&secret=39361e2a1bb8113e4f1ca058e331e6c6&time=1791649840
+ENA SPORTS,https://k227.jk-cdn.com/watch/live.m3u8?video=ena_sports_720&sid=U4ClGdXJKtsR9IkHNxLzogHC1uJR0gApqqAmmK7t&secret=e49f6fb85acc782e7fbaa8d3ec9e9721&time=1791649220
+FTV,https://k227.jk-cdn.com/watch/live.m3u8?video=ftv_720&sid=1roCTR1IxmW4Qk5tWw563er9qsjhASUt9IRpE5JM&secret=f933c0299d6510c0a8adb4eba4f2afe5&time=1791650689
+GTV,https://k227.jk-cdn.com/watch/live.m3u8?video=gtv_720&sid=fRQgpr2Q7b9Fs5qwmagDaguPKZOFMdlrlD1Wgu7a&secret=cd7fd14b6e39dbdf2b94fb85d72236a6&time=1791651156
+IB sports,https://k227.jk-cdn.com/watch/live.m3u8?video=IB_sports_720&sid=lpipQxf4TqjBLc3wGQR4zSCdZgF0yreyALgVY9uu&secret=aa5377b1060e4a94987ddc399b20ca5c&time=1791652207
+iNET,https://k227.jk-cdn.com/watch/live.m3u8?video=inet_720&sid=NFJKNXHK17ud52wjd3ycdygUnhOfBEJU01AOgJrr&secret=83d839a41b1e01de2f257549b27b1323&time=1791650952
+JEI 재능TV,https://k227.jk-cdn.com:443/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6FyzRQMkri2LhZ71Mjao59LSpdVKNNnvDkJW&secret=1fd8004ee3d2c119d064ec88b38d97b3&time=1742556811
+JTBC,https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_720&sid=qN6tn62G5qnKPmWCbUoLRaV7XkvdOwftqixQ5VOe&secret=2cb7071d3816c2993e90ffbc9d2423fe&time=1791648432
+JTBC,https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
+JTBC,http://218.98.50.141:8088/live/JTBC.m3u8
+JTBC GOLF,https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_golf_720&sid=ZM1asfIjSfXNQawgmxKE7DlCUzffLnwr6HvyaWLU&secret=a2ac3077b2ef873bcd2a973d966a4b2a&time=1791649327
+JTBC Golf,http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
+JTBC GOLF&SPORTS,http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+JTBC SPORTS,http://www.hwado.net/webtv/catv/58.php
+JTBC 골프레슨,https://jmp2.uk/stvp-KRBD5200002XY
+JTBC 뉴스,https://jmp2.uk/stvp-KRBC46000173Y
+JTBC 라이프,https://jmp2.uk/stvp-KR4000020F
+JTBC2,https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
+JTBC2,https://jmp2.uk/stvp-KR3600001J9
+JTBC4,https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
+JTBC4,https://jmp2.uk/stvp-KR3600002ZY
+KBS Drama,https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_drama_720&sid=eG4I7SrtNANHgK6bl1vuEkp24mwPLypDtliHSc4Q&secret=f62b6f7ee7648bf6c10266dafea022f1&time=1791650498
+KBS Drama,http://koreatv.dothome.co.kr/kbsdrama.php
+KBS Joy,https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_drama_720&sid=eG4I7SrtNANHgK6bl1vuEkp24mwPLypDtliHSc4Q&secret=f62b6f7ee7648bf6c10266dafea022f1&time=1791650498
+KBS joy,http://koreatv.dothome.co.kr/kbsjoy.php
+KBS Life,http://koreatv.dothome.co.kr/kbslife.php
+KBS N SPORTS,https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_n_sports_720&sid=l0iIJCHLhUPvKnXF0XYwJnuY9PouYs5jLXpJZonC&secret=fb33724a73217cffad84152cfe2bddd0&time=1791649175
+KBS Story,http://koreatv.dothome.co.kr/kbsstory.php
+KBS1,https://k227.jk-cdn.com/watch/live.m3u8?video=kbs1_720&sid=ku0vFhTPRdvloDYpcDAN8rDYNMcCOsEZYbzShmX1&secret=4cd6984bb2fbddbb26e5992a31d89697&time=1791647722
+KBS1,https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+KBS1,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
+KBS2,https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_720&sid=pPEow3wY0euiHnba35QKzvKQyjTM09dlNV8iL3Cf&secret=7aa6edad08aee387e30ed2e44e4c41f1&time=1791648169
+KBS2,https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
+KBS2,http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+KBS24,https://jmp2.uk/stvp-KR5100001TH
+KBS뉴스,https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyNDExMTg5fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Z8r~AJap0PuIUr0mnlkan3e34lXci3j6mhLzP6g3vKdtxhJBfOHi~hBo7we6upDeCbi1HEvqmv2Gjxp4vO9lfG725DD~6B6ytUSkkUMQs8i8p-nK2oUqZbyhG6M1eJGoA4hNSP256-JmDjcYXYa3BE9y7meytaMgJF~kX1e~MF3M8esbMaNPsL7vzYSZp6GNDQ0NV7A0AY47221S2mTa65Xjc4gNvJaSFgtpFkdW02lWwo2qY0~xtRaLtQmf-FgRvufZUFJE0QfeZ1zNXUcHIE2~hsbr92DPmbaM3AEGMHvj1o~kR5DkdJ5jzE3nMSJ3DYwDeLRKLl1uhKPp8nu8VQ__
+KBS드라마,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkyNDExMTEzfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=mNutZ4b5PbMf4dfXcZCKhzrLLX6sWdb-pCg-qu4ovDpZZjTMPs0ftGQls2g-YSC6uU8TWl5ZrV3pVME0TDGgbNvq7~0-eY7wQx1UcYJf8L25Gkndl69uwfAY9fnJAn1EAvbBcVXCC7a3Q2A7v~yXvnV--zBdCIZ5YqgwyI08KqiHzPzQtOr~G7A8zfilQzEhDP71C6uDQSQirUwRCT6sBqvd9mESCcJm84DNQs4d0SilrvwTmyzhikQVbKNtRfQekguwwtFZbChtJj3KypYOr7Iix5uODksNAiVsaZPyJ-3vkx2U0EYfzlgwLweSfin7Cq4WnMoVG-AkwE~-6xkvGQ__
+LIFETIME,https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
+MBC,https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_720&sid=uZEXK8Ni6C0RBUxD3mOhhxswKyJPXzuIuRDGuCeu&secret=07cb5bf46e9228ff27b9c3217db0e225&time=1791648224
+MBC,https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MBC Every1,https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6691EA18A3C13FC4324935313391414995B136E5790952D13AC061a61686384679a5F33F3B62D1439046353164b1B1210B0497E137769DB010AB0A091CB1EE24D95C965530F6731DF7943393E2A6594263A317AB92403B83E54219D8BA61433AF6B054F467E28CE8332DF3F5DE28E407AFC2675ADAB23C07B393859BA0906117&v=3
+MBC On,https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_on_720&sid=BJRBKjYFK4HoQl6wCPd8pIYf8v23RHOtip7v1ClD&secret=8281ce151e9acfeecc084b67436ccc51&time=1791650525
+MBC SPORTS,https://k227.jk-cdn.com/watch/live.m3u8?video=mbc_sports_720&sid=DwCHBjM2GbpZp9wTOJrElhWYLtw7t1gjT2DdyPKr&secret=f2d2540572600d520b6c73ad4b4a5742&time=1791649198
+MBC드라마넷,https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6C817D1B832330C4C549457537C1994975DE3E857B04921D3A007Fa2163737E6E0aF13E23452754330DC3161D7b061C9BE7069804E77497032BAF8A034B1BAB48176163F45A97A75BC158A2A5DF16D837A29255D4DFCEBEAA0C54E3F7F514C7B3BAAB6379A2DB632BC55654F463BD4C60E2482CC524FBB10E30DEE14614A1930&v=3
+MBN,https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+MBN,http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
+MBN 플러스,https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
+MNet,https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_720&sid=9VqYAKwj7dCN6qvehaDapRZQ7p9hlXUThhzM0aRj&secret=649fbf3ed5c0292717efdf699e3ab1f2&time=1791649662
+NHK World,https://k227.jk-cdn.com/watch/live.m3u8?video=nhk_wold_540&sid=MJc5OoCVe6R30GMqhlyRZVI5FvLPUgTOCVOQrdFb&secret=077ed5c1946f8e6c29bc7ede1d354ae8&time=1791651773
+OCN,https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_720&sid=T9363q7ykGDmu0vrBlBiY5jK3VzFO90uT5PKHs82&secret=00343c4e763a38d85c783a62fd31139c&time=1791648604
+OCN,http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
+OCN Movies,http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+OCN Movies2,https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_movie_2_720&sid=mJlrE1OHart120le1MX0Sj9MtBUb0ZdtYJjFFEIR&secret=53e6b7ec936c8608c76ece527e5fcba2&time=1791648634
+OCN Movies2,http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+OGN starleague,https://jmp2.uk/stvp-KRBC3200005SH
+OLIFE TV,https://k227.jk-cdn.com/watch/live.m3u8?video=olife_720&sid=brSyHS2el7oQXrdRTUYcd44DalofxLnZDqyIPM4a&secret=b6d9eaeebaf16ad3bbcbda7b7951cc8e&time=1791649949
+PGA Tour,https://jmp2.uk/stvp-KRBD3100007WB
+PLAYY,https://jmp2.uk/stvp-KR12000017G
+SBS,https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_720&sid=xm0eSHgPfswFidJ4flnq5iKXWdoGhiupFlpwyO6y&secret=fc202d71766607c8b7fc83ec23cfc9d2&time=1791648280
+SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTAzNTkyMDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImVlM2FhNDQ1LWIxZTAtNDk1OS05MWUxLWJlYTBhMDgwZDY1MSIsImlhdCI6MTc5MDM1MjAwMn0.WqWEas_67iY-YqCdXga6nSFSNIkB3q_IyGCNoBFB-1o
+SBS,http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
+SBS,https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
+SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyNjAwMDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImNkNDUwZDdjLTU3N2EtNDBlYi1iNjc4LTdiZmRiMzIyZTVkNSIsImlhdCI6MTc5MjI1MjgwMn0.MWIVWRVKZFJUVYU7K2kw-ExFcGwi_N9Hg4NA39KmMms
+SBS Biz,https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyNTY0MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2MWExMDA2Ny02MDZjLTQ3NWUtYjBmOS05NDM1NWNhMjdlZjMiLCJpYXQiOjE3OTIyNDkyMDl9.7jpxtmco-6QT1Jb_epwp-y8hw2W5_0Xo4IYT9kUtKho
+SBS GOLF,https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_golf_720&sid=vN1d1svusXIUXdDPpv5HNXfzlTKHLayjThpVc8hc&secret=23352905bff0b8805fdb9c742b6a814f&time=1791649261
+SBS Golf,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+SBS GOLF2,https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_3_720&sid=LuWGtEXwYoCrndhuGDbpbB0N0xdZ6jF46RKZD8UL&secret=ca08eb90d774a121aaaf03a1998126bb&time=1791649286
+SBS Golf2,https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
+SBS Plus,https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_plus_720&sid=aTWC5LS3uLDmebn2QnglXYOJuVxBIGj88NQYsp3D&secret=fa1397a8b3458ed9e4d0723f6f4c3d0c&time=1791649893
+SBS Plus,http://43.137.43.57/get_channel.php?channel=sbs_plus
+SBS SPORTS,https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_sports_720&sid=TOyQc4q31y5CC10JKHRCcQUEdD4CfUSDRoU5ZoAg&secret=e7dcc73e88d45a3a526deff106d880ac&time=1791649240
+SBS플러스,https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTIyNjAwMDYsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5ZDI5MzQ3ZC1kZWQ1LTQzNzUtOGVkNS1lNjNmNDcwN2M2YjQiLCJpYXQiOjE3OTIyNTI4MDZ9.GEsBNGm1pf_7KnwmKMElQ5AIaOZUqX_Xd0kKubb8Jvg
+SPOTV,https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_720&sid=Cgt5m6nv3sP4zcrR46MOnBWHMyA1fWMpHBNcjfS5&secret=c0d68d874db5da25c6875b71a39e4d8d&time=1791649441
+SPOTV Golf&Health,https://k227.jk-cdn.com/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=MZeuEln7F7i1vdHIcpOdrAscKSgx2ucPH4OVB3jl&secret=8553b495692571b23a6d4b3cad2e12f2&time=1791649382
+SPOTV Golf+,http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
+SPOTV Golf+,https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
+SPOTV Prime,https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_720&sid=xOHMye2wjutPwBarELb6A9pTbyvaVhldyWSUACp2&secret=896a73096dfcc52ca52ffebfdb7d8dce&time=1791649483
+SPOTV Prime+,https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_540&sid=R2Rfubg0MLKCCRTBsYxINtBYTikfmpv6l37mrMJ0&secret=4315adf05af377e3678f8adad9becebf&time=1791649585
+SPOTV Prime2,https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_prime_2_720&sid=VUmMTKOUPmh6SEuJKLUa61DkN7ZoFHfvtIL5fLvn&secret=aea52178d4765a1b0725c8593c63dbf2&time=1791649563
+SPOTV2,https://k227.jk-cdn.com/watch/live.m3u8?video=spotv_2_720&sid=WyjcuVbQyKbm3YB8cZliPtU9tf9MCtgAUHonQnMV&secret=f730f2f5453fcf2dcb840131f5886419&time=1791649460
+THE Movie,https://k227.jk-cdn.com/watch/live.m3u8?video=the_movie_720&sid=sRbVRptygWRnByWAWNFZyw8438DEMLyLMcAnlCJA&secret=5ae2a4e8a43773224a1ad100fe9ec09e&time=1791651294
+Toonivers,https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
+tvN,https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_720&sid=HIGApp8auAhGHRQmiwLi3Kxn5HSE0AllSlTc2JR2&secret=318da173093f224f7172c52397ad6900&time=1791649076
+tvN,https://backup.760515.xyz/playlist/tvN-playlist.m3u8
+tvN,https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+tvN DRAMA,https://backup.760515.xyz/playlist/tvN DRAMA-playlist.m3u8
+tvN DRAMA,https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8
+tvN SHOW,https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8
+tvN SHOW,http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
+tvN SPORTS,https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_sports_720&sid=za2xUj4U0uMdQ9p9ZWfU7fNG3NvXiXizeTHXbRhD&secret=6357518b6e66caa259e3eea3d195dd95&time=1791649150
+tvN STORY,https://backup.760515.xyz/playlist/tvN STORY-playlist.m3u8
+tvN STORY,https://jmp2.uk/stvp-KRBC3200014XZ
+TV조선,https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
+TV조선,http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
+TV조선 2,https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+TV조선2,https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+YTN,https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+YTN,http://124.222.153.240/kakaotv/get_channel.php?channel=ytn
+YTN,https://backup.760515.xyz/playlist/YTN-playlist.m3u8
+YTN2,https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
+YTN사이언스,https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
+바둑TV,https://k227.jk-cdn.com/watch/live.m3u8?video=baduk_720&sid=lUt38ZfcsUk4fT6bLH3RT6wDMlGrhYuvF5gfiM9N&secret=827e84a9ffb18b57b143fce7cd52beea&time=1791650581
+브레인TV,https://k227.jk-cdn.com/watch/live.m3u8?video=brain_tv_720&sid=8RXD6H6hA67lDCA677EuZDHwoDkJTRB1Kd2zNm0r&secret=e09f6c5620c1371ce9aa97c789c6b81e&time=1791650641
+빌리어즈TV,http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv
+뽀요 TV,https://k227.jk-cdn.com/watch/live.m3u8?video=disney_channel_540&sid=bssZ67v4g0sDsAME5T8v4TtEic0PNNH4Ki1KEPP9&secret=87aa2c83779932db633f1c5ec279c8ae&time=1791650881
+스크린골프,https://jmp2.uk/stvp-KR44000010Y
+스크린골프존,https://jmp2.uk/stvp-KR44000010Y
+애니맥스,https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8
+어린이TV,https://k227.jk-cdn.com:443/watch/live.m3u8?video=childrens_tv_540&sid=GG1bfBvi36wnK62vXixEL1VPInMZRWJGrJENstKL&secret=0cb8542f641b3a6d55bebb13a87d4aed&time=1765893151
+연합뉴스,https://k227.jk-cdn.com/watch/live.m3u8?video=newsy_720&sid=aiOrqzgeu4WS4tvPi5E6h4S9vMRw8a4vzF31HnbO&secret=5485bf8208b65d5d4a0d0113db605b1f&time=1791648553
+연합뉴스,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792214521/ei/mbHSavLMKcaEt7EPv6v1mQ4/ip/184.64.31.147/id/6QZ_qc75ihU.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-ni5f-ttj6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/bui/AWzQHwpyneeAewJWXseqqk7MRGajEDxM1coLGrrxVjuLXW9i-ui3T6sG6lU07ER_CpT6l9BJHA/spc/mpRQ_-b7xibj95S1TAXUUiE6QYn4oViml0KN6CzQiNWIgaT0AkcDOCJemTMP/vprv/1/ns/Rfo4VH-_QwEZ2A1npHLhO-UZ/reg/0/playlist_type/DVR/initcwndbps/4335375/met/1792192922,/mh/Ku/mm/44/mn/sn-ni5f-ttj6/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52184231,52227521,52279443/n/FIAqx-Y5BOdaKWrh/mt/1792192364/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRQIhAMHNPxo2ojz54FoSwm9LE6Czr_zvHnT3peGpf9smSPfSAiAtm6LV5l-bY-Xvy3Q1Z94dZf5DTVIcqLCVpXGq-FgHZw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKsiYqucYw12QA3SSlUGTSIgNCelOx_KKAlstq34zq9LAiAvsagmQxbIg3vDXuOuSX93qYYrbiPUQQMwfuRc8sfP6g%3D%3D/playlist/index.m3u8
+연합뉴스,https://jmp2.uk/stvp-KRBD1400001ED
+연합뉴스TV,https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8
+육아방송,https://k227.jk-cdn.com/watch/live.m3u8?video=child_care_540&sid=T84GN6c6CxWt8AisDFbN9ybAZ3EFtAtPKuJ29xW4&secret=aa94dd4893035cb8f3a80b9c70df3b26&time=1791651326
+중화TV,https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8
+채널A,https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+채널A,http://124.222.153.240/kakaotv/get_channel.php?channel=channela
+채널A플러스,https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
+코미디TV,https://k227.jk-cdn.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
+한국경제,https://k227.jk-cdn.com/watch/live.m3u8?video=wowtv_720&sid=fUifxIaTIE06pTK4ngaOVpZh2Faqs3apYizt2tG7&secret=5e55f23493222fb782ac9f777d064d74&time=1791652169
+현대홈쇼핑,https://k227.jk-cdn.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
