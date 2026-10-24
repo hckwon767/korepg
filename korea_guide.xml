@@ -1096,9 +1096,10 @@
 <programme start="20261025055930 +0000" stop="20261025062635 +0000" channel="CCTV3.cn@SD"><title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-下</title></programme>
 <programme start="20261025062635 +0000" stop="20261025072440 +0000" channel="CCTV3.cn@SD"><title lang="zh">我的艺术清单-2026-6</title></programme>
 <programme start="20261025072440 +0000" stop="20261025085745 +0000" channel="CCTV3.cn@SD"><title lang="zh">越战越勇-2026-24</title></programme>
-<programme start="20261025085745 +0000" stop="20261025095830 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-542</title></programme>
-<programme start="20261025095830 +0000" stop="20261025112400 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-29</title></programme>
-<programme start="20261025112400 +0000" stop="20261025113000 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title></programme>
+<programme start="20261025085745 +0000" stop="20261025095440 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-542</title></programme>
+<programme start="20261025095440 +0000" stop="20261025100120 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1033 瓷影</title></programme>
+<programme start="20261025100120 +0000" stop="20261025112700 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-29</title></programme>
+<programme start="20261025112700 +0000" stop="20261025113000 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title></programme>
 <programme start="20261025113000 +0000" stop="20261025132315 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6</title></programme>
 <programme start="20261025132315 +0000" stop="20261025135645 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1137 多彩少年 4</title></programme>
 <programme start="20261025135645 +0000" stop="20261025154240 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1125 国家宝藏第四季精编 5</title></programme>
@@ -1278,10 +1279,10 @@
 <programme start="20261023223000 +0000" stop="20261023230000 +0000" channel="CCTV5.cn@SD"><title lang="zh">健身动起来</title></programme>
 <programme start="20261023230000 +0000" stop="20261024000300 +0000" channel="CCTV5.cn@SD"><title lang="zh">体坛晨报</title></programme>
 <programme start="20261024000300 +0000" stop="20261024013000 +0000" channel="CCTV5.cn@SD"><title lang="zh">2026/2027意大利足球甲级联赛-第7轮（尤文图斯-拉齐奥）（4K）</title></programme>
-<programme start="20261024013000 +0000" stop="20261024040000 +0000" channel="CCTV5.cn@SD"><title lang="zh">2026/2027赛季美国职业篮球联赛-常规赛（火箭-马刺）</title></programme>
-<programme start="20261024040000 +0000" stop="20261024043500 +0000" channel="CCTV5.cn@SD"><title lang="zh">体坛快讯</title></programme>
-<programme start="20261024043500 +0000" stop="20261024045800 +0000" channel="CCTV5.cn@SD"><title lang="zh">艺术里的奥林匹克(4K)</title></programme>
-<programme start="20261024045800 +0000" stop="20261024063000 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-2026年世界体操锦标赛 女子个人全能决赛（录播）</title></programme>
+<programme start="20261024013000 +0000" stop="20261024042200 +0000" channel="CCTV5.cn@SD"><title lang="zh">2026/2027赛季美国职业篮球联赛-常规赛（火箭-马刺）</title></programme>
+<programme start="20261024042200 +0000" stop="20261024050000 +0000" channel="CCTV5.cn@SD"><title lang="zh">体坛快讯</title></programme>
+<programme start="20261024050000 +0000" stop="20261024052000 +0000" channel="CCTV5.cn@SD"><title lang="zh">艺术里的奥林匹克(4K)</title></programme>
+<programme start="20261024052000 +0000" stop="20261024063000 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-2026年世界体操锦标赛 女子个人全能决赛（录播）</title></programme>
 <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-2026年国际篮联三人篮球世界巡回赛 中国澳门站</title></programme>
 <programme start="20261024070000 +0000" stop="20261024100000 +0000" channel="CCTV5.cn@SD"><title lang="zh">2026中国足球超级联赛-第29轮（成都蓉城—大连英博海发）</title></programme>
 <programme start="20261024100000 +0000" stop="20261024103000 +0000" channel="CCTV5.cn@SD"><title lang="zh">体育新闻</title></programme>
@@ -1880,11 +1881,13 @@
 <programme start="20261025074930 +0000" stop="20261025082530 +0000" channel="CCTV15.cn@SD"><title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-中</title></programme>
 <programme start="20261025082530 +0000" stop="20261025085300 +0000" channel="CCTV15.cn@SD"><title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-下</title></programme>
 <programme start="20261025085300 +0000" stop="20261025100830 +0000" channel="CCTV15.cn@SD"><title lang="zh">民歌·中国-2026-145山水有乡音11</title></programme>
-<programme start="20261025100830 +0000" stop="20261025112400 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-608</title></programme>
-<programme start="20261025112400 +0000" stop="20261025113000 +0000" channel="CCTV15.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title></programme>
-<programme start="20261025113000 +0000" stop="20261025131530 +0000" channel="CCTV15.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6</title></programme>
-<programme start="20261025131530 +0000" stop="20261025145330 +0000" channel="CCTV15.cn@SD"><title lang="zh">2026戏韵特别节目歌剧“卡门”-1</title></programme>
-<programme start="20261025145330 +0000" stop="20261025155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">2026戏韵特别节目歌剧“卡门”-2</title></programme>
+<programme start="20261025100830 +0000" stop="20261025111730 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-608</title></programme>
+<programme start="20261025111730 +0000" stop="20261025112700 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国节拍-品味古典82</title></programme>
+<programme start="20261025112700 +0000" stop="20261025113000 +0000" channel="CCTV15.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title></programme>
+<programme start="20261025113000 +0000" stop="20261025132715 +0000" channel="CCTV15.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6</title></programme>
+<programme start="20261025132715 +0000" stop="20261025144145 +0000" channel="CCTV15.cn@SD"><title lang="zh">国音正青春-3</title></programme>
+<programme start="20261025144145 +0000" stop="20261025154115 +0000" channel="CCTV15.cn@SD"><title lang="zh">CCTV音乐厅-2026-177-“东方乐韵”民族管弦乐系列音乐会（6）</title></programme>
+<programme start="20261025154115 +0000" stop="20261025155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-443</title></programme>
 <programme start="20261023161400 +0000" stop="20261023162400 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2024/2025赛季斯诺克大师赛半决赛 墨菲的147</title></programme>
 <programme start="20261023162400 +0000" stop="20261023180700 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2022/2023赛季斯诺克大师赛 决赛</title></programme>
 <programme start="20261023180700 +0000" stop="20261023181700 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2024/2025赛季斯诺克世界公开赛 墨菲的147</title></programme>
