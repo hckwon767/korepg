@@ -1090,9 +1090,9 @@
 <programme start="20261028110000 +0000" stop="20261028113955 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
 <programme start="20261028113955 +0000" stop="20261028120225 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
 <programme start="20261028120225 +0000" stop="20261028120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第30集</title></programme>
-<programme start="20261028120500 +0000" stop="20261028125625 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征30/60</title></programme>
+<programme start="20261028120500 +0000" stop="20261028125625 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征第30集</title></programme>
 <programme start="20261028125625 +0000" stop="20261028130020 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第31集</title></programme>
-<programme start="20261028130020 +0000" stop="20261028135230 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征31/60</title></programme>
+<programme start="20261028130020 +0000" stop="20261028135230 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征第31集</title></programme>
 <programme start="20261028135230 +0000" stop="20261028140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国-MV</title></programme>
 <programme start="20261028140000 +0000" stop="20261028143550 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20261028143550 +0000" stop="20261028155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国（第五季）-四川德阳篇</title></programme>
@@ -1125,12 +1125,12 @@
 <programme start="20261029102140 +0000" stop="20261029105140 +0000" channel="CCTV1.cn@SD"><title lang="zh">农耕探文明-2025-20</title></programme>
 <programme start="20261029105140 +0000" stop="20261029110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-295</title></programme>
 <programme start="20261029110000 +0000" stop="20261029113940 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20261029113940 +0000" stop="20261029120140 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20261029120140 +0000" stop="20261029120600 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-32/60</title></programme>
-<programme start="20261029120600 +0000" stop="20261029125820 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征32/60</title></programme>
-<programme start="20261029125820 +0000" stop="20261029130050 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-33/60</title></programme>
-<programme start="20261029130050 +0000" stop="20261029135310 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征33/60</title></programme>
-<programme start="20261029135310 +0000" stop="20261029140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
+<programme start="20261029113940 +0000" stop="20261029120250 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20261029120250 +0000" stop="20261029120600 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-32/60</title></programme>
+<programme start="20261029120600 +0000" stop="20261029125555 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征32/60</title></programme>
+<programme start="20261029125555 +0000" stop="20261029125900 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-33/60</title></programme>
+<programme start="20261029125900 +0000" stop="20261029134955 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征33/60</title></programme>
+<programme start="20261029134955 +0000" stop="20261029140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
 <programme start="20261029140000 +0000" stop="20261029143605 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20261029143605 +0000" stop="20261029155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国（第五季）-山东济宁篇</title></programme>
 <programme start="20261027161700 +0000" stop="20261027171740 +0000" channel="CCTV2.cn@SD"><title lang="zh">一槌定音-2026-44</title></programme>
@@ -1238,19 +1238,21 @@
 <programme start="20261028162355 +0000" stop="20261028170955 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1185 沉默的荣耀 7/39</title></programme>
 <programme start="20261028170955 +0000" stop="20261028184920 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1120 国家宝藏第四季精编 3</title></programme>
 <programme start="20261028184920 +0000" stop="20261028201635 +0000" channel="CCTV3.cn@SD"><title lang="zh">CMG金秋歌会-广东南沙站</title></programme>
-<programme start="20261028201635 +0000" stop="20261028212735 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1043</title></programme>
-<programme start="20261028212735 +0000" stop="20261028213015 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1035 幽兰</title></programme>
-<programme start="20261028213015 +0000" stop="20261028223115 +0000" channel="CCTV3.cn@SD"><title lang="zh">跟着春晚游中国（义乌篇）-1</title></programme>
-<programme start="20261028223115 +0000" stop="20261028225330 +0000" channel="CCTV3.cn@SD"><title lang="zh">文化十分-2026-217</title></programme>
-<programme start="20261028225330 +0000" stop="20261028234630 +0000" channel="CCTV3.cn@SD"><title lang="zh">我的艺术清单-2026-6</title></programme>
-<programme start="20261028234630 +0000" stop="20261029005010 +0000" channel="CCTV3.cn@SD"><title lang="zh">新花路放—最美的心愿之旅-6</title></programme>
-<programme start="20261029005010 +0000" stop="20261029020000 +0000" channel="CCTV3.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-468</title></programme>
+<programme start="20261028201635 +0000" stop="20261028202645 +0000" channel="CCTV3.cn@SD"><title lang="zh">连环话-桃园结义</title></programme>
+<programme start="20261028202645 +0000" stop="20261028210300 +0000" channel="CCTV3.cn@SD"><title lang="zh">动物园里有什么-2</title></programme>
+<programme start="20261028210300 +0000" stop="20261028220400 +0000" channel="CCTV3.cn@SD"><title lang="zh">跟着春晚游中国（义乌篇）-1</title></programme>
+<programme start="20261028220400 +0000" stop="20261028222615 +0000" channel="CCTV3.cn@SD"><title lang="zh">文化十分-2026-217</title></programme>
+<programme start="20261028222615 +0000" stop="20261028231915 +0000" channel="CCTV3.cn@SD"><title lang="zh">我的艺术清单-2026-6</title></programme>
+<programme start="20261028231915 +0000" stop="20261029002255 +0000" channel="CCTV3.cn@SD"><title lang="zh">新花路放—最美的心愿之旅-6</title></programme>
+<programme start="20261029002255 +0000" stop="20261029020000 +0000" channel="CCTV3.cn@SD"><title lang="zh">CMG金秋歌会-广东南沙站</title></programme>
 <programme start="20261029020000 +0000" stop="20261029032750 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-31</title></programme>
 <programme start="20261029032750 +0000" stop="20261029050000 +0000" channel="CCTV3.cn@SD"><title lang="zh">越战越勇-2026-42</title></programme>
-<programme start="20261029050000 +0000" stop="20261029052245 +0000" channel="CCTV3.cn@SD"><title lang="zh">文化十分-2026-218</title></programme>
-<programme start="20261029052245 +0000" stop="20261029071725 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-5</title></programme>
-<programme start="20261029071725 +0000" stop="20261029075205 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1380 多彩少年 7</title></programme>
-<programme start="20261029075205 +0000" stop="20261029090430 +0000" channel="CCTV3.cn@SD"><title lang="zh">星光艺起唱-2</title></programme>
+<programme start="20261029050000 +0000" stop="20261029052545 +0000" channel="CCTV3.cn@SD"><title lang="zh">文化十分-2026-218</title></programme>
+<programme start="20261029052545 +0000" stop="20261029071740 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-5</title></programme>
+<programme start="20261029071740 +0000" stop="20261029072350 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1039 踏地为节</title></programme>
+<programme start="20261029072350 +0000" stop="20261029075655 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1380 多彩少年 7</title></programme>
+<programme start="20261029075655 +0000" stop="20261029080205 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1036 喜雨</title></programme>
+<programme start="20261029080205 +0000" stop="20261029090430 +0000" channel="CCTV3.cn@SD"><title lang="zh">远山之约（蜀山篇）-3</title></programme>
 <programme start="20261029090430 +0000" stop="20261029100545 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-532</title></programme>
 <programme start="20261029100545 +0000" stop="20261029113000 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-34</title></programme>
 <programme start="20261029113000 +0000" stop="20261029130710 +0000" channel="CCTV3.cn@SD"><title lang="zh">味你而来拾鲜季-1</title></programme>
@@ -1606,11 +1608,12 @@
 <programme start="20261029030030 +0000" stop="20261029032800 +0000" channel="CCTV7.cn@SD"><title lang="zh">国防故事-2026-174</title></programme>
 <programme start="20261029032800 +0000" stop="20261029035300 +0000" channel="CCTV7.cn@SD"><title lang="zh">军事纪录-2026-210</title></programme>
 <programme start="20261029035300 +0000" stop="20261029040000 +0000" channel="CCTV7.cn@SD"><title lang="zh">国防微视频-军歌嘹亮-飞行少年团</title></programme>
-<programme start="20261029040000 +0000" stop="20261029043630 +0000" channel="CCTV7.cn@SD"><title lang="zh">正午国防军事</title></programme>
-<programme start="20261029043630 +0000" stop="20261029051100 +0000" channel="CCTV7.cn@SD"><title lang="zh">防务新观察-2026-301</title></programme>
-<programme start="20261029051100 +0000" stop="20261029054000 +0000" channel="CCTV7.cn@SD"><title lang="zh">军营的味道-2026-43</title></programme>
-<programme start="20261029054000 +0000" stop="20261029060800 +0000" channel="CCTV7.cn@SD"><title lang="zh">兵器面面观-2026-215</title></programme>
-<programme start="20261029060800 +0000" stop="20261029063530 +0000" channel="CCTV7.cn@SD"><title lang="zh">军事纪录-2026-210</title></programme>
+<programme start="20261029040000 +0000" stop="20261029043300 +0000" channel="CCTV7.cn@SD"><title lang="zh">正午国防军事</title></programme>
+<programme start="20261029043300 +0000" stop="20261029044300 +0000" channel="CCTV7.cn@SD"><title lang="zh">为有牺牲多壮志-1</title></programme>
+<programme start="20261029044300 +0000" stop="20261029045630 +0000" channel="CCTV7.cn@SD"><title lang="zh">为有牺牲多壮志-2</title></programme>
+<programme start="20261029045630 +0000" stop="20261029053100 +0000" channel="CCTV7.cn@SD"><title lang="zh">防务新观察-2026-301</title></programme>
+<programme start="20261029053100 +0000" stop="20261029060000 +0000" channel="CCTV7.cn@SD"><title lang="zh">军营的味道-2026-43</title></programme>
+<programme start="20261029060000 +0000" stop="20261029063530 +0000" channel="CCTV7.cn@SD"><title lang="zh">军事纪录-2026-210</title></programme>
 <programme start="20261029063530 +0000" stop="20261029072600 +0000" channel="CCTV7.cn@SD"><title lang="zh">五星剧场-我们的河山26/36</title></programme>
 <programme start="20261029072600 +0000" stop="20261029081500 +0000" channel="CCTV7.cn@SD"><title lang="zh">五星剧场-我们的河山27/36</title></programme>
 <programme start="20261029081500 +0000" stop="20261029090600 +0000" channel="CCTV7.cn@SD"><title lang="zh">五星剧场-我们的河山28/36</title></programme>
@@ -1659,11 +1662,11 @@
 <programme start="20261028102925 +0000" stop="20261028111925 +0000" channel="CCTV8.cn@SD"><title lang="zh">山花烂漫时第21集</title></programme>
 <programme start="20261028111925 +0000" stop="20261028112540 +0000" channel="CCTV8.cn@SD"><title lang="zh">星推荐-2026年10月-28</title></programme>
 <programme start="20261028112540 +0000" stop="20261028113000 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-小城良方-第15集</title></programme>
-<programme start="20261028113000 +0000" stop="20261028122540 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城良方15/29</title></programme>
+<programme start="20261028113000 +0000" stop="20261028122540 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城良方第15集</title></programme>
 <programme start="20261028122540 +0000" stop="20261028123040 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-小城良方-第16集</title></programme>
-<programme start="20261028123040 +0000" stop="20261028132710 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城良方16/29</title></programme>
+<programme start="20261028123040 +0000" stop="20261028132710 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城良方第16集</title></programme>
 <programme start="20261028132710 +0000" stop="20261028133210 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-嫁金钗-第21集</title></programme>
-<programme start="20261028133210 +0000" stop="20261028142210 +0000" channel="CCTV8.cn@SD"><title lang="zh">嫁金钗21/33</title></programme>
+<programme start="20261028133210 +0000" stop="20261028142210 +0000" channel="CCTV8.cn@SD"><title lang="zh">嫁金钗第21集</title></programme>
 <programme start="20261028142210 +0000" stop="20261028142410 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-纯真年代的爱情-第8集</title></programme>
 <programme start="20261028142410 +0000" stop="20261028151410 +0000" channel="CCTV8.cn@SD"><title lang="zh">纯真年代的爱情第8集</title></programme>
 <programme start="20261028151410 +0000" stop="20261028155900 +0000" channel="CCTV8.cn@SD"><title lang="zh">纯真年代的爱情第9集</title></programme>
@@ -1702,7 +1705,7 @@
 <programme start="20261029122540 +0000" stop="20261029123040 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-小城良方-第18集</title></programme>
 <programme start="20261029123040 +0000" stop="20261029132710 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城良方18/29</title></programme>
 <programme start="20261029132710 +0000" stop="20261029133210 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-嫁金钗-第22集</title></programme>
-<programme start="20261029133210 +0000" stop="20261029142210 +0000" channel="CCTV8.cn@SD"><title lang="zh">嫁金钗22/33</title></programme>
+<programme start="20261029133210 +0000" stop="20261029142210 +0000" channel="CCTV8.cn@SD"><title lang="zh">嫁金钗第22集</title></programme>
 <programme start="20261029142210 +0000" stop="20261029142410 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-纯真年代的爱情-第10集</title></programme>
 <programme start="20261029142410 +0000" stop="20261029151410 +0000" channel="CCTV8.cn@SD"><title lang="zh">纯真年代的爱情第10集</title></programme>
 <programme start="20261029151410 +0000" stop="20261029155900 +0000" channel="CCTV8.cn@SD"><title lang="zh">纯真年代的爱情第11集</title></programme>
@@ -2069,7 +2072,7 @@
 <programme start="20261029085900 +0000" stop="20261029101430 +0000" channel="CCTV15.cn@SD"><title lang="zh">民歌·中国-2026-150山水有乡音14</title></programme>
 <programme start="20261029101430 +0000" stop="20261029113000 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-612</title></programme>
 <programme start="20261029113000 +0000" stop="20261029124430 +0000" channel="CCTV15.cn@SD"><title lang="zh">国音正青春-4</title></programme>
-<programme start="20261029124430 +0000" stop="20261029140000 +0000" channel="CCTV15.cn@SD"><title lang="zh">风华国乐-2026-277指上华章-中国弹拨乐经典作品音乐会</title></programme>
+<programme start="20261029124430 +0000" stop="20261029140000 +0000" channel="CCTV15.cn@SD"><title lang="zh">中国节拍-品味古典93（大师系列-巴伦博伊姆）</title></programme>
 <programme start="20261029140000 +0000" stop="20261029145930 +0000" channel="CCTV15.cn@SD"><title lang="zh">CCTV音乐厅-2026-178-“东方乐韵”民族管弦乐系列音乐会（7）</title></programme>
 <programme start="20261029145930 +0000" stop="20261029155900 +0000" channel="CCTV15.cn@SD"><title lang="zh">精彩音乐汇-我的爱对你说-2026-432</title></programme>
 <programme start="20261027171300 +0000" stop="20261027172300 +0000" channel="CCTVBilliards.cn@SD"><title lang="zh">实况录像-2022/2023赛季斯诺克威尔士公开赛 墨菲的147</title></programme>
