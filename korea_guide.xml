@@ -938,9 +938,12 @@
 <programme start="20261107101300 +0000" stop="20261107105015 +0000" channel="CCTV1.cn@SD"><title lang="zh">2026寻味山海-建平</title></programme>
 <programme start="20261107105015 +0000" stop="20261107110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-304</title></programme>
 <programme start="20261107110000 +0000" stop="20261107113855 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20261107113855 +0000" stop="20261107120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20261107120500 +0000" stop="20261107134940 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
-<programme start="20261107134940 +0000" stop="20261107140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
+<programme start="20261107113855 +0000" stop="20261107120105 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20261107120105 +0000" stop="20261107120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第50集</title></programme>
+<programme start="20261107120500 +0000" stop="20261107125320 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征第50集</title></programme>
+<programme start="20261107125320 +0000" stop="20261107125625 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第51集</title></programme>
+<programme start="20261107125625 +0000" stop="20261107135150 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征第51集</title></programme>
+<programme start="20261107135150 +0000" stop="20261107140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
 <programme start="20261107140000 +0000" stop="20261107143700 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20261107143700 +0000" stop="20261107152700 +0000" channel="CCTV1.cn@SD"><title lang="zh">开讲啦-2026-36</title></programme>
 <programme start="20261107152700 +0000" stop="20261107155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">宗师列传·大唐诗人传-白居易</title></programme>
@@ -968,13 +971,12 @@
 <programme start="20261108101025 +0000" stop="20261108105125 +0000" channel="CCTV1.cn@SD"><title lang="zh">2026寻味山海-大姚</title></programme>
 <programme start="20261108105125 +0000" stop="20261108110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-305</title></programme>
 <programme start="20261108110000 +0000" stop="20261108113840 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20261108113840 +0000" stop="20261108120200 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20261108120200 +0000" stop="20261108133000 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
-<programme start="20261108133000 +0000" stop="20261108134435 +0000" channel="CCTV1.cn@SD"><title lang="zh">非遗里的中国-MV</title></programme>
-<programme start="20261108134435 +0000" stop="20261108140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
-<programme start="20261108140000 +0000" stop="20261108143630 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
-<programme start="20261108143630 +0000" stop="20261108151200 +0000" channel="CCTV1.cn@SD"><title lang="zh">国家荣光-2026-23</title></programme>
-<programme start="20261108151200 +0000" stop="20261108155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">宗师列传·大唐诗人传-李贺</title></programme>
+<programme start="20261108113840 +0000" stop="20261108120510 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20261108120510 +0000" stop="20261108125725 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
+<programme start="20261108125725 +0000" stop="20261108130100 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第52集</title></programme>
+<programme start="20261108130100 +0000" stop="20261108140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征第52集</title></programme>
+<programme start="20261108140000 +0000" stop="20261108143500 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
+<programme start="20261108143500 +0000" stop="20261108155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">专题节目-1</title></programme>
 <programme start="20261106162030 +0000" stop="20261106163130 +0000" channel="CCTV2.cn@SD"><title lang="zh">中国民居第三季1-7分版</title></programme>
 <programme start="20261106163130 +0000" stop="20261106165630 +0000" channel="CCTV2.cn@SD"><title lang="zh">精品财经纪录-守望秦岭3</title></programme>
 <programme start="20261106165630 +0000" stop="20261106172610 +0000" channel="CCTV2.cn@SD"><title lang="zh">精品财经纪录-晋在眼前6</title></programme>
@@ -1075,14 +1077,13 @@
 <programme start="20261107172250 +0000" stop="20261107181250 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1112</title></programme>
 <programme start="20261107181250 +0000" stop="20261107192850 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2024-617</title></programme>
 <programme start="20261107192850 +0000" stop="20261107204550 +0000" channel="CCTV3.cn@SD"><title lang="zh">全民畅舞-19</title></programme>
-<programme start="20261107204550 +0000" stop="20261107211100 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1090 锦绣神州 歌曲集锦 4</title></programme>
-<programme start="20261107211100 +0000" stop="20261107222800 +0000" channel="CCTV3.cn@SD"><title lang="zh">全民畅舞-22</title></programme>
-<programme start="20261107222800 +0000" stop="20261107223155 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1127 万疆</title></programme>
-<programme start="20261107223155 +0000" stop="20261107233630 +0000" channel="CCTV3.cn@SD"><title lang="zh">影视留声机-2026-118</title></programme>
-<programme start="20261107233630 +0000" stop="20261108004355 +0000" channel="CCTV3.cn@SD"><title lang="zh">新花路放—最美的心愿之旅-12 1/2</title></programme>
-<programme start="20261108004355 +0000" stop="20261108021115 +0000" channel="CCTV3.cn@SD"><title lang="zh">越战越勇-2026-33</title></programme>
-<programme start="20261108021115 +0000" stop="20261108034250 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-42</title></programme>
-<programme start="20261108034250 +0000" stop="20261108052640 +0000" channel="CCTV3.cn@SD"><title lang="zh">笑有新生2026-1</title></programme>
+<programme start="20261107204550 +0000" stop="20261107211050 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1090 锦绣神州 歌曲集锦 4</title></programme>
+<programme start="20261107211050 +0000" stop="20261107222850 +0000" channel="CCTV3.cn@SD"><title lang="zh">全民畅舞-22</title></programme>
+<programme start="20261107222850 +0000" stop="20261107233325 +0000" channel="CCTV3.cn@SD"><title lang="zh">国音正青春-5</title></programme>
+<programme start="20261107233325 +0000" stop="20261108004350 +0000" channel="CCTV3.cn@SD"><title lang="zh">新花路放—最美的心愿之旅-12</title></programme>
+<programme start="20261108004350 +0000" stop="20261108022415 +0000" channel="CCTV3.cn@SD"><title lang="zh">笑有新生2026-1</title></programme>
+<programme start="20261108022415 +0000" stop="20261108035550 +0000" channel="CCTV3.cn@SD"><title lang="zh">开门大吉-2026-42</title></programme>
+<programme start="20261108035550 +0000" stop="20261108052640 +0000" channel="CCTV3.cn@SD"><title lang="zh">越战越勇-2026-33</title></programme>
 <programme start="20261108052640 +0000" stop="20261108072040 +0000" channel="CCTV3.cn@SD"><title lang="zh">第二届丝路之星国际音乐大赛-6</title></programme>
 <programme start="20261108072040 +0000" stop="20261108085640 +0000" channel="CCTV3.cn@SD"><title lang="zh">你好时光（第二季）-10</title></programme>
 <programme start="20261108085640 +0000" stop="20261108095350 +0000" channel="CCTV3.cn@SD"><title lang="zh">综艺喜乐汇-2026-1058</title></programme>
