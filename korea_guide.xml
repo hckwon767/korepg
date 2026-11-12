@@ -989,9 +989,9 @@
 <programme start="20261113105120 +0000" stop="20261113110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-310</title></programme>
 <programme start="20261113110000 +0000" stop="20261113113840 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
 <programme start="20261113113840 +0000" stop="20261113120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20261113120500 +0000" stop="20261113130030 +0000" channel="CCTV1.cn@SD"><title lang="zh">孙中山-6</title></programme>
-<programme start="20261113130030 +0000" stop="20261113130400 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第57集</title></programme>
-<programme start="20261113130400 +0000" stop="20261113140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征57/60</title></programme>
+<programme start="20261113120500 +0000" stop="20261113125950 +0000" channel="CCTV1.cn@SD"><title lang="zh">孙中山-6</title></programme>
+<programme start="20261113125950 +0000" stop="20261113130255 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-伟大的长征-第57集</title></programme>
+<programme start="20261113130255 +0000" stop="20261113140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">伟大的长征57/60</title></programme>
 <programme start="20261113140000 +0000" stop="20261113143615 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20261113143615 +0000" stop="20261113153130 +0000" channel="CCTV1.cn@SD"><title lang="zh">诗行万里长征路-9</title></programme>
 <programme start="20261113153130 +0000" stop="20261113155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季（第三季）-6江西</title></programme>
@@ -1312,7 +1312,8 @@
 <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="CCTV5.cn@SD"><title lang="zh">2026年世界摔跤锦标赛-2（4K）</title></programme>
 <programme start="20261112100000 +0000" stop="20261112103000 +0000" channel="CCTV5.cn@SD"><title lang="zh">体育新闻</title></programme>
 <programme start="20261112103000 +0000" stop="20261112110000 +0000" channel="CCTV5.cn@SD"><title lang="zh">体坛零距离(4K)</title></programme>
-<programme start="20261112110000 +0000" stop="20261112133000 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-WTT蒙彼利埃冠军赛2026 比赛1</title></programme>
+<programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-WTT蒙彼利埃冠军赛2026 比赛1</title></programme>
+<programme start="20261112120000 +0000" stop="20261112133000 +0000" channel="CCTV5.cn@SD"><title lang="zh">足球之夜</title></programme>
 <programme start="20261112133000 +0000" stop="20261112143500 +0000" channel="CCTV5.cn@SD"><title lang="zh">体育世界</title></programme>
 <programme start="20261112143500 +0000" stop="20261112155900 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-2026年世界体操锦标赛 男子团体决赛</title></programme>
 <programme start="20261112163500 +0000" stop="20261112170600 +0000" channel="CCTV5.cn@SD"><title lang="zh">实况录像-2026年世界泳联游泳世界杯 哈萨克斯坦站25分钟版</title></programme>
