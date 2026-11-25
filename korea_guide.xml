@@ -950,11 +950,11 @@
 <programme start="20261126102205 +0000" stop="20261126105205 +0000" channel="CCTV1.cn@SD"><title lang="zh">自然中国-青海-察尔汗盐湖</title></programme>
 <programme start="20261126105205 +0000" stop="20261126110000 +0000" channel="CCTV1.cn@SD"><title lang="zh">秘境之眼-2026-323</title></programme>
 <programme start="20261126110000 +0000" stop="20261126113855 +0000" channel="CCTV1.cn@SD"><title lang="zh">新闻联播</title></programme>
-<programme start="20261126113855 +0000" stop="20261126120130 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
-<programme start="20261126120130 +0000" stop="20261126120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-多喜一家人-第15集</title></programme>
-<programme start="20261126120500 +0000" stop="20261126125545 +0000" channel="CCTV1.cn@SD"><title lang="zh">多喜一家人15/34</title></programme>
-<programme start="20261126125545 +0000" stop="20261126125815 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-多喜一家人-第16集</title></programme>
-<programme start="20261126125815 +0000" stop="20261126135040 +0000" channel="CCTV1.cn@SD"><title lang="zh">多喜一家人16/34</title></programme>
+<programme start="20261126113855 +0000" stop="20261126120155 +0000" channel="CCTV1.cn@SD"><title lang="zh">焦点访谈</title></programme>
+<programme start="20261126120155 +0000" stop="20261126120500 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-多喜一家人-第15集</title></programme>
+<programme start="20261126120500 +0000" stop="20261126125505 +0000" channel="CCTV1.cn@SD"><title lang="zh">多喜一家人15/34</title></programme>
+<programme start="20261126125505 +0000" stop="20261126125845 +0000" channel="CCTV1.cn@SD"><title lang="zh">前情提要-多喜一家人-第16集</title></programme>
+<programme start="20261126125845 +0000" stop="20261126135040 +0000" channel="CCTV1.cn@SD"><title lang="zh">多喜一家人16/34</title></programme>
 <programme start="20261126135040 +0000" stop="20261126140000 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季-宣传片</title></programme>
 <programme start="20261126140000 +0000" stop="20261126143530 +0000" channel="CCTV1.cn@SD"><title lang="zh">晚间新闻</title></programme>
 <programme start="20261126143530 +0000" stop="20261126155900 +0000" channel="CCTV1.cn@SD"><title lang="zh">三餐四季（第三季）-1</title></programme>
@@ -992,7 +992,7 @@
 <programme start="20261125113000 +0000" stop="20261125120000 +0000" channel="CCTV2.cn@SD"><title lang="zh">消费新主张</title></programme>
 <programme start="20261125120000 +0000" stop="20261125123000 +0000" channel="CCTV2.cn@SD"><title lang="zh">经济半小时</title></programme>
 <programme start="20261125123000 +0000" stop="20261125133000 +0000" channel="CCTV2.cn@SD"><title lang="zh">经济信息联播</title></programme>
-<programme start="20261125133000 +0000" stop="20261125143000 +0000" channel="CCTV2.cn@SD"><title lang="zh">特别节目-APEC大使与CEO圆桌会</title></programme>
+<programme start="20261125133000 +0000" stop="20261125143000 +0000" channel="CCTV2.cn@SD"><title lang="zh">特别节目APEC大使与CEO圆桌会</title></programme>
 <programme start="20261125143000 +0000" stop="20261125152550 +0000" channel="CCTV2.cn@SD"><title lang="zh">北纬三十度-4</title></programme>
 <programme start="20261125152550 +0000" stop="20261125155900 +0000" channel="CCTV2.cn@SD"><title lang="zh">职场健康课-2026-52</title></programme>
 <programme start="20261125162820 +0000" stop="20261125170330 +0000" channel="CCTV2.cn@SD"><title lang="zh">经济半小时</title></programme>
@@ -1007,7 +1007,7 @@
 <programme start="20261125213140 +0000" stop="20261125215930 +0000" channel="CCTV2.cn@SD"><title lang="zh">解码财经-2026-11-25</title></programme>
 <programme start="20261125215930 +0000" stop="20261125230000 +0000" channel="CCTV2.cn@SD"><title lang="zh">经济信息联播</title></programme>
 <programme start="20261125230000 +0000" stop="20261126010000 +0000" channel="CCTV2.cn@SD"><title lang="zh">第一时间</title></programme>
-<programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="CCTV2.cn@SD"><title lang="zh">APEC时间-APEC大使与CEO圆桌会</title></programme>
+<programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="CCTV2.cn@SD"><title lang="zh">特别节目APEC大使与CEO圆桌会</title></programme>
 <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="CCTV2.cn@SD"><title lang="zh">正点财经</title></programme>
 <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="CCTV2.cn@SD"><title lang="zh">经济半小时</title></programme>
 <programme start="20261126030000 +0000" stop="20261126033130 +0000" channel="CCTV2.cn@SD"><title lang="zh">正点财经</title></programme>
@@ -1502,9 +1502,9 @@
 <programme start="20261126102050 +0000" stop="20261126102845 +0000" channel="CCTV8.cn@SD"><title lang="zh">星推荐-2026年11月-25</title></programme>
 <programme start="20261126102845 +0000" stop="20261126111845 +0000" channel="CCTV8.cn@SD"><title lang="zh">生万物第17集</title></programme>
 <programme start="20261126111845 +0000" stop="20261126112500 +0000" channel="CCTV8.cn@SD"><title lang="zh">星推荐-2026年11月-26</title></programme>
-<programme start="20261126112500 +0000" stop="20261126113000 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-两京十五日-13/26</title></programme>
+<programme start="20261126112500 +0000" stop="20261126113000 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-两京十五日-第13集</title></programme>
 <programme start="20261126113000 +0000" stop="20261126122540 +0000" channel="CCTV8.cn@SD"><title lang="zh">两京十五日13/26</title></programme>
-<programme start="20261126122540 +0000" stop="20261126123040 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-两京十五日-14/26</title></programme>
+<programme start="20261126122540 +0000" stop="20261126123040 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-两京十五日-第14集</title></programme>
 <programme start="20261126123040 +0000" stop="20261126132710 +0000" channel="CCTV8.cn@SD"><title lang="zh">两京十五日14/26</title></programme>
 <programme start="20261126132710 +0000" stop="20261126133210 +0000" channel="CCTV8.cn@SD"><title lang="zh">本集提要-小城大事-第32集</title></programme>
 <programme start="20261126133210 +0000" stop="20261126142210 +0000" channel="CCTV8.cn@SD"><title lang="zh">小城大事第32集</title></programme>
@@ -1667,7 +1667,7 @@
 <programme start="20261126071055 +0000" stop="20261126091300 +0000" channel="CCTV11.cn@SD"><title lang="zh">青春戏苑-2026-122 京剧《对花枪》</title></programme>
 <programme start="20261126091300 +0000" stop="20261126100330 +0000" channel="CCTV11.cn@SD"><title lang="zh">天龙八部第26集</title></programme>
 <programme start="20261126100330 +0000" stop="20261126110000 +0000" channel="CCTV11.cn@SD"><title lang="zh">天龙八部第27集</title></programme>
-<programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="CCTV11.cn@SD"><title lang="zh">青春戏苑-2026-396越剧《祥林嫂》专辑2</title></programme>
+<programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="CCTV11.cn@SD"><title lang="zh">青春戏苑-2026-384缅怀宋丹菊先生专辑</title></programme>
 <programme start="20261126113000 +0000" stop="20261126135615 +0000" channel="CCTV11.cn@SD"><title lang="zh">中国戏曲像音像集萃-2026-40黄梅戏《罗帕记》</title></programme>
 <programme start="20261126135615 +0000" stop="20261126144645 +0000" channel="CCTV11.cn@SD"><title lang="zh">承欢记第10集</title></programme>
 <programme start="20261126144645 +0000" stop="20261126153715 +0000" channel="CCTV11.cn@SD"><title lang="zh">承欢记第11集</title></programme>
